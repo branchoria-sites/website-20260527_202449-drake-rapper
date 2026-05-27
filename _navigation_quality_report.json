@@ -1,0 +1,217 @@
+{
+  "generated_at_utc": "2026-05-27T19:24:29.370203Z",
+  "summary": {
+    "total_pages_with_permalink": 10,
+    "visible_pages": 7,
+    "hidden_pages": 3,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "sample_edge_count": 39
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "edge_samples": [
+      {
+        "from": "Drake_the_rapper_e69d97",
+        "to": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883",
+        "type": "child"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97",
+        "to": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba",
+        "type": "child"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97",
+        "to": "Drake_the_rapper_e69d97_index",
+        "type": "child"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883",
+        "to": "Drake_the_rapper_e69d97",
+        "type": "parent"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883",
+        "to": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba",
+        "type": "sibling"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883",
+        "to": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_index",
+        "type": "child"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883",
+        "to": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab",
+        "type": "child"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883",
+        "to": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_scorpion_strea_a39a49",
+        "type": "child"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883",
+        "to": "Drake_the_rapper_e69d97",
+        "type": "ancestor"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba",
+        "to": "Drake_the_rapper_e69d97",
+        "type": "parent"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba",
+        "to": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883",
+        "type": "sibling"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba",
+        "to": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599",
+        "type": "child"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba",
+        "to": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_playlist_repla_0bec4e",
+        "type": "child"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba",
+        "to": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_index",
+        "type": "child"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba",
+        "to": "Drake_the_rapper_e69d97",
+        "type": "ancestor"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab",
+        "to": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883",
+        "type": "parent"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab",
+        "to": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_scorpion_strea_a39a49",
+        "type": "sibling"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab",
+        "to": "Drake_the_rapper_e69d97",
+        "type": "ancestor"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab",
+        "to": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883",
+        "type": "ancestor"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_scorpion_strea_a39a49",
+        "to": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883",
+        "type": "parent"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_scorpion_strea_a39a49",
+        "to": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab",
+        "type": "sibling"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_scorpion_strea_a39a49",
+        "to": "Drake_the_rapper_e69d97",
+        "type": "ancestor"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_scorpion_strea_a39a49",
+        "to": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883",
+        "type": "ancestor"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599",
+        "to": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba",
+        "type": "parent"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599",
+        "to": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_playlist_repla_0bec4e",
+        "type": "sibling"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599",
+        "to": "Drake_the_rapper_e69d97",
+        "type": "ancestor"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599",
+        "to": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_playlist_repla_0bec4e",
+        "to": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba",
+        "type": "parent"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_playlist_repla_0bec4e",
+        "to": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599",
+        "type": "sibling"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_playlist_repla_0bec4e",
+        "to": "Drake_the_rapper_e69d97",
+        "type": "ancestor"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_playlist_repla_0bec4e",
+        "to": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_index",
+        "to": "Drake_the_rapper_e69d97",
+        "type": "parent"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_index",
+        "to": "Drake_the_rapper_e69d97",
+        "type": "ancestor"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_index",
+        "to": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883",
+        "type": "parent"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_index",
+        "to": "Drake_the_rapper_e69d97",
+        "type": "ancestor"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_index",
+        "to": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883",
+        "type": "ancestor"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_index",
+        "to": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba",
+        "type": "parent"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_index",
+        "to": "Drake_the_rapper_e69d97",
+        "type": "ancestor"
+      },
+      {
+        "from": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_index",
+        "to": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba",
+        "type": "ancestor"
+      }
+    ]
+  }
+}

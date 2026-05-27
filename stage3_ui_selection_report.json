@@ -1,0 +1,52 @@
+{
+  "selection_strategy": "legacy-resolvers",
+  "ui_priority": "home-first",
+  "site_shape": {
+    "report_count": 7,
+    "max_level": 3,
+    "deep_report_count": 4,
+    "level_1_count": 1,
+    "level_counts": {
+      "1": 1,
+      "2": 2,
+      "3": 4
+    },
+    "max_children_any_node": 2,
+    "p90_children": 2,
+    "p90_topic_children": 2,
+    "avg_children": 2.0,
+    "primary_branch_count": 2,
+    "visible_nodes_depth_2": 3,
+    "visible_nodes_depth_3": 7,
+    "max_depth": 2,
+    "max_breadth": 4,
+    "breadth_by_depth": {
+      "0": 1,
+      "1": 2,
+      "2": 4
+    },
+    "p90_title_length": 12,
+    "root_density_tier": "sparse",
+    "top_branch_density_counts": {
+      "sparse": 1,
+      "balanced": 0,
+      "dense": 0,
+      "very-dense": 0
+    },
+    "long_title_branch_count": 0,
+    "single_root_tree": true,
+    "topic_labels": [
+      "Why Drake Still Runs the Conversation"
+    ]
+  },
+  "selected": {
+    "visual_profile": "atlas",
+    "layout_archetype": "atlas",
+    "home_layout_mode": "vertical",
+    "auto_home_layout_mode": "catalog",
+    "hierarchy_viz_mode": "tree-diagram",
+    "palette": "signal-cobalt",
+    "motif": "orbital"
+  },
+  "candidates": []
+}

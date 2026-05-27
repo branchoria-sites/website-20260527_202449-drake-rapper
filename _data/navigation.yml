@@ -1,0 +1,25 @@
+sidebar_generated:
+- title: Drake
+  title_full: Why Drake Still Runs the Conversation
+  url: /drake-the-rapper/
+  children:
+  - title: Albums
+    title_full: Which Drake Era Is Actually the Best? | Drake
+    url: /albums/
+    children:
+    - title: Streaming Era
+      title_full: Was Streaming Drake His Real Peak? | Albums
+      url: /streaming-era/
+    - title: Take Care
+      title_full: Why Fans Still Pick Take Care | Albums
+      url: /take-care/
+  - title: Charts
+    title_full: How Did Drake Get So Many Hits? | Drake
+    url: /charts/
+    children:
+    - title: Album Floods
+      title_full: Why Do Drake Albums Chart All at Once? | Charts
+      url: /album-floods/
+    - title: Replay Hits
+      title_full: Why Are Drake Songs So Easy to Replay? | Charts
+      url: /replay-hits/
