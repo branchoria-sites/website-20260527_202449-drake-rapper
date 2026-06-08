@@ -193,20 +193,22 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-05-27 20:23:31'
 child_links:
 - basename: Drake_the_rapper_e69d97_drake_albums_eras_cfe883
   title: Albums | Drake the rapper
   permalink: /albums/
   short_title: Albums
+  heading_title: Which Drake Era Is Actually the Best?
 - basename: Drake_the_rapper_e69d97_drake_chart_streamin_12caba
   title: Charts | Drake the rapper
   permalink: /charts/
   short_title: Charts
-date: '2026-05-27 20:23:31 '
+  heading_title: How Did Drake Get So Many Hits?
 header:
-  og_image: /assets/images/Drake_the_rapper_e69d97-Illustration-1-social.png
-  preview_image: /assets/images/Drake_the_rapper_e69d97-Illustration-1.png
-image: /assets/images/Drake_the_rapper_e69d97-Illustration-1-social.png
+  og_image: /assets/images/Drake_the_rapper_e69d97-overview-social.jpg
+  preview_image: /assets/images/Drake_the_rapper_e69d97-overview.webp
+image: /assets/images/Drake_the_rapper_e69d97-overview-social.jpg
 ---
 
 ## Introduction
@@ -214,7 +216,7 @@ image: /assets/images/Drake_the_rapper_e69d97-Illustration-1-social.png
 Drake is one of the most successful rappers of the [streaming era]({{ 'streaming-era/' | relative_url }}): a Toronto-born artist who moved from acting on *Degrassi: The Next Generation* to reshaping how rap, R&B and pop overlap. His biggest strength is not just rapping fast or singing smoothly; it is making music that feels like a late-night text, a flex, a confession and a playlist-ready hook all at once. That mix has made him huge with fans, dominant on charts, and endlessly debated by critics. Britannica describes his signature as a blend of singing and lyrical rapping, often switching between confidence and vulnerability, which is still the core of why Drake connects with so many listeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/biography/Drake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaDrake | Rapper, Iceman, Albums, Songs, Son, Record...3 days ago — Drake (born October 24, 1986, Toronto, Ontario...</span><span class="citation-popover-meta">Published: October 24, 1986</span></span></span>
 
 
-<img src="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-1-light.svg" | relative_url }}" alt="Drake the rapper illustration 1" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Drake_the_rapper_e69d97-overview.webp" | relative_url }}" alt="Overview image for Drake the rapper" loading="eager" decoding="sync" fetchpriority="high">
 The quick version: Drake matters because he helped make emotional, melodic rap feel normal at the centre of mainstream music. He also became a model for the modern superstar — part musician, part brand, part meme, part sports-world fixture, and part lightning rod for arguments about authenticity, ghostwriting, overexposure and rap beef. His career is not just a list of hit songs; it is a story about how hip-hop changed when streaming, social media and genre-blending became the default.
 
 ## How Drake became Drake
@@ -225,6 +227,8 @@ His breakthrough came through mixtapes, especially *So Far Gone* in 2009. The pr
 
 The other key figure in that early sound was producer Noah “40” Shebib. Along with Oliver El-Khatib, Drake and 40 became central to OVO Sound, the label and creative world tied to Drake’s Toronto identity. OVO’s official site describes the label as founded by Aubrey Drake Graham and long-time friends and partners Noah “40” Shebib and Oliver El-Khatib. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ovosound.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovosound.com">[ovosound.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovosound.com</span><span class="citation-popover-snippet">OVO SOUNDOVO Sound is a record label founded by Aubrey Drake Graham and long-time friends and partners Noah “40” Shebib and Oliver El-Kha...</span></span></span> For fans, that matters because “OVO” is not only a logo on hoodies; it is part of Drake’s whole world-building strategy — the owl, the Toronto pride, the winter-night mood, the in-house producers, the sense that his music belongs to a specific city and circle.
 
+
+<img src="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-1-dark.svg" | relative_url }}" alt="Drake the rapper illustration 1" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The sound: rap, R&B and late-night honesty
 
 Drake’s sound is often described as “melodic rap”, but that can make it seem simpler than it is. At his best, he moves between modes: sharp punchlines, sung hooks, reflective verses, club records, dancehall-influenced tracks, and R&B-style emotional scenes. A song such as “Marvins Room” is not built like a traditional rap anthem; it is closer to a messy voicemail turned into music. A song such as “Worst Behaviour” is pure defiance. “One Dance” pushed him into global pop and dancehall territory. “Nice for What” turned a Lauryn Hill sample into a bright, women-centred bounce record.
@@ -232,9 +236,6 @@ Drake’s sound is often described as “melodic rap”, but that can make it se
 His 2011 album *[Take Care]({{ 'take-care/' | relative_url }})* is usually treated as the classic Drake album because it made his emotional style feel fully formed. Pitchfork’s review described the record as music sitting between deep funk, quiet-storm 1990s R&B and James Blake-like minimalism, with subtle production that resisted the loud Euro-dance sound then crowding radio. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/reviews/albums/16039-take-care/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Take Care Album Review</span><span class="citation-popover-snippet">Take Care Album Review</span></span></span> That atmosphere became one of Drake’s strongest signatures: soft drums, spacious keyboards, icy textures and lyrics that sound like someone trying to win an argument while pretending not to care.
 
 That emotional style also made him divisive. Some listeners saw his openness about insecurity, jealousy and fame as refreshing. Others saw it as self-pity dressed up as vulnerability. Both reactions are part of Drake’s appeal. He gave fans lyrics for captions and private moods, but he also gave critics plenty of reasons to ask whether his sensitivity was honest, calculated, or both.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VqIdFWZyYXQ" title="Drake - Obey Your Thirst (Episode 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VqIdFWZyYXQ" target="_blank" rel="noopener noreferrer">Drake - Obey Your Thirst (Episode 1)</a></p><p class="youtube-embed-meta">Channel: The FADER &middot; Views: 1.8M &middot; Uploaded: June 2015 &middot; Length: 3 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VqIdFWZyYXQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VqIdFWZyYXQ">Open on YouTube</a></p></div></div></div>
 
 ## The albums and eras fans usually argue about
 
@@ -246,6 +247,9 @@ The later era is more contested. Projects such as *Scorpion*, *Certified Lover B
 
 For a new fan, the best way in is not necessarily chronological. Start with *Take Care* for the emotional blueprint, *Nothing Was the Same* for a focused album experience, *If You’re Reading This It’s Too Late* for tougher rap energy, and then singles such as “Hotline Bling”, “One Dance”, “God’s Plan”, “Nice for What” and “Nonstop” to understand why he became unavoidable.
 
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VqIdFWZyYXQ" title="Drake - Obey Your Thirst (Episode 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VqIdFWZyYXQ" target="_blank" rel="noopener noreferrer">Drake - Obey Your Thirst (Episode 1)</a></p><p class="youtube-embed-meta">Channel: The FADER &middot; Views: 1.8M &middot; Uploaded: June 2015 &middot; Length: 3 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VqIdFWZyYXQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VqIdFWZyYXQ">Open on YouTube</a></p></div></div></div>
+
 ## Why the numbers are so huge
 
 Drake’s chart success is not a side detail; it is one of the biggest parts of his story. Billboard has repeatedly tracked him as one of the most dominant Hot 100 artists, and in 2026 reported that he charted a record 42 songs on the Hot 100 simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/lists/drake-hot-100-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">Open source on billboard.com.</span></span></span> Billboard’s chart pages also noted that he became the first artist to earn 400 total Hot 100 hits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/[charts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">Open source on billboard.com.</span></span></span> Those records matter because they show how Drake’s career fits streaming: when he releases a major project, huge numbers of tracks can chart at once because fans stream whole albums, not just radio singles.
@@ -254,8 +258,6 @@ The Recording Academy lists Drake with 5 Grammy wins and 56 nominations through 
 
 RIAA certifications help explain the scale from another angle. The Recording Industry Association of America’s Gold & Platinum database lists many Drake and Drake-featured certifications across singles and albums, including updated certifications into 2025 and 2026. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/gold-%20platinum/?se=drake&amp;tab_active=default-award" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">Gold &amp; Platinum</span><span class="citation-popover-snippet">Gold &amp; Platinum</span></span></span> For fans, the plain meaning is simple: Drake songs do not just trend for a week. Many of them keep accumulating listens for years.
 
-
-<img src="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-2-light.svg" | relative_url }}" alt="Drake the rapper illustration 2" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Toronto is part of the brand, not just the birthplace
 
 Drake’s Toronto identity is one of his most important contributions. Before him, Toronto had successful artists, but it was not usually seen as a central city in mainstream hip-hop. Drake changed that by turning local references into global branding: “the 6”, OVO, the CN Tower, winter moods, Raptors courtside moments, and a whole network of Canadian collaborators.
@@ -264,6 +266,8 @@ His connection with the Toronto Raptors made that city branding even more visibl
 
 This is why Drake is not only discussed as a rapper. He is also a city symbol. For teenage fans, that can be part of the attraction: Drake made being from Toronto feel stylish, moody, international and culturally powerful. Even when people joke about his courtside behaviour or his shifting sports loyalties, the bigger point remains: he tied music, fashion, basketball and hometown pride into one recognisable image.
 
+
+<img src="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-2-dark.svg" | relative_url }}" alt="Drake the rapper illustration 2" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The criticism: why people argue about Drake so much
 
 Drake is admired, but he is rarely treated as a simple hero. One criticism is that he borrows too freely from scenes around him: dancehall, UK rap, Atlanta trap, Afrobeats, house, Memphis rap and other sounds. Supporters call that range and collaboration. Critics call it opportunism. The truth is probably more complicated: Drake has often used his platform to bring sounds to a bigger audience, but the power imbalance is real when a superstar can absorb underground or regional styles and get more credit than the people who built them.
@@ -271,9 +275,6 @@ Drake is admired, but he is rarely treated as a simple hero. One criticism is th
 Another criticism is overexposure. Because Drake releases so much music, some fans feel each project has fewer truly essential songs. In the streaming era, long albums can perform well because every track counts towards chart activity, but listeners can also feel tired by the volume. That is why a Drake album can break records and still be met with a shrug from people who think he is repeating himself.
 
 The ghostwriting debate also shaped how some rap fans judge him. Hip-hop has long valued authorship, lyrical credibility and personal voice. Drake’s defenders argue that collaboration is normal in pop and that his voice, delivery and taste are still unmistakably his. Critics argue that a top rapper should be held to a stricter standard. The debate has never fully disappeared because it touches a bigger question: is Drake best understood as a rapper, a pop star, a curator, or all three?
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0YPMV6iTy-U" title="Drake - So Far Gone MIXTAPE REVIEW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0YPMV6iTy-U" target="_blank" rel="noopener noreferrer">Drake - So Far Gone MIXTAPE REVIEW</a></p><p class="youtube-embed-meta">Channel: theneedledrop &middot; Views: 406.7K &middot; Uploaded: February 2019 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0YPMV6iTy-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0YPMV6iTy-U">Open on YouTube</a></p></div></div></div>
 
 ## The Kendrick Lamar feud changed the mood around him
 
@@ -284,7 +285,7 @@ The legal aftermath made the story even bigger. Reuters reported that in October
 For fans, the important point is not just who “won” the beef. It is how the battle affected Drake’s image. He had spent years looking almost unbeatable: chart records, viral moments, major collaborations, constant visibility. The Kendrick feud showed that popularity and control are not the same thing. Drake could still be huge, but he no longer seemed untouchable in the same way.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5Hv2NcB-XIM" title="Drake&#x27;s Plan E1: Building the Dream Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5Hv2NcB-XIM" target="_blank" rel="noopener noreferrer">Drake&#x27;s Plan E1: Building the Dream Team</a></p><p class="youtube-embed-meta">Channel: CBC Music &middot; Views: 104.2K &middot; Uploaded: December 2019 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5Hv2NcB-XIM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5Hv2NcB-XIM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0YPMV6iTy-U" title="Drake - So Far Gone MIXTAPE REVIEW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0YPMV6iTy-U" target="_blank" rel="noopener noreferrer">Drake - So Far Gone MIXTAPE REVIEW</a></p><p class="youtube-embed-meta">Channel: theneedledrop &middot; Views: 406.7K &middot; Uploaded: February 2019 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0YPMV6iTy-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0YPMV6iTy-U">Open on YouTube</a></p></div></div></div>
 
 ## What makes Drake appealing to fans
 
@@ -295,7 +296,8 @@ He is also extremely quotable. Drake understands short lines, hooks and phrases 
 His catalogue also gives different kinds of fans different versions of him. Some love sad Drake. Some want rapper Drake. Some prefer dancehall Drake, toxic relationship Drake, luxury Drake, meme Drake, or feature Drake. That flexibility keeps him relevant even when people disagree about which Drake is “real”.
 
 
-<img src="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-3-light.svg" | relative_url }}" alt="Drake the rapper illustration 3" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5Hv2NcB-XIM" title="Drake&#x27;s Plan E1: Building the Dream Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5Hv2NcB-XIM" target="_blank" rel="noopener noreferrer">Drake&#x27;s Plan E1: Building the Dream Team</a></p><p class="youtube-embed-meta">Channel: CBC Music &middot; Views: 104.2K &middot; Uploaded: December 2019 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5Hv2NcB-XIM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5Hv2NcB-XIM">Open on YouTube</a></p></div></div></div>
+
 ## How to understand his legacy now
 
 Drake’s legacy is already secure in one sense: the numbers, hits and influence are too large to ignore. He helped make singing-rapping a mainstream default, pushed Toronto further into global pop culture, mastered the streaming-era release strategy, and built one of the most recognisable brands in modern music. Billboard’s repeated chart coverage and the Recording Academy’s awards database both show a career operating at a scale very few artists reach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/awards/drake-more-life-grammy-awards-submission-8014878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">drake more life grammy awards submission 8014878</span><span class="citation-popover-snippet">drake more life grammy awards submission 8014878</span></span></span>
@@ -303,6 +305,401 @@ Drake’s legacy is already secure in one sense: the numbers, hits and influence
 The more interesting question is how people will rank him artistically. To some fans, he is one of the greatest hitmakers rap has ever produced. To some critics, he is more of a brilliant adapter than a great innovator. To many listeners, he is both: a rapper who changed the sound of mainstream music, but also a superstar whose later work can feel too calculated.
 
 That tension is exactly why Drake remains worth talking about. He is not just popular; he is a test case for what modern music rewards. Is greatness about classic albums, technical rapping, emotional connection, cultural impact, streaming dominance, or staying relevant for over a decade? Drake’s career forces that debate because he scores highly in some categories, divides opinion in others, and keeps adding new chapters before the argument can settle.
+
+
+<img src="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-3-dark.svg" | relative_url }}" alt="Drake the rapper illustration 3" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Drake Still Runs the Conversation. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tupac+Shakur+by+Staci+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tupac Shakur on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qcaqEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Tupac Shakur" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Tupac+Shakur+by+Staci+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tupac Shakur">Tupac Shakur</a>
+        </h4>
+        <p class="fr-book-author">By Staci Robinson</p>
+        
+        <p class="fr-book-desc">Helps contextualise Drake inside the evolution of modern hip-hop culture.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Tupac+Shakur+by+Staci+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Contact+High+by+Vikki+Tobak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contact High on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TfVuDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Contact High" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Contact+High+by+Vikki+Tobak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contact High">Contact High</a>
+        </h4>
+        <p class="fr-book-author">By Vikki Tobak</p>
+        
+        <p class="fr-book-desc">Captures the celebrity-image culture and visual branding central to artists like Drake.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Contact+High+by+Vikki+Tobak&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hip+Hop+Raised+Me+by+DJ+Semtex&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hip Hop Raised Me on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FtWNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hip Hop Raised Me" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Hip+Hop+Raised+Me+by+DJ+Semtex&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hip Hop Raised Me">Hip Hop Raised Me</a>
+        </h4>
+        <p class="fr-book-author">By DJ Semtex</p>
+        
+        <p class="fr-book-desc">Explains the wider rap ecosystem Drake emerged from and helped reshape.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Hip+Hop+Raised+Me+by+DJ+Semtex&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rap+Capital+by+Joe+Coscarelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rap Capital on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TYyKEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rap Capital" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Rap+Capital+by+Joe+Coscarelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rap Capital">Rap Capital</a>
+        </h4>
+        <p class="fr-book-author">By Joe Coscarelli</p>
+        
+        <p class="fr-book-desc">Explores the modern rap industry and hit-making environment Drake dominates.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Rap+Capital+by+Joe+Coscarelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tupac+Shakur&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tupac Shakur</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Contact+High&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contact High</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hip+Hop+Raised+Me&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hip Hop Raised Me</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+rapper+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake rapper poster -book -books" data-ebay-reference="drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake Rapper Party Supplies Backdrop Banner Poster Vinyl 5x3ft Theme Party"><img src="{{ '/assets/images/marketplace-covers/5da3a9e979ff899726d2.jpg' | relative_url }}" alt="Listing image for Drake Rapper Party Supplies Backdrop Banner Poster Vinyl 5x3ft Theme Party" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+rapper+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake rapper poster -book -books" data-ebay-reference="drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Drake Rapper Party Supplies Backdrop Banner Poster Vinyl 5x3ft Theme Party</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+rapper+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake rapper poster -book -books" data-ebay-reference="drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake rapper poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake rapper poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+rapper+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake rapper poster -book -books" data-ebay-reference="drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+rapper+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake rapper poster -book -books" data-ebay-reference="drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake Music Rapper Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9dcd570b5a41106a7b49.jpg' | relative_url }}" alt="Listing image for Drake Music Rapper Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+rapper+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake rapper poster -book -books" data-ebay-reference="drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Drake Music Rapper Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+rapper+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake rapper poster -book -books" data-ebay-reference="drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake rapper poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake rapper poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+rapper+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake rapper poster -book -books" data-ebay-reference="drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+rapper+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake rapper poster -book -books" data-ebay-reference="drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake Rapper Canvas Poster 12x18” UNFRAMED"><img src="{{ '/assets/images/marketplace-covers/0fff8f5269985b45a1d5.jpg' | relative_url }}" alt="Listing image for Drake Rapper Canvas Poster 12x18” UNFRAMED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+rapper+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake rapper poster -book -books" data-ebay-reference="drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Drake Rapper Canvas Poster 12x18” UNFRAMED</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+rapper+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake rapper poster -book -books" data-ebay-reference="drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake rapper poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake rapper poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+rapper+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake rapper poster -book -books" data-ebay-reference="drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+rapper+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake rapper poster -book -books" data-ebay-reference="drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DRAKE - Minimalist Hip Hop Heads Hair Poster Minimal Posteritty Art Rapper Dance"><img src="{{ '/assets/images/marketplace-covers/115cb1ccc4a1c9078806.jpg' | relative_url }}" alt="Listing image for DRAKE - Minimalist Hip Hop Heads Hair Poster Minimal Posteritty Art Rapper Dance" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+rapper+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake rapper poster -book -books" data-ebay-reference="drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">DRAKE - Minimalist Hip Hop Heads Hair Poster Minimal Posteritty Art Rapper Dance</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+rapper+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake rapper poster -book -books" data-ebay-reference="drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake rapper poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake rapper poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+rapper+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake rapper poster -book -books" data-ebay-reference="drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+rapper+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake rapper poster -book -books" data-ebay-reference="drake-the-rapper-why-drake-still-runs-the-conversation-drake-rapper-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
 
 ## Endnotes
 
@@ -686,410 +1083,3 @@ That tension is exactly why Drake remains worth talking about. He is not just po
 84. <a id="endnote-84"></a>
    Source: hiphopscriptures.com  
    Link: [https://www.hiphopscriptures.com/drake](https://www.hiphopscriptures.com/drake)  
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Drake Still Runs the Conversation. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tupac+Shakur+by+Staci+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tupac Shakur on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qcaqEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Tupac Shakur" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tupac+Shakur+by+Staci+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tupac Shakur">Tupac Shakur</a>
-        </h4>
-        <p class="fr-book-author">By Staci Robinson</p>
-        
-        <p class="fr-book-desc">Helps contextualise Drake inside the evolution of modern hip-hop culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tupac+Shakur+by+Staci+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Contact+High+by+Vikki+Tobak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contact High on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TfVuDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Contact High" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Contact+High+by+Vikki+Tobak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contact High">Contact High</a>
-        </h4>
-        <p class="fr-book-author">By Vikki Tobak</p>
-        
-        <p class="fr-book-desc">Captures the celebrity-image culture and visual branding central to artists like Drake.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Contact+High+by+Vikki+Tobak&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hip+Hop+Raised+Me+by+DJ+Semtex&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hip Hop Raised Me on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FtWNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hip Hop Raised Me" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hip+Hop+Raised+Me+by+DJ+Semtex&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hip Hop Raised Me">Hip Hop Raised Me</a>
-        </h4>
-        <p class="fr-book-author">By DJ Semtex</p>
-        
-        <p class="fr-book-desc">Explains the wider rap ecosystem Drake emerged from and helped reshape.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hip+Hop+Raised+Me+by+DJ+Semtex&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rap+Capital+by+Joe+Coscarelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rap Capital on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TYyKEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rap Capital" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rap+Capital+by+Joe+Coscarelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rap Capital">Rap Capital</a>
-        </h4>
-        <p class="fr-book-author">By Joe Coscarelli</p>
-        
-        <p class="fr-book-desc">Explores the modern rap industry and hit-making environment Drake dominates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rap+Capital+by+Joe+Coscarelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tupac+Shakur&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tupac Shakur</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Contact+High&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contact High</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hip+Hop+Raised+Me&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hip Hop Raised Me</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake &amp; The Weeknd Dual Autographed Photo – COA – Rare Signed Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/e48917d4a4957475c73b.jpg' | relative_url }}" alt="Listing image for Drake &amp; The Weeknd Dual Autographed Photo – COA – Rare Signed Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Drake &amp; The Weeknd Dual Autographed Photo – COA – Rare Signed Music Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drake memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: drake memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2024 Panini Zenith - Turning Pro Memorabilia Drake Maye #TPM-DME (MEM, RC)"><img src="{{ '/assets/images/marketplace-covers/83a2da471e078c6037ea.jpg' | relative_url }}" alt="Listing image for 2024 Panini Zenith - Turning Pro Memorabilia Drake Maye #TPM-DME (MEM, RC)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2024 Panini Zenith - Turning Pro Memorabilia Drake Maye #TPM-DME (MEM, RC)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drake memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: drake memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2022 Panini Black RC Rookie Influx Memorabilia Drake London #18/50 #RIM-DLO"><img src="{{ '/assets/images/marketplace-covers/1704b089e3de365fc8c2.jpg' | relative_url }}" alt="Listing image for 2022 Panini Black RC Rookie Influx Memorabilia Drake London #18/50 #RIM-DLO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2022 Panini Black RC Rookie Influx Memorabilia Drake London #18/50 #RIM-DLO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drake memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: drake memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gold Plated LP Vinyl - Drake - Memorabilia Gift | PGR"><img src="{{ '/assets/images/marketplace-covers/b973abcd25e40f29f35b.jpg' | relative_url }}" alt="Listing image for Gold Plated LP Vinyl - Drake - Memorabilia Gift | PGR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gold Plated LP Vinyl - Drake - Memorabilia Gift | PGR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drake memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: drake memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aubrey Graham known as Drake / Memorabilia /CD/ Souvenir in black frame /Hip Hop"><img src="{{ '/assets/images/marketplace-covers/3f5baabea5db9ba9d668.jpg' | relative_url }}" alt="Listing image for Aubrey Graham known as Drake / Memorabilia /CD/ Souvenir in black frame /Hip Hop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Aubrey Graham known as Drake / Memorabilia /CD/ Souvenir in black frame /Hip Hop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drake memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: drake memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DRAKE LONDON 2022 PANINI PHOENIX ROOKIE AUTHENTIC JERSEY MEMORABILIA /149 RC"><img src="{{ '/assets/images/marketplace-covers/9d616c21b69e389ea8ee.jpg' | relative_url }}" alt="Listing image for DRAKE LONDON 2022 PANINI PHOENIX ROOKIE AUTHENTIC JERSEY MEMORABILIA /149 RC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DRAKE LONDON 2022 PANINI PHOENIX ROOKIE AUTHENTIC JERSEY MEMORABILIA /149 RC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drake memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: drake memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake Signed Gold Disc Album Ltd Edition Framed Picture Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ebaead6bfcf0fa27b448.jpg' | relative_url }}" alt="Listing image for Drake Signed Gold Disc Album Ltd Edition Framed Picture Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Drake Signed Gold Disc Album Ltd Edition Framed Picture Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drake memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: drake memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DRAKE SIGNED SELECTION LIMITED EDITION MEMORABILIA A4 AUTOGRAPHED PRINTS"><img src="{{ '/assets/images/marketplace-covers/c321cc03056977bc58ea.jpg' | relative_url }}" alt="Listing image for DRAKE SIGNED SELECTION LIMITED EDITION MEMORABILIA A4 AUTOGRAPHED PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DRAKE SIGNED SELECTION LIMITED EDITION MEMORABILIA A4 AUTOGRAPHED PRINTS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drake memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: drake memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drake+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drake-the-rapper-why-drake-still-runs-the-conversation-drake-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function inferFromLocale() {
-    var languages = [];
-    try {
-      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
-      else if (navigator.language) languages = [navigator.language];
-    } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
-      var normalized = normalize(languages[i]);
-      if (!normalized) continue;
-      if (localeMarketMap[normalized]) return localeMarketMap[normalized];
-      var languageOnly = normalized.split('-')[0];
-      if (localeMarketMap[languageOnly]) return localeMarketMap[languageOnly];
-    }
-    return '';
-  }
-  function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
-      var rule = timezoneRules[i] || {};
-      try {
-        if (new RegExp(rule.pattern).test(tz)) return rule.market;
-      } catch (err) {}
-    }
-    return '';
-  }
-  function inferMarket(available, options) {
-    available = Array.isArray(available) ? available : [];
-    options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
-    try {
-      var saved = window.localStorage && localStorage.getItem(storageKey);
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var localeMarket = inferFromLocale();
-    if (localeMarket && available.indexOf(localeMarket) >= 0) return localeMarket;
-    var timezoneMarket = inferFromTimezone();
-    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
-    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
-  }
-  window.PhoenixAffiliateLocation = {
-    normalize: normalize,
-    inferMarket: inferMarket,
-    inferFromLocale: inferFromLocale,
-    inferFromTimezone: inferFromTimezone
-  };
-})();
-</script>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
-  if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
-  }
-  function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function closeMenu(section) {
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var picker = section.querySelector('.fr-ebay-market-picker');
-    if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
-    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
-    var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
-    }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
-    });
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    if (trigger && menu) {
-      trigger.addEventListener('click', function (event) {
-        event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
-        menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-        var picker = trigger.closest('.fr-ebay-market-picker');
-        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
-      });
-      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.addEventListener('click', function (event) {
-          event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
-        });
-      });
-      document.addEventListener('click', function () { closeMenu(section); });
-    }
-    selectMarket(inferMarket(available), false);
-  });
-})();
-</script>
-</section>
