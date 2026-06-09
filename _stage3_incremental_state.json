@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "generated_at_utc": "2026-06-08T21:37:49.286604Z",
+  "generated_at_utc": "2026-06-09T16:06:37.315454Z",
   "incremental_enabled": true,
   "files": {
     "Drake_the_rapper_e69d97": {
@@ -11,8 +11,8 @@
         "title": "Why Drake Still Runs the Conversation",
         "permalink": "/drake-the-rapper/",
         "word_count": 9777,
-        "char_count": 83404,
-        "line_count": 470,
+        "char_count": 83808,
+        "line_count": 873,
         "heading_count": 12,
         "h2_count": 11,
         "h3_count": 1,
@@ -22,24 +22,39 @@
         "url_count": 154,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 52,
-        "inline_internal_link_count": 4,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
-        "internal_link_hit_paragraph_cap": true,
+        "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
         "mojibake_hit_count": 0,
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 302,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 417,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Drake_the_rapper_e69d97_drake_albums_eras_cfe883": {
@@ -50,8 +65,8 @@
         "title": "Which Drake Era Is Actually the Best?",
         "permalink": "/albums/",
         "word_count": 8015,
-        "char_count": 68638,
-        "line_count": 314,
+        "char_count": 69050,
+        "line_count": 725,
         "heading_count": 15,
         "h2_count": 6,
         "h3_count": 9,
@@ -61,9 +76,9 @@
         "url_count": 91,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 47,
-        "inline_internal_link_count": 2,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -71,14 +86,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 366,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 481,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Drake_the_rapper_e69d97_drake_chart_streamin_12caba": {
@@ -89,8 +119,8 @@
         "title": "How Did Drake Get So Many Hits?",
         "permalink": "/charts/",
         "word_count": 8728,
-        "char_count": 75846,
-        "line_count": 373,
+        "char_count": 76257,
+        "line_count": 783,
         "heading_count": 14,
         "h2_count": 8,
         "h3_count": 6,
@@ -100,9 +130,9 @@
         "url_count": 106,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 46,
-        "inline_internal_link_count": 2,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -110,14 +140,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 362,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 477,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab": {
@@ -128,8 +173,8 @@
         "title": "Why Fans Still Pick Take Care",
         "permalink": "/take-care/",
         "word_count": 8251,
-        "char_count": 71463,
-        "line_count": 286,
+        "char_count": 71869,
+        "line_count": 691,
         "heading_count": 7,
         "h2_count": 6,
         "h3_count": 1,
@@ -139,9 +184,9 @@
         "url_count": 105,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 47,
-        "inline_internal_link_count": 1,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -149,14 +194,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 279,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 394,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_scorpion_strea_a39a49": {
@@ -167,8 +227,8 @@
         "title": "Was Streaming Drake His Real Peak?",
         "permalink": "/streaming-era/",
         "word_count": 9067,
-        "char_count": 78731,
-        "line_count": 303,
+        "char_count": 79134,
+        "line_count": 705,
         "heading_count": 7,
         "h2_count": 6,
         "h3_count": 1,
@@ -178,24 +238,39 @@
         "url_count": 110,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 48,
-        "inline_internal_link_count": 3,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
-        "internal_link_hit_paragraph_cap": true,
+        "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
         "mojibake_hit_count": 0,
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 302,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 417,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599": {
@@ -206,8 +281,8 @@
         "title": "Why Do Drake Albums Chart All at Once?",
         "permalink": "/album-floods/",
         "word_count": 7920,
-        "char_count": 69223,
-        "line_count": 268,
+        "char_count": 69631,
+        "line_count": 675,
         "heading_count": 11,
         "h2_count": 7,
         "h3_count": 4,
@@ -217,9 +292,9 @@
         "url_count": 95,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 48,
-        "inline_internal_link_count": 3,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -227,14 +302,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 327,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 442,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_playlist_repla_0bec4e": {
@@ -245,8 +335,8 @@
         "title": "Why Are Drake Songs So Easy to Replay?",
         "permalink": "/replay-hits/",
         "word_count": 8323,
-        "char_count": 72006,
-        "line_count": 298,
+        "char_count": 72418,
+        "line_count": 709,
         "heading_count": 12,
         "h2_count": 8,
         "h3_count": 4,
@@ -256,9 +346,9 @@
         "url_count": 102,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 48,
-        "inline_internal_link_count": 2,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -266,24 +356,39 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 335,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 450,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     }
   },
   "summary": {
     "processed_pages": 7,
-    "reused_pages": 0,
-    "rebuilt_pages": 7,
+    "reused_pages": 7,
+    "rebuilt_pages": 0,
     "error_pages": 0,
     "removed_stale_pages": 0,
-    "removed_superseded_png_assets": 14,
+    "removed_superseded_png_assets": 0,
     "total_tracked_pages": 7
   }
 }
