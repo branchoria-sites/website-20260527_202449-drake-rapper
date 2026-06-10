@@ -254,7 +254,7 @@ Drake became one of the defining artists of the [streaming era]({{ 'streaming-er
 
 
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba-Illustration-1-dark.svg" | relative_url }}" alt="Charts illustration 1" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-By the mid-2020s, Drake had accumulated more than 360 Billboard Hot 100 entries, more than 80 top-10 hits and double-digit No. 1 singles. Billboard and RIAA data also placed him among the most commercially successful digital artists ever. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/artist/drake/chart-history/hsi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">BillboardDrake | Biography, Music &amp; NewsDrake. Billboard Hot 100™. 13 No. 1 Hits. 362 Songs. 81 Top 10 Hits. Billboard Hot 100™. Billboar...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/goldandplatinum.php?content_selector=top-artists-digital-singles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">Gold &amp; Platinum</span><span class="citation-popover-snippet">RIAAGold &amp; Platinum - RIAAArtist; SHARE. DRAKE, 277.5; SHARE. MORGAN WALLEN, 215; SHARE. RIHANNA, 199; SHARE. EMINEM, 167...Read more...</span></span></span> But the interesting part is not only the numbers. It is the mechanism behind them: long tracklists, instantly recognisable hooks, strategic collaborations, emotional replay value and an understanding of streaming culture that often seemed years ahead of rivals.
+By the mid-2020s, Drake had accumulated more than 360 Billboard Hot 100 entries, more than 80 top-10 hits and double-digit No. 1 singles. Billboard and RIAA data also placed him among the most commercially successful digital artists ever. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/artist/drake/chart-history/hsi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">Drake &#124; Biography, Music &amp; NewsDrake. Billboard Hot 100™. 13 No. 1 Hits. 362 Songs. 81 Top 10 Hits. Billboard Hot 100™. Billboar...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/goldandplatinum.php?content_selector=top-artists-digital-singles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">Gold &amp; Platinum</span><span class="citation-popover-snippet">Gold &amp; Platinum - RIAAArtist; SHARE. DRAKE, 277.5; SHARE. MORGAN WALLEN, 215; SHARE. RIHANNA, 199; SHARE. EMINEM, 167...Read more...</span></span></span> But the interesting part is not only the numbers. It is the mechanism behind them: long tracklists, instantly recognisable hooks, strategic collaborations, emotional replay value and an understanding of streaming culture that often seemed years ahead of rivals.
 
 ## How Did Drake Get So Many Hits?
 
@@ -352,7 +352,7 @@ Streaming favours artists who can hold attention constantly instead of disappear
 
 He released music frequently, appeared on huge guest features and maintained a near-permanent online presence. Instead of treating albums as rare events separated by years, he operated more like a continuous content engine.
 
-Researchers studying Billboard chart history found that streaming-era charts increasingly favour established hitmakers, with fewer new artists breaking through and top songs staying dominant for longer periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.07574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivIs it getting harder to make a hit? Evidence from 65 years of US music chart historyMay 13, 2024...</span><span class="citation-popover-meta">Published: May 13, 2024</span></span></span> Drake became one of the clearest examples of that pattern.
+Researchers studying Billboard chart history found that streaming-era charts increasingly favour established hitmakers, with fewer new artists breaking through and top songs staying dominant for longer periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.07574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Is it getting harder to make a hit? Evidence from 65 years of US music chart historyMay 13, 2024...</span><span class="citation-popover-meta">Published: May 13, 2024</span></span></span> Drake became one of the clearest examples of that pattern.
 
 His music also crossed genre boundaries more easily than many earlier rap stars. Streaming platforms blur genre divisions because listeners jump between styles quickly. Drake could appear beside rappers, pop singers or dance artists without sounding out of place.
 
@@ -364,7 +364,7 @@ That flexibility helped him avoid becoming trapped in one musical lane. Even whe
 
 Drake’s commercial numbers became so large that they started to reshape discussions about music records themselves.
 
-RIAA certification data placed him among the highest-certified digital singles artists ever, with hundreds of millions of certified units. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/gold-%20platinum/?col=highest_level&amp;ord=desc&amp;se=drake&amp;tab_active=default-award" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">Gold &amp; Platinum</span><span class="citation-popover-snippet">RIAADRAKE ·...</span></span></span> He also accumulated a huge number of Diamond-certified songs, including hits such as “God’s Plan”, “One Dance” and “Hotline Bling”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_highest-certified_music_artists_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of highest-certified music artists in the United States</span><span class="citation-popover-snippet">List of highest-certified music artists in the United States</span></span></span>
+RIAA certification data placed him among the highest-certified digital singles artists ever, with hundreds of millions of certified units. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/gold-%20platinum/?col=highest_level&amp;ord=desc&amp;se=drake&amp;tab_active=default-award" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">Gold &amp; Platinum</span><span class="citation-popover-snippet">DRAKE ·...</span></span></span> He also accumulated a huge number of Diamond-certified songs, including hits such as “God’s Plan”, “One Dance” and “Hotline Bling”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_highest-certified_music_artists_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of highest-certified music artists in the United States</span><span class="citation-popover-snippet">List of highest-certified music artists in the United States</span></span></span>
 
 Spotify records told a similar story. *Scorpion* and later *Certified Lover Boy* broke major single-day streaming records on release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.udiscovermusic.com/news/drake-certified-lover-boy-spotify-streaming-record/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: udiscovermusic.com">[uDiscover Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">udiscovermusic.com</span><span class="citation-popover-title">drake certified lover boy spotify streaming record</span><span class="citation-popover-snippet">uDiscover MusicDrake&#x27;s &#x27;Certified Lover Boy&#x27; Spotify&#x27;s Most-Streamed...5 Sept 2021 — Drake&#x27;s sixth studio album Certified Lover Boy has...</span></span></span>
 
@@ -802,177 +802,177 @@ Even artists who reject his style still operate in an industry shaped by the rul
 
 1. <a id="endnote-1"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/artist/drake/chart-history/hsi/](https://www.billboard.com/artist/drake/chart-history/hsi/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BillboardDrake | Biography, Music &amp; NewsDrake. Billboard Hot 100™. 13 No. 1 Hits. 362 Songs. 81 Top 10 Hits. Billboard Hot 100™. Billboar...</p></details>
+   Link: <a href="https://www.billboard.com/artist/drake/chart-history/hsi/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/artist/drake/chart-history/hsi/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake | Biography, Music &amp; NewsDrake. Billboard Hot 100™. 13 No. 1 Hits. 362 Songs. 81 Top 10 Hits. Billboard Hot 100™. Billboar...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: riaa.com  
    Title: Gold & Platinum  
-   Link: [https://www.riaa.com/goldandplatinum.php?content_selector=top-artists-digital-singles](https://www.riaa.com/goldandplatinum.php?content_selector=top-artists-digital-singles)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAAGold &amp; Platinum - RIAAArtist; SHARE. DRAKE, 277.5; SHARE. MORGAN WALLEN, 215; SHARE. RIHANNA, 199; SHARE. EMINEM, 167...Read more...</p></details>
+   Link: <a href="https://www.riaa.com/goldandplatinum.php?content_selector=top-artists-digital-singles" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/goldandplatinum.php?content_selector=top-artists-digital-singles</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gold &amp; Platinum - RIAAArtist; SHARE. DRAKE, 277.5; SHARE. MORGAN WALLEN, 215; SHARE. RIHANNA, 199; SHARE. EMINEM, 167...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: open.spotify.com  
    Title: Certified Lover Boy  
-   Link: [https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV)  
+   Link: <a href="https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake. 202121 songs, 1 hr 26 min. Champagne Poetry. E. Drake · Papi&#x27;s Home. E. Drake · Girls Want Girls (with Lil Baby). E. Drake, Lil Ba...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Billboard ranks all 327 of Hot 100 hits from Drake  
-   Link: [https://www.reddit.com/r/hiphopheads/comments/1avrogm/billboard_ranks_all_327_of_hot_100_hits_from_drake/](https://www.reddit.com/r/hiphopheads/comments/1avrogm/billboard_ranks_all_327_of_hot_100_hits_from_drake/)  
+   Link: <a href="https://www.reddit.com/r/hiphopheads/comments/1avrogm/billboard_ranks_all_327_of_hot_100_hits_from_drake/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hiphopheads/comments/1avrogm/billboard_ranks_all_327_of_hot_100_hits_from_drake/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake now has 10 albums charting on Billboard 200, tying Taylor Swift for most albums currently by an artist.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2405.07574](https://arxiv.org/abs/2405.07574)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivIs it getting harder to make a hit? Evidence from 65 years of US music chart historyMay 13, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2405.07574" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.07574</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is it getting harder to make a hit? Evidence from 65 years of US music chart historyMay 13, 2024...</p></details>
    Published: May 13, 2024  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: List of highest-certified music artists in the United States  
-   Link: [https://en.wikipedia.org/wiki/List_of_highest-certified_music_artists_in_the_United_States](https://en.wikipedia.org/wiki/List_of_highest-certified_music_artists_in_the_United_States)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_highest-certified_music_artists_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_highest-certified_music_artists_in_the_United_States</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: List of highest-certified digital singles in the United States  
-   Link: [https://en.wikipedia.org/wiki/List_of_highest-certified_digital_singles_in_the_United_States](https://en.wikipedia.org/wiki/List_of_highest-certified_digital_singles_in_the_United_States)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_highest-certified_digital_singles_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_highest-certified_digital_singles_in_the_United_States</a>  
 
 8. <a id="endnote-8"></a>
    Source: riaa.com  
    Title: Gold & Platinum  
-   Link: [https://www.riaa.com/gold-%20platinum/?col=highest_level&ord=desc&se=drake&tab_active=default-award](https://www.riaa.com/gold-%20platinum/?col=highest_level&ord=desc&se=drake&tab_active=default-award)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAADRAKE ·...</p></details>
+   Link: <a href="https://www.riaa.com/gold-%20platinum/?col=highest_level&amp;ord=desc&amp;se=drake&amp;tab_active=default-award" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/gold-%20platinum/?col=highest_level&amp;ord=desc&amp;se=drake&amp;tab_active=default-award</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>DRAKE ·...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/artist/drake/](https://www.billboard.com/artist/drake/)  
+   Link: <a href="https://www.billboard.com/artist/drake/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/artist/drake/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biography, Music &amp; News1. He&#x27;s gone on to have multiple Hot 100 hits, including 2018&#x27;s &quot;God&#x27;s Plan,&quot; &quot;Work&quot; with Rihanna in 2016, and 202...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/gold-platinum/](https://www.riaa.com/gold-platinum/)  
+   Link: <a href="https://www.riaa.com/gold-platinum/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/gold-platinum/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA Gold &amp; PlatinumRIAA&#x27;s historic Gold® &amp; Platinum® Program defines success in the recorded music industry. Originally conceived to hon...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: riaa.com  
    Title: Gold & Platinum  
-   Link: [https://www.riaa.com/gold-%20platinum/?col=label&ord=asc&se=drake&tab_active=default-award](https://www.riaa.com/gold-%20platinum/?col=label&ord=asc&se=drake&tab_active=default-award)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAADRAKE ·...</p></details>
+   Link: <a href="https://www.riaa.com/gold-%20platinum/?col=label&amp;ord=asc&amp;se=drake&amp;tab_active=default-award" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/gold-%20platinum/?col=label&amp;ord=asc&amp;se=drake&amp;tab_active=default-award</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>DRAKE ·...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: riaa.com  
    Title: Gold & Platinum  
-   Link: [https://www.riaa.com/gold-%20platinum/?col=certification_date&ord=asc&se=drake&tab_active=default-award](https://www.riaa.com/gold-%20platinum/?col=certification_date&ord=asc&se=drake&tab_active=default-award)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAADRAKE...</p></details>
+   Link: <a href="https://www.riaa.com/gold-%20platinum/?col=certification_date&amp;ord=asc&amp;se=drake&amp;tab_active=default-award" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/gold-%20platinum/?col=certification_date&amp;ord=asc&amp;se=drake&amp;tab_active=default-award</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>DRAKE...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: riaa.com  
    Title: Gold & Platinum  
-   Link: [https://www.riaa.com/gold-%20platinum/?se=drake&tab_active=default-award](https://www.riaa.com/gold-%20platinum/?se=drake&tab_active=default-award)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAARIAA&#x27;s historic Gold® &amp; Platinum® Program defines success in the recorded music industry. Originally conceived to honor artists and t...</p></details>
+   Link: <a href="https://www.riaa.com/gold-%20platinum/?se=drake&amp;tab_active=default-award" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/gold-%20platinum/?se=drake&amp;tab_active=default-award</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA&#x27;s historic Gold® &amp; Platinum® Program defines success in the recorded music industry. Originally conceived to honor artists and t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: riaa.com  
    Title: Gold & Platinum  
-   Link: [https://www.riaa.com/gold-%20platinum/?col=artist&ord=asc&se=drake&tab_active=default-award](https://www.riaa.com/gold-%20platinum/?col=artist&ord=asc&se=drake&tab_active=default-award)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAADRAKE...</p></details>
+   Link: <a href="https://www.riaa.com/gold-%20platinum/?col=artist&amp;ord=asc&amp;se=drake&amp;tab_active=default-award" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/gold-%20platinum/?col=artist&amp;ord=asc&amp;se=drake&amp;tab_active=default-award</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>DRAKE...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: riaa.com  
    Title: Gold & Platinum  
-   Link: [https://www.riaa.com/gold-%20platinum/?col=label&ord=desc&se=drake&tab_active=default-award](https://www.riaa.com/gold-%20platinum/?col=label&ord=desc&se=drake&tab_active=default-award)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAADRAKE ·...</p></details>
+   Link: <a href="https://www.riaa.com/gold-%20platinum/?col=label&amp;ord=desc&amp;se=drake&amp;tab_active=default-award" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/gold-%20platinum/?col=label&amp;ord=desc&amp;se=drake&amp;tab_active=default-award</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>DRAKE ·...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_chart_achievements_and_milestones](https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_chart_achievements_and_milestones)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_chart_achievements_and_milestones" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_chart_achievements_and_milestones</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Billboard Hot 100 chart achievements and milestones&quot;The Albums With The Most Top 10 Billboard Hot 100 Hits: Drake&#x27;s &#x27;Certified...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Drake (musician)  
-   Link: [https://en.wikipedia.org/wiki/Drake_%28musician%29](https://en.wikipedia.org/wiki/Drake_%28musician%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Drake_%28musician%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Drake_%28musician%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake (musician)He has achieved 14 Billboard 200 number-one albums, a joint-record among male soloists, and 13 Billboard Hot 100 numbe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Certified Lover Boy  
-   Link: [https://en.wikipedia.org/wiki/Certified_Lover_Boy](https://en.wikipedia.org/wiki/Certified_Lover_Boy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Certified_Lover_Boy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Certified_Lover_Boy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Certified Lover BoyIt broke Apple Music and Spotify 2021 records for largest streaming debut within a single day, beating Drake&#x27;s own...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/popheads/comments/ztsym1/drake_surpasses_eminem_as_highestcertified/](https://www.reddit.com/r/popheads/comments/ztsym1/drake_surpasses_eminem_as_highestcertified/)  
+   Link: <a href="https://www.reddit.com/r/popheads/comments/ztsym1/drake_surpasses_eminem_as_highestcertified/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/ztsym1/drake_surpasses_eminem_as_highestcertified/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>who is at 166 million.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/popheads/comments/phihdx/drakes_certified_lover_boy_becomes_spotifys_most/](https://www.reddit.com/r/popheads/comments/phihdx/drakes_certified_lover_boy_becomes_spotifys_most/)  
+   Link: <a href="https://www.reddit.com/r/popheads/comments/phihdx/drakes_certified_lover_boy_becomes_spotifys_most/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/phihdx/drakes_certified_lover_boy_becomes_spotifys_most/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It definitely has better songs. Fountain, Race My Mind, Heartbreak. I think NWTS, Scorpion, IYRTL...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/popheads/comments/1kxpv50/drake_breaks_record_with_10_riaa_diamond/](https://www.reddit.com/r/popheads/comments/1kxpv50/drake_breaks_record_with_10_riaa_diamond/)  
+   Link: <a href="https://www.reddit.com/r/popheads/comments/1kxpv50/drake_breaks_record_with_10_riaa_diamond/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/1kxpv50/drake_breaks_record_with_10_riaa_diamond/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>) 21 in total once he updates · First Artist in history to surpass...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4)  
+   Link: <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comDrake... Billboard Hot 100, making him the first male artist to accomplish that feat. Drake followed up with a slew of guest s...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: royaltyexchange.com  
    Title: kendrick lamar breaks chart records as drake exits hot 100  
-   Link: [https://royaltyexchange.com/blog/kendrick-lamar-breaks-chart-records-as-drake-exits-hot-100](https://royaltyexchange.com/blog/kendrick-lamar-breaks-chart-records-as-drake-exits-hot-100)  
+   Link: <a href="https://royaltyexchange.com/blog/kendrick-lamar-breaks-chart-records-as-drake-exits-hot-100" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/kendrick-lamar-breaks-chart-records-as-drake-exits-hot-100</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kendrick Lamar Breaks Chart Records as Drake Exits Hot...14 Oct 2024 — For the first time since April 2022, Drake is absent from the Bil...</p></details>
    Published: April 2022  
 
 24. <a id="endnote-24"></a>
    Source: businessinsider.com  
    Title: Business Insider The 13 artists with the most No  
-   Link: [https://www.businessinsider.com/artists-with-most-no-1-songs-billboard-hot-100-chart](https://www.businessinsider.com/artists-with-most-no-1-songs-billboard-hot-100-chart)  
+   Link: <a href="https://www.businessinsider.com/artists-with-most-no-1-songs-billboard-hot-100-chart" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/artists-with-most-no-1-songs-billboard-hot-100-chart</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 singles on the Billboard Hot 100This article highlights the 13 artists with the most No. 1 singles on the Billboard Hot 100, showcasing...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: businessinsider.com  
    Title: Business Insider Only 91 songs have debuted at No  
-   Link: [https://www.businessinsider.com/every-no-1-song-debut-billboard-hot-100](https://www.businessinsider.com/every-no-1-song-debut-billboard-hot-100)  
+   Link: <a href="https://www.businessinsider.com/every-no-1-song-debut-billboard-hot-100" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/every-no-1-song-debut-billboard-hot-100</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 in the history of the Billboard Hot 100 - here they all areSince the Billboard Hot 100 adopted modern tracking methods in 1991, only 91...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: thesource.com  
-   Link: [https://thesource.com/2025/02/27/drake-becomes-first-artist-to-score-100-top-10s-on-billboards-streaming-songs-chart/](https://thesource.com/2025/02/27/drake-becomes-first-artist-to-score-100-top-10s-on-billboards-streaming-songs-chart/)  
+   Link: <a href="https://thesource.com/2025/02/27/drake-becomes-first-artist-to-score-100-top-10s-on-billboards-streaming-songs-chart/" target="_blank" rel="noopener noreferrer nofollow">https://thesource.com/2025/02/27/drake-becomes-first-artist-to-score-100-top-10s-on-billboards-streaming-songs-chart/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The SourceDrake Becomes First Artist to Score 100 Top 10s...Feb 27, 2025 — Drake has made history as the first artist to achieve 100 top...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: udiscovermusic.com  
    Title: drake certified lover boy spotify streaming record  
-   Link: [https://www.udiscovermusic.com/news/drake-certified-lover-boy-spotify-streaming-record/](https://www.udiscovermusic.com/news/drake-certified-lover-boy-spotify-streaming-record/)  
+   Link: <a href="https://www.udiscovermusic.com/news/drake-certified-lover-boy-spotify-streaming-record/" target="_blank" rel="noopener noreferrer nofollow">https://www.udiscovermusic.com/news/drake-certified-lover-boy-spotify-streaming-record/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uDiscover MusicDrake&#x27;s &#x27;Certified Lover Boy&#x27; Spotify&#x27;s Most-Streamed...5 Sept 2021 — Drake&#x27;s sixth studio album Certified Lover Boy has...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/drake-iceman-habibti-maid-of-honour-albums-chart-records-reviews-2026-5](https://www.businessinsider.com/drake-iceman-habibti-maid-of-honour-albums-chart-records-reviews-2026-5)  
+   Link: <a href="https://www.businessinsider.com/drake-iceman-habibti-maid-of-honour-albums-chart-records-reviews-2026-5" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/drake-iceman-habibti-maid-of-honour-albums-chart-records-reviews-2026-5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This bold move, characterized by sheer volume over artistic evolution, highlights Drake&#x27;s savvy business mindset. The albums, though comm...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: udiscovermusic.com  
    Title: drake billboard hot 100 record  
-   Link: [https://www.udiscovermusic.com/news/drake-billboard-hot-100-record/](https://www.udiscovermusic.com/news/drake-billboard-hot-100-record/)  
+   Link: <a href="https://www.udiscovermusic.com/news/drake-billboard-hot-100-record/" target="_blank" rel="noopener noreferrer nofollow">https://www.udiscovermusic.com/news/drake-billboard-hot-100-record/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake Breaks Record For Most &#x27;Billboard&#x27; Hot 100 EntriesMar 17, 2020 — Drake has since earned 36 Top Ten hits on the Hot 100 and six No.1...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: udiscovermusic.com  
    Title: drake no 1 debuts billboard hot 100  
-   Link: [https://www.udiscovermusic.com/news/drake-no-1-debuts-billboard-hot-100/](https://www.udiscovermusic.com/news/drake-no-1-debuts-billboard-hot-100/)  
+   Link: <a href="https://www.udiscovermusic.com/news/drake-no-1-debuts-billboard-hot-100/" target="_blank" rel="noopener noreferrer nofollow">https://www.udiscovermusic.com/news/drake-no-1-debuts-billboard-hot-100/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake Breaks Record For Most No.1 Debuts On Billboard...10 May 2022 — Drake has broken his tie with Ariana Grande and BTS to be crowned...</p></details>
    Published: May 2022  
 
 31. <a id="endnote-31"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/07/05/billboards-charts-used-to-be-our-barometer-for-music-success-are-they-meaningless-in-the-streaming-age/](https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/07/05/billboards-charts-used-to-be-our-barometer-for-music-success-are-they-meaningless-in-the-streaming-age/)  
+   Link: <a href="https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/07/05/billboards-charts-used-to-be-our-barometer-for-music-success-are-they-meaningless-in-the-streaming-age/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/07/05/billboards-charts-used-to-be-our-barometer-for-music-success-are-they-meaningless-in-the-streaming-age/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard&#x27;s charts used to be our barometer for music...5 Jul 2018 — And, despite its own lackluster reviews, Drake&#x27;s “Scorpion” utterly...</p></details>
 
 ### Additional References
@@ -980,53 +980,53 @@ Even artists who reject his style still operate in an industry shaped by the rul
 32. <a id="endnote-32"></a>
    Source: facebook.com  
    Title: back in 2018 spotify heavily promoted drakes album scorpion helping him get to n  
-   Link: [https://www.facebook.com/according2hiphop2/posts/back-in-2018-spotify-heavily-promoted-drakes-album-scorpion-helping-him-get-to-n/1099591281559826/](https://www.facebook.com/according2hiphop2/posts/back-in-2018-spotify-heavily-promoted-drakes-album-scorpion-helping-him-get-to-n/1099591281559826/)  
+   Link: <a href="https://www.facebook.com/according2hiphop2/posts/back-in-2018-spotify-heavily-promoted-drakes-album-scorpion-helping-him-get-to-n/1099591281559826/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/according2hiphop2/posts/back-in-2018-spotify-heavily-promoted-drakes-album-scorpion-helping-him-get-to-n/1099591281559826/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Back in 2018, Spotify heavily promoted Drake&#x27;s album “...♻️ Drake&#x27;s &#x27;Certified Lover Boy&#x27; album Impact ▫️ 5b+ streams on Spotify ▫️ Neve...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYtBBkVt7nd/](https://www.instagram.com/reel/DYtBBkVt7nd/)  
+   Link: <a href="https://www.instagram.com/reel/DYtBBkVt7nd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYtBBkVt7nd/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Hot 100 hits, 81 Top 10 hits, and 362 Hot 100 entries, which reflects how often his songs perform well...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Billboard/posts/drake-extends-his-record-for-the-most-career-entries-on-the-hot100-this-week-upp/1014405223893389/](https://www.facebook.com/Billboard/posts/drake-extends-his-record-for-the-most-career-entries-on-the-hot100-this-week-upp/1014405223893389/)  
+   Link: <a href="https://www.facebook.com/Billboard/posts/drake-extends-his-record-for-the-most-career-entries-on-the-hot100-this-week-upp/1014405223893389/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/drake-extends-his-record-for-the-most-career-entries-on-the-hot100-this-week-upp/1014405223893389/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>upping his total from 338 to 358, thanks to tracks from his new album with...Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RIAA/posts/drake-has-the-most-riaa-diamond-certifications-of-any-artist-ever-hold-on-were-g/1162918262544165/](https://www.facebook.com/RIAA/posts/drake-has-the-most-riaa-diamond-certifications-of-any-artist-ever-hold-on-were-g/1162918262544165/)  
+   Link: <a href="https://www.facebook.com/RIAA/posts/drake-has-the-most-riaa-diamond-certifications-of-any-artist-ever-hold-on-were-g/1162918262544165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RIAA/posts/drake-has-the-most-riaa-diamond-certifications-of-any-artist-ever-hold-on-were-g/1162918262544165/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, Drake is ranked as the highest-certified digital singles...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: revolt.tv  
    Title: revisiting drake billboard hot 100 no 1 songs  
-   Link: [https://www.revolt.tv/article/revisiting-drake-billboard-hot-100-no-1-songs](https://www.revolt.tv/article/revisiting-drake-billboard-hot-100-no-1-songs)  
+   Link: <a href="https://www.revolt.tv/article/revisiting-drake-billboard-hot-100-no-1-songs" target="_blank" rel="noopener noreferrer nofollow">https://www.revolt.tv/article/revisiting-drake-billboard-hot-100-no-1-songs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting Drake&#x27;s Billboard Hot 100 No. 1 songs23 Jul 2025 — Drake has earned 13 Billboard Hot 100 No. 1 hits — more than any other rapp...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYXza_dCN05/?hl=en-gb&img_index=14](https://www.instagram.com/p/DYXza_dCN05/?hl=en-gb&img_index=14)  
+   Link: <a href="https://www.instagram.com/p/DYXza_dCN05/?hl=en-gb&amp;img_index=14" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYXza_dCN05/?hl=en-gb&amp;img_index=14</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Views — 12B+ From classics to chart-topping hits, Drake...Read more...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: complex.com  
    Title: drake has the most hot 100 entries ever  
-   Link: [https://www.complex.com/music/a/j-rose/drake-has-the-most-hot-100-entries-ever](https://www.complex.com/music/a/j-rose/drake-has-the-most-hot-100-entries-ever)  
+   Link: <a href="https://www.complex.com/music/a/j-rose/drake-has-the-most-hot-100-entries-ever" target="_blank" rel="noopener noreferrer nofollow">https://www.complex.com/music/a/j-rose/drake-has-the-most-hot-100-entries-ever</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>His 2017 project, More Life, also had all 22 of its tracks reach the Hot 100 chart. That would be the catalyst that lifted Drake above hi...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/djenvy/posts/drakes-take-care-album-has-officially-been-certified-riaa-diamond-after-selling-/1366850914808089/](https://www.facebook.com/djenvy/posts/drakes-take-care-album-has-officially-been-certified-riaa-diamond-after-selling-/1366850914808089/)  
+   Link: <a href="https://www.facebook.com/djenvy/posts/drakes-take-care-album-has-officially-been-certified-riaa-diamond-after-selling-/1366850914808089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/djenvy/posts/drakes-take-care-album-has-officially-been-certified-riaa-diamond-after-selling-/1366850914808089/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ling 10 Million Units...becoming his first ever diamond...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: xxlmag.com  
    Title: drake top digital singles artist  
-   Link: [https://www.xxlmag.com/drake-top-digital-singles-artist/](https://www.xxlmag.com/drake-top-digital-singles-artist/)  
+   Link: <a href="https://www.xxlmag.com/drake-top-digital-singles-artist/" target="_blank" rel="noopener noreferrer nofollow">https://www.xxlmag.com/drake-top-digital-singles-artist/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake Becomes RIAA&#x27;s Top Certified Digital Singles Artist2 Jul 2018 — According to the RIAA, Drake has moved a total of 142 million digit...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: guinnessworldrecords.com  
-   Link: [https://www.guinnessworldrecords.com/world-records/118853-biggest-selling-digital-artist-us](https://www.guinnessworldrecords.com/world-records/118853-biggest-selling-digital-artist-us)  
+   Link: <a href="https://www.guinnessworldrecords.com/world-records/118853-biggest-selling-digital-artist-us" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/world-records/118853-biggest-selling-digital-artist-us</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Biggest-selling digital singles artist (USA)Drake has scored 80 platinum, 38 multi-platinum (both unmatched by any other act) and three d...</p></details>

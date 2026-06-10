@@ -254,7 +254,7 @@ When a new Drake album drops, the Billboard Hot 100 can suddenly look less like 
 
 
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599-Illustration-1-dark.svg" | relative_url }}" alt="Album Floods illustration 1" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In the [streaming era]({{ 'streaming-era/' | relative_url }}), every play counts. Fans no longer buy one single and ignore the rest of the album. They stream whole projects on release weekend, replay favourite songs instantly and add album tracks to playlists within hours. Drake’s long [albums]({{ 'albums/' | relative_url }}), huge fanbase and playlist-friendly style make him especially powerful inside that system. The result is a chart “flood”: dozens of songs entering the Hot 100 simultaneously, sometimes rewriting chart records in a single week. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thefader.com/2018/07/09/drake-breaks-beatles-record-scorpion-top-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thefader.com">[The FADER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thefader.com</span><span class="citation-popover-title">drake breaks beatles record scorpion top 10</span><span class="citation-popover-snippet">The FADERDrake breaks 54-year-old Beatles record with seven...Jul 9, 2018 — Seven songs from Drake&#x27;s new album Scorpion are in the top 1...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/pro/drake-certified-lover-boy-hot-100-top-40-every-track/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">BillboardDrake Lands 21 &#x27;Certified Lover Boy&#x27; Tracks in Hot 100 Top...Sep 13, 2021 — Drake Dominates With Record 9 of Top 10 on Billboar...</span></span></span>
+In the [streaming era]({{ 'streaming-era/' | relative_url }}), every play counts. Fans no longer buy one single and ignore the rest of the album. They stream whole projects on release weekend, replay favourite songs instantly and add album tracks to playlists within hours. Drake’s long [albums]({{ 'albums/' | relative_url }}), huge fanbase and playlist-friendly style make him especially powerful inside that system. The result is a chart “flood”: dozens of songs entering the Hot 100 simultaneously, sometimes rewriting chart records in a single week. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thefader.com/2018/07/09/drake-breaks-beatles-record-scorpion-top-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thefader.com">[The FADER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thefader.com</span><span class="citation-popover-title">drake breaks beatles record scorpion top 10</span><span class="citation-popover-snippet">The FADERDrake breaks 54-year-old Beatles record with seven...Jul 9, 2018 — Seven songs from Drake&#x27;s new album Scorpion are in the top 1...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/pro/drake-certified-lover-boy-hot-100-top-40-every-track/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">Drake Lands 21 &#x27;Certified Lover Boy&#x27; Tracks in Hot 100 Top...Sep 13, 2021 — Drake Dominates With Record 9 of Top 10 on Billboar...</span></span></span>
 
 ## How Streaming Turned Every Album Track Into a Potential Hit
 
@@ -264,7 +264,7 @@ Streaming changed that mechanism completely. Billboard now measures on-demand st
 
 That matters enormously for an artist like Drake because his audience listens at scale and immediately. Opening weekend becomes a mass event. Fans stream the album front to back, debate favourites online, clip lyrics for TikTok and add tracks to playlists all within the same few days.
 
-The [charts]({{ 'charts/' | relative_url }}) respond in real time. In 2018, every one of the 25 songs from *Scorpion* reached the Hot 100. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/pro/drake-scorpion-fourth-album-record-7-hot-100-top-10s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">BillboardThe 7 God: Drake&#x27;s &#x27;Scorpion&#x27; Is Just Fourth Album With...Jul 10, 2018 — Drake could still break the mark for the most Hot 100...</span></span></span> In 2021, *Certified Lover Boy* placed 21 tracks inside the Hot 100 Top 40, with Drake holding nine of the Top 10 spots simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/artist/drake/chart-history/hsi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">Drake | Biography, Music &amp; NewsDrake. Billboard Hot 100™. 13 No. 1 Hits. 362 Songs. 81 Top 10 Hits. Billboard Hot 100™. Billboard Hot 100...</span></span></span>
+The [charts]({{ 'charts/' | relative_url }}) respond in real time. In 2018, every one of the 25 songs from *Scorpion* reached the Hot 100. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/pro/drake-scorpion-fourth-album-record-7-hot-100-top-10s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">The 7 God: Drake&#x27;s &#x27;Scorpion&#x27; Is Just Fourth Album With...Jul 10, 2018 — Drake could still break the mark for the most Hot 100...</span></span></span> In 2021, *Certified Lover Boy* placed 21 tracks inside the Hot 100 Top 40, with Drake holding nine of the Top 10 spots simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/artist/drake/chart-history/hsi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">Drake &#124; Biography, Music &amp; NewsDrake. Billboard Hot 100™. 13 No. 1 Hits. 362 Songs. 81 Top 10 Hits. Billboard Hot 100™. Billboard Hot 100...</span></span></span>
 
 Those moments looked shocking compared with older chart eras, but they followed the logic of streaming exactly. If every track is instantly available and instantly counted, then superstar albums can overwhelm the singles chart.
 
@@ -762,162 +762,163 @@ The result is one of the defining images of streaming-era music: a Drake album r
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: thefader.com  
    Title: drake breaks beatles record scorpion top 10  
-   Link: [https://www.thefader.com/2018/07/09/drake-breaks-beatles-record-scorpion-top-10](https://www.thefader.com/2018/07/09/drake-breaks-beatles-record-scorpion-top-10)  
+   Link: <a href="https://www.thefader.com/2018/07/09/drake-breaks-beatles-record-scorpion-top-10" target="_blank" rel="noopener noreferrer nofollow">https://www.thefader.com/2018/07/09/drake-breaks-beatles-record-scorpion-top-10</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The FADERDrake breaks 54-year-old Beatles record with seven...Jul 9, 2018 — Seven songs from Drake&#x27;s new album Scorpion are in the top 1...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/pro/drake-certified-lover-boy-hot-100-top-40-every-track/](https://www.billboard.com/pro/drake-certified-lover-boy-hot-100-top-40-every-track/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BillboardDrake Lands 21 &#x27;Certified Lover Boy&#x27; Tracks in Hot 100 Top...Sep 13, 2021 — Drake Dominates With Record 9 of Top 10 on Billboar...</p></details>
+   Link: <a href="https://www.billboard.com/pro/drake-certified-lover-boy-hot-100-top-40-every-track/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/drake-certified-lover-boy-hot-100-top-40-every-track/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake Lands 21 &#x27;Certified Lover Boy&#x27; Tracks in Hot 100 Top...Sep 13, 2021 — Drake Dominates With Record 9 of Top 10 on Billboar...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/pro/drake-scorpion-fourth-album-record-7-hot-100-top-10s/](https://www.billboard.com/pro/drake-scorpion-fourth-album-record-7-hot-100-top-10s/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BillboardThe 7 God: Drake&#x27;s &#x27;Scorpion&#x27; Is Just Fourth Album With...Jul 10, 2018 — Drake could still break the mark for the most Hot 100...</p></details>
+   Link: <a href="https://www.billboard.com/pro/drake-scorpion-fourth-album-record-7-hot-100-top-10s/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/drake-scorpion-fourth-album-record-7-hot-100-top-10s/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 7 God: Drake&#x27;s &#x27;Scorpion&#x27; Is Just Fourth Album With...Jul 10, 2018 — Drake could still break the mark for the most Hot 100...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Billboard Hot 100  
-   Link: [https://en.wikipedia.org/wiki/Billboard_Hot_100](https://en.wikipedia.org/wiki/Billboard_Hot_100)  
+   Link: <a href="https://en.wikipedia.org/wiki/Billboard_Hot_100" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Billboard_Hot_100</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — The Billboard Hot 100, also known as simply the Hot 100, is the music industry standard record chart in the United States...</p></details>
    Published: May 11, 2026  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Album-equivalent unit  
-   Link: [https://en.wikipedia.org/wiki/Album-equivalent_unit](https://en.wikipedia.org/wiki/Album-equivalent_unit)  
+   Link: <a href="https://en.wikipedia.org/wiki/Album-equivalent_unit" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Album-equivalent_unit</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Album-equivalent unitKnown as TEA (track equivalent album) and SEA (streaming equivalent album) when originally implemented, 10 song s...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Certified Lover Boy  
-   Link: [https://en.wikipedia.org/wiki/Certified_Lover_Boy](https://en.wikipedia.org/wiki/Certified_Lover_Boy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Certified_Lover_Boy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Certified_Lover_Boy</a>  
 
 7. <a id="endnote-7"></a>
    Source: chartdata.org  
    Title: CHART DATAFrequently Asked Questions (FAQ)  
-   Link: [https://chartdata.org/faq/](https://chartdata.org/faq/)  
+   Link: <a href="https://chartdata.org/faq/" target="_blank" rel="noopener noreferrer nofollow">https://chartdata.org/faq/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chart DataThus, 1,250 premium streams or 3,750 free streams from the same album is equivalent to 1 album unit. SPS means sales plus strea...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Scorpion (Drake album)  
-   Link: [https://en.wikipedia.org/wiki/Scorpion_%28Drake_album%29](https://en.wikipedia.org/wiki/Scorpion_%28Drake_album%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Scorpion_%28Drake_album%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scorpion_%28Drake_album%29</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Billboard (magazine)  
-   Link: [https://en.wikipedia.org/wiki/Billboard_%28magazine%29](https://en.wikipedia.org/wiki/Billboard_%28magazine%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Billboard_%28magazine%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Billboard_%28magazine%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard (magazine)Billboard (stylized in lowercase since 2013) is an American music and entertainment magazine published weekly by P...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: RIAA certification  
-   Link: [https://en.wikipedia.org/wiki/RIAA_certification](https://en.wikipedia.org/wiki/RIAA_certification)  
+   Link: <a href="https://en.wikipedia.org/wiki/RIAA_certification" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RIAA_certification</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA certificationEach permanent digital album or physical album sale; · 10 tracks from the album downloaded; · 1,500 on-demand audio...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/artist/drake/chart-history/hsi/](https://www.billboard.com/artist/drake/chart-history/hsi/)  
+   Link: <a href="https://www.billboard.com/artist/drake/chart-history/hsi/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/artist/drake/chart-history/hsi/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake | Biography, Music &amp; NewsDrake. Billboard Hot 100™. 13 No. 1 Hits. 362 Songs. 81 Top 10 Hits. Billboard Hot 100™. Billboard Hot 100...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/pro/drake-hot-100-record-nice-for-what-scorpion/](https://www.billboard.com/pro/drake-hot-100-record-nice-for-what-scorpion/)  
+   Link: <a href="https://www.billboard.com/pro/drake-hot-100-record-nice-for-what-scorpion/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/drake-hot-100-record-nice-for-what-scorpion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake Claims Record 7 of Hot 100&#x27;s Top 10, &#x27;Nice For What...Jul 9, 2018 — Drake Claims 7 of Hot 100&#x27;s Top 10, Breaking the Beatles&#x27; Reco...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: billboard.com  
    Title: drake hot 100 records  
-   Link: [https://www.billboard.com/lists/drake-hot-100-records/](https://www.billboard.com/lists/drake-hot-100-records/)  
+   Link: <a href="https://www.billboard.com/lists/drake-hot-100-records/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/lists/drake-hot-100-records/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake&#x27;s Hot 100 RecordsDrake scored nine top 10s from his 2021 album Certified Lover Boy, a record at the time, but broken by Taylor Swif...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Billboard/posts/drakes-hot-100-records-are-numerous-here-are-all-the-record-he-has-and-hasnt-bro/1247417677258808/](https://www.facebook.com/Billboard/posts/drakes-hot-100-records-are-numerous-here-are-all-the-record-he-has-and-hasnt-bro/1247417677258808/)  
+   Link: <a href="https://www.facebook.com/Billboard/posts/drakes-hot-100-records-are-numerous-here-are-all-the-record-he-has-and-hasnt-bro/1247417677258808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/drakes-hot-100-records-are-numerous-here-are-all-the-record-he-has-and-hasnt-bro/1247417677258808/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Certified Lover Boy (2021), achieved nine top 10 hits...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Billboard/](https://www.facebook.com/Billboard/)  
+   Link: <a href="https://www.facebook.com/Billboard/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15030012 likes · 303328 talking about this. Your destination for the world&#x27;s most popular music charts, news, videos, analysis, events +...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/c/Billboard](https://www.youtube.com/c/Billboard)  
+   Link: <a href="https://www.youtube.com/c/Billboard" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/c/Billboard</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BillboardBillboard&#x27;s YouTube channel brings you exclusive interviews with chart-topping artists, one-of-a-kind studio performance session...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: chartdata.org  
    Title: 'Scorpion' By the Numbers  
-   Link: [https://chartdata.org/2018/07/15/scorpion-by-the-numbers/](https://chartdata.org/2018/07/15/scorpion-by-the-numbers/)  
+   Link: <a href="https://chartdata.org/2018/07/15/scorpion-by-the-numbers/" target="_blank" rel="noopener noreferrer nofollow">https://chartdata.org/2018/07/15/scorpion-by-the-numbers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chart DataJul 15, 2018 — Drake placed a record 27 songs on the Hot 100 for the week ending July 14. A record breaking 25 songs from a sin...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: drake.fandom.com  
-   Link: [https://drake.fandom.com/wiki/Scorpion](https://drake.fandom.com/wiki/Scorpion)  
+   Link: <a href="https://drake.fandom.com/wiki/Scorpion" target="_blank" rel="noopener noreferrer nofollow">https://drake.fandom.com/wiki/Scorpion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake Wiki - FandomOn the July 14, 2018 Hot 100 chart, all 25 songs were listed, beating the record of 22 entries by his previous release...</p></details>
    Published: July 14, 2018  
 
 19. <a id="endnote-19"></a>
    Source: x.com  
-   Link: [https://x.com/billboardskz/status/2008195636068565486?lang=en](https://x.com/billboardskz/status/2008195636068565486?lang=en)  
+   Link: <a href="https://x.com/billboardskz/status/2008195636068565486?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/billboardskz/status/2008195636068565486?lang=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard New Chart Rules on Streaming this 2026...Now, it only takes 1,000 premium streams or 2,500 free streams (1:2.5) to equate an...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/gold-platinum/certification-criteria/](https://www.riaa.com/gold-platinum/certification-criteria/)  
+   Link: <a href="https://www.riaa.com/gold-platinum/certification-criteria/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/gold-platinum/certification-criteria/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Certification CriteriaEach award has qualified based on mandatory requirements. These include requisite sales and streaming figures, cons...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/1k3kyb7/eli5_how_are_album_sales_really_calculated_in/](https://www.reddit.com/r/explainlikeimfive/comments/1k3kyb7/eli5_how_are_album_sales_really_calculated_in/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1k3kyb7/eli5_how_are_album_sales_really_calculated_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1k3kyb7/eli5_how_are_album_sales_really_calculated_in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5 How are album sales really calculated in this era of...Specifically, 1,500 on-demand audio or video streams are equivalent to 10 tr...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/phmusicworld00/posts/chart-rules-just-changed-billboard-has-changed-the-formula-for-the-billboard-200/1169615761984087/](https://www.facebook.com/phmusicworld00/posts/chart-rules-just-changed-billboard-has-changed-the-formula-for-the-billboard-200/1169615761984087/)  
+   Link: <a href="https://www.facebook.com/phmusicworld00/posts/chart-rules-just-changed-billboard-has-changed-the-formula-for-the-billboard-200/1169615761984087/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/phmusicworld00/posts/chart-rules-just-changed-billboard-has-changed-the-formula-for-the-billboard-200/1169615761984087/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Ratios (per 1 Album Unit): Paid/Subscription StreamsThe changes mean 33.3% fewer ad-supported streams and 20% fewer paid/subscription...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/gold-platinum/about-awards/](https://www.riaa.com/gold-platinum/about-awards/)  
+   Link: <a href="https://www.riaa.com/gold-platinum/about-awards/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/gold-platinum/about-awards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA Gold &amp; Platinum ProgramThe formula of 150 on-demand streams is equivalent to one download sale. Quantity All versions count once tow...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: support.luminatedata.com  
-   Link: [https://support.luminatedata.com/portal/en/kb/articles/equivalent-weighting](https://support.luminatedata.com/portal/en/kb/articles/equivalent-weighting)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SupportEquivalent weighting: Measuring music consumption1 purchased album = 1 album. Weighted Streams + Weighted Song Sales + Album sales...</p></details>
+   Link: <a href="https://support.luminatedata.com/portal/en/kb/articles/equivalent-weighting" target="_blank" rel="noopener noreferrer nofollow">https://support.luminatedata.com/portal/en/kb/articles/equivalent-weighting</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Equivalent weighting: Measuring music consumption1 purchased album = 1 album. Weighted Streams + Weighted Song Sales + Album sales...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40FiveXT/whats-an-album-sale-to-the-riaa-in-the-digital-era-1e1bc976f543](https://medium.com/%40FiveXT/whats-an-album-sale-to-the-riaa-in-the-digital-era-1e1bc976f543)  
+   Link: <a href="https://medium.com/%40FiveXT/whats-an-album-sale-to-the-riaa-in-the-digital-era-1e1bc976f543" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40FiveXT/whats-an-album-sale-to-the-riaa-in-the-digital-era-1e1bc976f543</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WHAT&#x27;S AN ALBUM SALE TO THE RIAA IN THE DIGITAL...Firstly, “1,500 on-demand audio and/or video streams from the album count as 1 Unit fo...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/hughmcintyre/2018/07/09/drake-scores-seven-simultaneous-top-10-hits-beating-a-record-set-by-the-beatles-50-years-ago/](https://www.forbes.com/sites/hughmcintyre/2018/07/09/drake-scores-seven-simultaneous-top-10-hits-beating-a-record-set-by-the-beatles-50-years-ago/)  
+   Link: <a href="https://www.forbes.com/sites/hughmcintyre/2018/07/09/drake-scores-seven-simultaneous-top-10-hits-beating-a-record-set-by-the-beatles-50-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/hughmcintyre/2018/07/09/drake-scores-seven-simultaneous-top-10-hits-beating-a-record-set-by-the-beatles-50-years-ago/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake Scores Seven Simultaneous Top 10 Hits, Setting A...Jul 9, 2018 — Drake&#x27;s name appears in seven of the top 10 spots on the Hot 100...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/on-demand-streams-to-count-more-under-billboards-new-method-for-measuring-chart-hits/](https://www.musicbusinessworldwide.com/on-demand-streams-to-count-more-under-billboards-new-method-for-measuring-chart-hits/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/on-demand-streams-to-count-more-under-billboards-new-method-for-measuring-chart-hits/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/on-demand-streams-to-count-more-under-billboards-new-method-for-measuring-chart-hits/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On-demand streams to count more under Billboard&#x27;s new...17 Dec 2025 — Currently, one “album consumption unit” is equal to one sale of an...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: resetera.com  
    Title: drake debuts 7 tracks in top 10 of hot 100 all 25 scorpion tracks chart.54320  
-   Link: [https://www.resetera.com/threads/drake-debuts-7-tracks-in-top-10-of-hot-100-all-25-scorpion-tracks-chart.54320/](https://www.resetera.com/threads/drake-debuts-7-tracks-in-top-10-of-hot-100-all-25-scorpion-tracks-chart.54320/)  
+   Link: <a href="https://www.resetera.com/threads/drake-debuts-7-tracks-in-top-10-of-hot-100-all-25-scorpion-tracks-chart.54320/" target="_blank" rel="noopener noreferrer nofollow">https://www.resetera.com/threads/drake-debuts-7-tracks-in-top-10-of-hot-100-all-25-scorpion-tracks-chart.54320/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake debuts 7 tracks in Top 10 of Hot 100, All 25...Jul 9, 2018 — Drake debuts 7 tracks in Top 10 of Hot 100, All 25 &quot;Scorpion&quot; tracks...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: soundiiz.com  
-   Link: [https://soundiiz.com/blog/how-do-streaming-numbers-translate-into-album-sales/](https://soundiiz.com/blog/how-do-streaming-numbers-translate-into-album-sales/)  
+   Link: <a href="https://soundiiz.com/blog/how-do-streaming-numbers-translate-into-album-sales/" target="_blank" rel="noopener noreferrer nofollow">https://soundiiz.com/blog/how-do-streaming-numbers-translate-into-album-sales/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How do streaming numbers translate into album sales?Aug 14, 2025 — From 1,500 streams, the RIAA considers an album to be sold...</p></details>

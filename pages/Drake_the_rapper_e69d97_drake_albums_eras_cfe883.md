@@ -272,7 +272,7 @@ If there is one Drake album most often called his masterpiece, it is *Take Care*
 
 The album felt cinematic but intimate at the same time. Tracks like “Marvins Room”, “Shot for Me” and “Doing It Wrong” turned loneliness into mainstream music. Meanwhile songs such as “Headlines” and “The Motto” kept Drake connected to rap dominance and internet slang culture.
 
-Critics praised the album’s subtle sound and emotional depth. Pitchfork described it as music sitting between deep funk, quiet-storm R&B and minimalist electronic influence rather than the louder pop trends dominating radio at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/reviews/albums/16039-take-care/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Take Care Album Review</span><span class="citation-popover-snippet">PitchforkTake Care Album Review - Drake14 Nov 2011 — This is sensuous music that breathes heavy somewhere between UGK&#x27;s deep funk, quiet...</span></span></span>
+Critics praised the album’s subtle sound and emotional depth. Pitchfork described it as music sitting between deep funk, quiet-storm R&B and minimalist electronic influence rather than the louder pop trends dominating radio at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/reviews/albums/16039-take-care/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Take Care Album Review</span><span class="citation-popover-snippet">Take Care Album Review - Drake14 Nov 2011 — This is sensuous music that breathes heavy somewhere between UGK&#x27;s deep funk, quiet...</span></span></span>
 
 This era also matters because it expanded Drake’s universe:
 
@@ -388,7 +388,7 @@ There is no universal answer, but fan arguments usually fall into a few clear ca
 
 **If you want emotional storytelling and atmosphere:**
 
-Most people choose *Take Care*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/reviews/albums/16039-take-care/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Take Care Album Review</span><span class="citation-popover-snippet">PitchforkTake Care Album Review - Drake14 Nov 2011 — This is sensuous music that breathes heavy somewhere between UGK&#x27;s deep funk, quiet...</span></span></span>
+Most people choose *Take Care*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/reviews/albums/16039-take-care/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Take Care Album Review</span><span class="citation-popover-snippet">Take Care Album Review - Drake14 Nov 2011 — This is sensuous music that breathes heavy somewhere between UGK&#x27;s deep funk, quiet...</span></span></span>
 
 **If you want hungry ambition and influence:**
 
@@ -807,108 +807,108 @@ That is why fans keep revisiting these albums. They are not just different proje
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: So Far Gone (mixtape)  
-   Link: [https://en.wikipedia.org/wiki/So_Far_Gone_%28mixtape%29](https://en.wikipedia.org/wiki/So_Far_Gone_%28mixtape%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/So_Far_Gone_%28mixtape%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/So_Far_Gone_%28mixtape%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>So Far Gone (mixtape)So Far Gone is the third mixtape by Canadian rapper Drake. It was released on February 13, 2009 self-released und...</p></details>
    Published: February 13, 2009  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
    Title: [DISCUSSION] Drake  
-   Link: [https://www.reddit.com/r/hiphopheads/comments/aoxbv1/discussion_drake_so_far_gone_10_years_later/](https://www.reddit.com/r/hiphopheads/comments/aoxbv1/discussion_drake_so_far_gone_10_years_later/)  
+   Link: <a href="https://www.reddit.com/r/hiphopheads/comments/aoxbv1/discussion_drake_so_far_gone_10_years_later/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hiphopheads/comments/aoxbv1/discussion_drake_so_far_gone_10_years_later/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>So Far Gone (10 Years Later)10 years ago Drake dropped his breakout mixtape &quot;So Far Gone&quot;. The tape featured hits such as &quot;Best I Ever Ha...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pitchfork.com  
    Title: Take Care Album Review  
-   Link: [https://pitchfork.com/reviews/albums/16039-take-care/](https://pitchfork.com/reviews/albums/16039-take-care/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PitchforkTake Care Album Review - Drake14 Nov 2011 — This is sensuous music that breathes heavy somewhere between UGK&#x27;s deep funk, quiet...</p></details>
+   Link: <a href="https://pitchfork.com/reviews/albums/16039-take-care/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/reviews/albums/16039-take-care/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Take Care Album Review - Drake14 Nov 2011 — This is sensuous music that breathes heavy somewhere between UGK&#x27;s deep funk, quiet...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Take Care  
-   Link: [https://en.wikipedia.org/wiki/Take_Care](https://en.wikipedia.org/wiki/Take_Care)  
+   Link: <a href="https://en.wikipedia.org/wiki/Take_Care" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Take_Care</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Take CareTake Care is the second studio album by the Canadian rapper Drake. It was released on November 15, 2011, by Young Money Enter...</p></details>
    Published: November 15, 2011  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/hiphopheads/comments/3oj7ff/discussion_what_makes_drakes_take_care_such_a/](https://www.reddit.com/r/hiphopheads/comments/3oj7ff/discussion_what_makes_drakes_take_care_such_a/)  
+   Link: <a href="https://www.reddit.com/r/hiphopheads/comments/3oj7ff/discussion_what_makes_drakes_take_care_such_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hiphopheads/comments/3oj7ff/discussion_what_makes_drakes_take_care_such_a/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit[DISCUSSION] What makes Drake&#x27;s &quot;Take Care&quot; such a...I think Take Care shows each part of Drake&#x27;s musical ability in its best form...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: [DISCUSSION] DRAKE  
-   Link: [https://www.reddit.com/r/hiphopheads/comments/qu8knn/discussion_drake_take_care_10_years_later/](https://www.reddit.com/r/hiphopheads/comments/qu8knn/discussion_drake_take_care_10_years_later/)  
+   Link: <a href="https://www.reddit.com/r/hiphopheads/comments/qu8knn/discussion_drake_take_care_10_years_later/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hiphopheads/comments/qu8knn/discussion_drake_take_care_10_years_later/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Take Care (10 Years Later)Take Care was officially released on 15th November 2011 but was ahm, leaked everywhere on the 7th of November.R...</p></details>
    Published: November 2011  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Scorpion (Drake album)  
-   Link: [https://en.wikipedia.org/wiki/Scorpion_%28Drake_album%29](https://en.wikipedia.org/wiki/Scorpion_%28Drake_album%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Scorpion_%28Drake_album%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scorpion_%28Drake_album%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 16, 2018 — In its first day of release, Scorpion broke Spotify&#x27;s one-day global record for album streams with 132.45 million stream...</p></details>
    Published: April 16, 2018  
 
 8. <a id="endnote-8"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/drake-breaks-spotify-apple-music-global-streaming-records-with-new-album-scorpion](https://pitchfork.com/news/drake-breaks-spotify-apple-music-global-streaming-records-with-new-album-scorpion)  
+   Link: <a href="https://pitchfork.com/news/drake-breaks-spotify-apple-music-global-streaming-records-with-new-album-scorpion" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/drake-breaks-spotify-apple-music-global-streaming-records-with-new-album-scorpion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Within its first 24 hours of release, Scorpion amassed 132,384,203 streams on Spotify, surpassing Post Malone&#x27;s previous record of 78,744...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: [DISCUSSION] Drake  
-   Link: [https://www.reddit.com/r/hiphopheads/comments/14m4pje/discussion_drake_scorpion_5_years_later/](https://www.reddit.com/r/hiphopheads/comments/14m4pje/discussion_drake_scorpion_5_years_later/)  
+   Link: <a href="https://www.reddit.com/r/hiphopheads/comments/14m4pje/discussion_drake_scorpion_5_years_later/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hiphopheads/comments/14m4pje/discussion_drake_scorpion_5_years_later/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit[DISCUSSION] Drake - Scorpion (5 years later)June 29, 2023 — But to me this felt like the begging of the era of Streaming-Drake. Ea...</p></details>
    Published: June 29, 2023  
 
 10. <a id="endnote-10"></a>
    Source: vice.com  
    Title: drake scorpion streaming albums report  
-   Link: [https://www.vice.com/en/article/drake-scorpion-streaming-albums-report/](https://www.vice.com/en/article/drake-scorpion-streaming-albums-report/)  
+   Link: <a href="https://www.vice.com/en/article/drake-scorpion-streaming-albums-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/drake-scorpion-streaming-albums-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The other 19 songs only account for 18 percent of the album&#x27;s total streams.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/reviews/albums/drake-scorpion](https://pitchfork.com/reviews/albums/drake-scorpion)  
+   Link: <a href="https://pitchfork.com/reviews/albums/drake-scorpion" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/reviews/albums/drake-scorpion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Scorpion&quot; isn&#x27;t solely about fatherhood but features themes typical of Drake&#x27;s work, including relationships and celebrity burdens. The...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: soulinstereo.com  
    Title: Soul In Stereo Drake's So Far Gone: A 10-Year Retrospective  
-   Link: [https://soulinstereo.com/2019/02/drakes-so-far-gone-a-10-year-retrospective.html](https://soulinstereo.com/2019/02/drakes-so-far-gone-a-10-year-retrospective.html)  
+   Link: <a href="https://soulinstereo.com/2019/02/drakes-so-far-gone-a-10-year-retrospective.html" target="_blank" rel="noopener noreferrer nofollow">https://soulinstereo.com/2019/02/drakes-so-far-gone-a-10-year-retrospective.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Soul In StereoDrake&#x27;s So Far Gone: A 10-Year RetrospectiveFebruary 13, 2019 — 13 Feb 2019 — Drake was dope, engaging and So Far Gone was...</p></details>
    Published: February 13, 2019  
 
 13. <a id="endnote-13"></a>
    Source: newyorker.com  
    Title: The New Yorker A Peek Back at Early Drake on "So Far Gone"  
-   Link: [https://www.newyorker.com/culture/culture-desk/a-peek-back-at-early-drake-on-so-far-gone](https://www.newyorker.com/culture/culture-desk/a-peek-back-at-early-drake-on-so-far-gone)  
+   Link: <a href="https://www.newyorker.com/culture/culture-desk/a-peek-back-at-early-drake-on-so-far-gone" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/culture-desk/a-peek-back-at-early-drake-on-so-far-gone</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Songs such as &quot;Lust for Life&quot; and &quot;Successful&quot; depicted Drake as the underdog driven by ambition. A hallmark of his music from the start...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
    Title: Take Care by Drake  
-   Link: [https://medium.com/modern-music-analysis/take-care-album-review-2cee159fe9ac](https://medium.com/modern-music-analysis/take-care-album-review-2cee159fe9ac)  
+   Link: <a href="https://medium.com/modern-music-analysis/take-care-album-review-2cee159fe9ac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/modern-music-analysis/take-care-album-review-2cee159fe9ac</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Album Review | Modern Music AnalysisThis song takes us on the way fame and fortune affects the world view of the artist and how it impact...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0YPMV6iTy-U](https://www.youtube.com/watch?v=0YPMV6iTy-U)  
+   Link: <a href="https://www.youtube.com/watch?v=0YPMV6iTy-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0YPMV6iTy-U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>So Far Gone MIXTAPE REVIEWListen: [https://www.youtube.com/watch?v=s_IATuze-R0](https://www.youtube.com/watch?v=s_IATuze-R0) 10 years on from its initial release, Drake&#x27;s breakthrough...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh)  
+   Link: <a href="https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Far Gone - Album by DrakeListen to So Far Gone on Spotify · album · Drake · 2009 · 18 songs.... So Far Gone. Drake. 200918 songs, 1 hr 1...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sputnikmusic.com  
-   Link: [https://www.sputnikmusic.com/review/55748/Drake-Take-Care/](https://www.sputnikmusic.com/review/55748/Drake-Take-Care/)  
+   Link: <a href="https://www.sputnikmusic.com/review/55748/Drake-Take-Care/" target="_blank" rel="noopener noreferrer nofollow">https://www.sputnikmusic.com/review/55748/Drake-Take-Care/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Take Care (album review)16 Mar 2013 — While a very good debut, it was a bit too much of a typical debut. Lacked maturity, tried to cater...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: albumoftheyear.org  
-   Link: [https://www.albumoftheyear.org/user/analvape/album/110667-so-far-gone/](https://www.albumoftheyear.org/user/analvape/album/110667-so-far-gone/)  
+   Link: <a href="https://www.albumoftheyear.org/user/analvape/album/110667-so-far-gone/" target="_blank" rel="noopener noreferrer nofollow">https://www.albumoftheyear.org/user/analvape/album/110667-so-far-gone/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>So Far Gone review by AnalVape2 May 2024 — This album isn&#x27;t fantastic. It has its obvious flaws, but I also think it&#x27;s a relic to be trea...</p></details>
    Published: May 2024  
 
@@ -916,59 +916,59 @@ That is why fans keep revisiting these albums. They are not just different proje
 
 19. <a id="endnote-19"></a>
    Source: djbooth.net  
-   Link: [https://djbooth.net/drake-scorpion-double-albums-in-streaming-era/](https://djbooth.net/drake-scorpion-double-albums-in-streaming-era/)  
+   Link: <a href="https://djbooth.net/drake-scorpion-double-albums-in-streaming-era/" target="_blank" rel="noopener noreferrer nofollow">https://djbooth.net/drake-scorpion-double-albums-in-streaming-era/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 2018. DJBooth · DJBooth · Opinion · Interviews · Albums · Pro Audio · Year of Mac · Best Of.Read more...</p></details>
    Published: July 8, 2018  
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
    Title: does drakes take care hold up in 2025 6dc1a2196d08  
-   Link: [https://medium.com/%40imjustjohnthan/does-drakes-take-care-hold-up-in-2025-6dc1a2196d08](https://medium.com/%40imjustjohnthan/does-drakes-take-care-hold-up-in-2025-6dc1a2196d08)  
+   Link: <a href="https://medium.com/%40imjustjohnthan/does-drakes-take-care-hold-up-in-2025-6dc1a2196d08" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40imjustjohnthan/does-drakes-take-care-hold-up-in-2025-6dc1a2196d08</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Drake&#x27;s &#x27;Take Care&#x27; Hold Up in 2025?Does Drake&#x27;s &#x27;Take Care&#x27; Hold Up in 2025? Let it be know that I am not really a Drake fan as he...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Genius/posts/drake-has-dominated-the-streaming-era-he-holds-the-top-four-placements-for-hip-h/1084328577072009/](https://www.facebook.com/Genius/posts/drake-has-dominated-the-streaming-era-he-holds-the-top-four-placements-for-hip-h/1084328577072009/)  
+   Link: <a href="https://www.facebook.com/Genius/posts/drake-has-dominated-the-streaming-era-he-holds-the-top-four-placements-for-hip-h/1084328577072009/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Genius/posts/drake-has-dominated-the-streaming-era-he-holds-the-top-four-placements-for-hip-h/1084328577072009/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e Life 6.5B – Certified Lover Boy 6.4B – Take Care 4.7B –...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: forbes.com  
    Title: why drakes so far gone is still so influential 10 years later  
-   Link: [https://www.forbes.com/sites/laurenalvarez/2019/02/28/why-drakes-so-far-gone-is-still-so-influential-10-years-later/](https://www.forbes.com/sites/laurenalvarez/2019/02/28/why-drakes-so-far-gone-is-still-so-influential-10-years-later/)  
+   Link: <a href="https://www.forbes.com/sites/laurenalvarez/2019/02/28/why-drakes-so-far-gone-is-still-so-influential-10-years-later/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/laurenalvarez/2019/02/28/why-drakes-so-far-gone-is-still-so-influential-10-years-later/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 on the Billboard 200 chart nearly a decade after its initial release, and this feat proves that after ten years...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ill100/posts/17-years-ago-today-drake-dropped-his-mixtape-so-far-gone/1339614868200878/](https://www.facebook.com/ill100/posts/17-years-ago-today-drake-dropped-his-mixtape-so-far-gone/1339614868200878/)  
+   Link: <a href="https://www.facebook.com/ill100/posts/17-years-ago-today-drake-dropped-his-mixtape-so-far-gone/1339614868200878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ill100/posts/17-years-ago-today-drake-dropped-his-mixtape-so-far-gone/1339614868200878/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>akthrough project • Inspired &amp; challenged many artists • Led...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: complex.com  
    Title: drake take care reviews new albums  
-   Link: [https://www.complex.com/music/a/treyalston/drake-take-care-reviews-new-albums](https://www.complex.com/music/a/treyalston/drake-take-care-reviews-new-albums)  
+   Link: <a href="https://www.complex.com/music/a/treyalston/drake-take-care-reviews-new-albums" target="_blank" rel="noopener noreferrer nofollow">https://www.complex.com/music/a/treyalston/drake-take-care-reviews-new-albums</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake Posts Old Reviews of &#x27;Take Care&#x27; After Three New...3 days ago — Drake has posted old fans critiquing his 2011 album &#x27;Take Care&#x27; af...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: beatsperminute.com  
    Title: Album Review: Drake – Take Care  
-   Link: [https://beatsperminute.com/album-review-drake-take-care/](https://beatsperminute.com/album-review-drake-take-care/)  
+   Link: <a href="https://beatsperminute.com/album-review-drake-take-care/" target="_blank" rel="noopener noreferrer nofollow">https://beatsperminute.com/album-review-drake-take-care/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beats Per Minute14 Nov 2011 — Drake seemed afraid of his potential power, caught between a hunger for genuine respect he at least claims...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: musicboard.app  
    Title: Reviews of Take Care by Drake  
-   Link: [https://musicboard.app/album/take-care-deluxe/drake/reviews?order_by=helpful](https://musicboard.app/album/take-care-deluxe/drake/reviews?order_by=helpful)  
+   Link: <a href="https://musicboard.app/album/take-care-deluxe/drake/reviews?order_by=helpful" target="_blank" rel="noopener noreferrer nofollow">https://musicboard.app/album/take-care-deluxe/drake/reviews?order_by=helpful</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AlbumThe album features some of his best singles to date, as well as a massive improvement in both his singing and rapping compared to hi...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: boardroom.tv  
    Title: Every Drake Album, Ranked  
-   Link: [https://boardroom.tv/every-drake-album-ranked/](https://boardroom.tv/every-drake-album-ranked/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boardroom15 May 2026 — This is the album that broke streaming records and the consensus on Drake. Views is built around a four-seasons-in...</p></details>
+   Link: <a href="https://boardroom.tv/every-drake-album-ranked/" target="_blank" rel="noopener noreferrer nofollow">https://boardroom.tv/every-drake-album-ranked/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>15 May 2026 — This is the album that broke streaming records and the consensus on Drake. Views is built around a four-seasons-in...</p></details>
    Published: May 2026  
 
 28. <a id="endnote-28"></a>
    Source: theguardian.com  
    Title: drake take care review  
-   Link: [https://www.theguardian.com/music/2011/nov/17/drake-take-care-review](https://www.theguardian.com/music/2011/nov/17/drake-take-care-review)  
+   Link: <a href="https://www.theguardian.com/music/2011/nov/17/drake-take-care-review" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2011/nov/17/drake-take-care-review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake: Take Care – review | Pop and rock17 Nov 2011 — Former child actor Aubrey Graham&#x27;s much-vaunted sensitivity and introspection is mo...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /drake-the-rapper-e69d97-index/
 description: Focused pages that expand on Drake the rapper.
-date: '2026-06-09'
+date: '2026-06-10'
 layout: default
 parent_basename: Drake_the_rapper_e69d97
 parent_title: Drake the rapper

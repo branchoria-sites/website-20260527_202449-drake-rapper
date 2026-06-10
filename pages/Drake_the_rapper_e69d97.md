@@ -213,7 +213,7 @@ image: /assets/images/Drake_the_rapper_e69d97-overview-social.jpg
 
 ## Introduction
 
-Drake is one of the most successful rappers of the [streaming era]({{ 'streaming-era/' | relative_url }}): a Toronto-born artist who moved from acting on *Degrassi: The Next Generation* to reshaping how rap, R&B and pop overlap. His biggest strength is not just rapping fast or singing smoothly; it is making music that feels like a late-night text, a flex, a confession and a playlist-ready hook all at once. That mix has made him huge with fans, dominant on charts, and endlessly debated by critics. Britannica describes his signature as a blend of singing and lyrical rapping, often switching between confidence and vulnerability, which is still the core of why Drake connects with so many listeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/biography/Drake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaDrake | Rapper, Iceman, Albums, Songs, Son, Record...3 days ago — Drake (born October 24, 1986, Toronto, Ontario...</span><span class="citation-popover-meta">Published: October 24, 1986</span></span></span>
+Drake is one of the most successful rappers of the [streaming era]({{ 'streaming-era/' | relative_url }}): a Toronto-born artist who moved from acting on *Degrassi: The Next Generation* to reshaping how rap, R&B and pop overlap. His biggest strength is not just rapping fast or singing smoothly; it is making music that feels like a late-night text, a flex, a confession and a playlist-ready hook all at once. That mix has made him huge with fans, dominant on charts, and endlessly debated by critics. Britannica describes his signature as a blend of singing and lyrical rapping, often switching between confidence and vulnerability, which is still the core of why Drake connects with so many listeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/biography/Drake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaDrake &#124; Rapper, Iceman, Albums, Songs, Son, Record...3 days ago — Drake (born October 24, 1986, Toronto, Ontario...</span><span class="citation-popover-meta">Published: October 24, 1986</span></span></span>
 
 
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97-overview.webp" | relative_url }}" alt="Overview image for Drake the rapper" loading="eager" decoding="sync" fetchpriority="high">
@@ -221,7 +221,7 @@ The quick version: Drake matters because he helped make emotional, melodic rap f
 
 ## How Drake became Drake
 
-Drake was born Aubrey Drake Graham on 24 October 1986 in Toronto, Canada. Before he was a rapper, he was widely recognised as Jimmy Brooks on the Canadian teen drama *Degrassi: The Next Generation*, which gave him early fame before his music career fully took off. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/biography/Drake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaDrake | Rapper, Iceman, Albums, Songs, Son, Record...3 days ago — Drake (born October 24, 1986, Toronto, Ontario...</span><span class="citation-popover-meta">Published: October 24, 1986</span></span></span> That background matters because Drake never entered rap with the same image as many of his peers. He was not introduced to audiences as a street-hardened mystery figure; he was a TV actor from Toronto trying to prove he could be taken seriously in hip-hop.
+Drake was born Aubrey Drake Graham on 24 October 1986 in Toronto, Canada. Before he was a rapper, he was widely recognised as Jimmy Brooks on the Canadian teen drama *Degrassi: The Next Generation*, which gave him early fame before his music career fully took off. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/biography/Drake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaDrake &#124; Rapper, Iceman, Albums, Songs, Son, Record...3 days ago — Drake (born October 24, 1986, Toronto, Ontario...</span><span class="citation-popover-meta">Published: October 24, 1986</span></span></span> That background matters because Drake never entered rap with the same image as many of his peers. He was not introduced to audiences as a street-hardened mystery figure; he was a TV actor from Toronto trying to prove he could be taken seriously in hip-hop.
 
 His breakthrough came through mixtapes, especially *So Far Gone* in 2009. The project was important because it gave listeners the Drake formula before it became unavoidable: moody production, diary-like lyrics, romantic regret, ambition, and a willingness to sing where older rap rules might have demanded a harder delivery. Later retrospective writing has treated *So Far Gone* as the moment Drake became an industry force rather than just a promising newcomer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vibe.com/features/editorial/drake-so-far-gone-mixtape-review-anniversary-634895/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vibe.com">[vibe.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vibe.com</span><span class="citation-popover-title">drake so far gone mixtape review anniversary 634895</span><span class="citation-popover-snippet">Drake&#x27;s &#x27;So Far Gone&#x27; Mixtape Turns 10: Re-Review13 Feb 2019 — Looking at &#x27;So Far Gone&#x27; 10 years later, we catch a glimpse of how Drake b...</span></span></span>
 
@@ -705,381 +705,381 @@ That tension is exactly why Drake remains worth talking about. He is not just po
 
 1. <a id="endnote-1"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/biography/Drake](https://www.britannica.com/biography/Drake)  
+   Link: <a href="https://www.britannica.com/biography/Drake" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Drake</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaDrake | Rapper, Iceman, Albums, Songs, Son, Record...3 days ago — Drake (born October 24, 1986, Toronto, Ontario...</p></details>
    Published: October 24, 1986  
 
 2. <a id="endnote-2"></a>
    Source: vibe.com  
    Title: drake so far gone mixtape review anniversary 634895  
-   Link: [https://www.vibe.com/features/editorial/drake-so-far-gone-mixtape-review-anniversary-634895/](https://www.vibe.com/features/editorial/drake-so-far-gone-mixtape-review-anniversary-634895/)  
+   Link: <a href="https://www.vibe.com/features/editorial/drake-so-far-gone-mixtape-review-anniversary-634895/" target="_blank" rel="noopener noreferrer nofollow">https://www.vibe.com/features/editorial/drake-so-far-gone-mixtape-review-anniversary-634895/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake&#x27;s &#x27;So Far Gone&#x27; Mixtape Turns 10: Re-Review13 Feb 2019 — Looking at &#x27;So Far Gone&#x27; 10 years later, we catch a glimpse of how Drake b...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ovosound.com  
-   Link: [https://www.ovosound.com/](https://www.ovosound.com/)  
+   Link: <a href="https://www.ovosound.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ovosound.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OVO SOUNDOVO Sound is a record label founded by Aubrey Drake Graham and long-time friends and partners Noah “40” Shebib and Oliver El-Kha...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pitchfork.com  
    Title: Take Care Album Review  
-   Link: [https://pitchfork.com/reviews/albums/16039-take-care/](https://pitchfork.com/reviews/albums/16039-take-care/)  
+   Link: <a href="https://pitchfork.com/reviews/albums/16039-take-care/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/reviews/albums/16039-take-care/</a>  
 
 5. <a id="endnote-5"></a>
    Source: billboard.com  
    Title: drake one dance no 1 hot 100 eighth week  
-   Link: [https://www.billboard.com/pro/drake-one-dance-no-1-hot-100-eighth-week/](https://www.billboard.com/pro/drake-one-dance-no-1-hot-100-eighth-week/)  
+   Link: <a href="https://www.billboard.com/pro/drake-one-dance-no-1-hot-100-eighth-week/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/drake-one-dance-no-1-hot-100-eighth-week/</a>  
 
 6. <a id="endnote-6"></a>
    Source: ew.com  
    Title: "Honestly, Nevermind" review: Drake hits the dance floor  
-   Link: [https://ew.com/music/music-reviews/drake-honestly-nevermind-review/](https://ew.com/music/music-reviews/drake-honestly-nevermind-review/)  
+   Link: <a href="https://ew.com/music/music-reviews/drake-honestly-nevermind-review/" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/music/music-reviews/drake-honestly-nevermind-review/</a>  
 
 7. <a id="endnote-7"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/lists/drake-hot-100-records/](https://www.billboard.com/lists/drake-hot-100-records/)  
+   Link: <a href="https://www.billboard.com/lists/drake-hot-100-records/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/lists/drake-hot-100-records/</a>  
 
 8. <a id="endnote-8"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/[charts](https://www.billboard.com/[charts)  
+   Link: <a href="https://www.billboard.com/[charts" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/[charts</a>  
 
 9. <a id="endnote-9"></a>
    Source: grammy.com  
-   Link: [https://www.grammy.com/search/Drake](https://www.grammy.com/search/Drake)  
+   Link: <a href="https://www.grammy.com/search/Drake" target="_blank" rel="noopener noreferrer nofollow">https://www.grammy.com/search/Drake</a>  
 
 10. <a id="endnote-10"></a>
    Source: riaa.com  
    Title: Gold & Platinum  
-   Link: [https://www.riaa.com/gold-%20platinum/?se=drake&tab_active=default-award](https://www.riaa.com/gold-%20platinum/?se=drake&tab_active=default-award)  
+   Link: <a href="https://www.riaa.com/gold-%20platinum/?se=drake&amp;tab_active=default-award" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/gold-%20platinum/?se=drake&amp;tab_active=default-award</a>  
 
 11. <a id="endnote-11"></a>
    Source: espn.com  
    Title: rapper drake assumes role toronto raptors team ambassador  
-   Link: [https://www.espn.com/nba/story/_/id/9750332/rapper-drake-assumes-role-toronto-raptors-team-ambassador](https://www.espn.com/nba/story/_/id/9750332/rapper-drake-assumes-role-toronto-raptors-team-ambassador)  
+   Link: <a href="https://www.espn.com/nba/story/_/id/9750332/rapper-drake-assumes-role-toronto-raptors-team-ambassador" target="_blank" rel="noopener noreferrer nofollow">https://www.espn.com/nba/story/_/id/9750332/rapper-drake-assumes-role-toronto-raptors-team-ambassador</a>  
 
 12. <a id="endnote-12"></a>
    Source: variety.com  
    Title: drake toronto raptors finals 1203229438  
-   Link: [https://variety.com/2019/music/news/drake-toronto-raptors-finals-1203229438/](https://variety.com/2019/music/news/drake-toronto-raptors-finals-1203229438/)  
+   Link: <a href="https://variety.com/2019/music/news/drake-toronto-raptors-finals-1203229438/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2019/music/news/drake-toronto-raptors-finals-1203229438/</a>  
 
 13. <a id="endnote-13"></a>
    Source: reuters.com  
    Title: Drake's defamation suit against UMG over Lamar's 'Not  
-   Link: [https://www.reuters.com/legal/litigation/drakes-defamation-suit-against-umg-over-lamars-not-like-us-dismissed-2025-10-09/](https://www.reuters.com/legal/litigation/drakes-defamation-suit-against-umg-over-lamars-not-like-us-dismissed-2025-10-09/)  
+   Link: <a href="https://www.reuters.com/legal/litigation/drakes-defamation-suit-against-umg-over-lamars-not-like-us-dismissed-2025-10-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/drakes-defamation-suit-against-umg-over-lamars-not-like-us-dismissed-2025-10-09/</a>  
 
 14. <a id="endnote-14"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/nation/drakes-defamation-suit-against-label-over-kendrick-lamars-not-like-us-tossed-by-judge](https://www.pbs.org/newshour/nation/drakes-defamation-suit-against-label-over-kendrick-lamars-not-like-us-tossed-by-judge)  
+   Link: <a href="https://www.pbs.org/newshour/nation/drakes-defamation-suit-against-label-over-kendrick-lamars-not-like-us-tossed-by-judge" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/nation/drakes-defamation-suit-against-label-over-kendrick-lamars-not-like-us-tossed-by-judge</a>  
 
 15. <a id="endnote-15"></a>
    Source: grammy.com  
-   Link: [https://grammy.com/artists/drake/12370](https://grammy.com/artists/drake/12370)  
+   Link: <a href="https://grammy.com/artists/drake/12370" target="_blank" rel="noopener noreferrer nofollow">https://grammy.com/artists/drake/12370</a>  
 
 16. <a id="endnote-16"></a>
    Source: grammy.com  
-   Link: [https://grammy.com/news/drake-leads-juno-awards-nods](https://grammy.com/news/drake-leads-juno-awards-nods)  
+   Link: <a href="https://grammy.com/news/drake-leads-juno-awards-nods" target="_blank" rel="noopener noreferrer nofollow">https://grammy.com/news/drake-leads-juno-awards-nods</a>  
 
 17. <a id="endnote-17"></a>
    Source: grammy.com  
-   Link: [https://grammy.com/awards/56th-annual-grammy-awards](https://grammy.com/awards/56th-annual-grammy-awards)  
+   Link: <a href="https://grammy.com/awards/56th-annual-grammy-awards" target="_blank" rel="noopener noreferrer nofollow">https://grammy.com/awards/56th-annual-grammy-awards</a>  
 
 18. <a id="endnote-18"></a>
    Source: grammy.com  
-   Link: [https://grammy.com/artists/kendrick-lamar/17949](https://grammy.com/artists/kendrick-lamar/17949)  
+   Link: <a href="https://grammy.com/artists/kendrick-lamar/17949" target="_blank" rel="noopener noreferrer nofollow">https://grammy.com/artists/kendrick-lamar/17949</a>  
 
 19. <a id="endnote-19"></a>
    Source: grammy.com  
-   Link: [https://grammy.com/news/drake-GRAMMYs-nominations-wins-performances-timeline-videos-2024-GRAMMYs](https://grammy.com/news/drake-GRAMMYs-nominations-wins-performances-timeline-videos-2024-GRAMMYs)  
+   Link: <a href="https://grammy.com/news/drake-GRAMMYs-nominations-wins-performances-timeline-videos-2024-GRAMMYs" target="_blank" rel="noopener noreferrer nofollow">https://grammy.com/news/drake-GRAMMYs-nominations-wins-performances-timeline-videos-2024-GRAMMYs</a>  
 
 20. <a id="endnote-20"></a>
    Source: grammy.com  
-   Link: [https://grammy.com/artists/clipse/8356](https://grammy.com/artists/clipse/8356)  
+   Link: <a href="https://grammy.com/artists/clipse/8356" target="_blank" rel="noopener noreferrer nofollow">https://grammy.com/artists/clipse/8356</a>  
 
 21. <a id="endnote-21"></a>
    Source: grammy.com  
-   Link: [https://grammy.com/artists/Randy-Drake/38047](https://grammy.com/artists/Randy-Drake/38047)  
+   Link: <a href="https://grammy.com/artists/Randy-Drake/38047" target="_blank" rel="noopener noreferrer nofollow">https://grammy.com/artists/Randy-Drake/38047</a>  
 
 22. <a id="endnote-22"></a>
    Source: grammy.com  
-   Link: [https://grammy.com/videos/best-rap-performance-58th-grammy-nominees](https://grammy.com/videos/best-rap-performance-58th-grammy-nominees)  
+   Link: <a href="https://grammy.com/videos/best-rap-performance-58th-grammy-nominees" target="_blank" rel="noopener noreferrer nofollow">https://grammy.com/videos/best-rap-performance-58th-grammy-nominees</a>  
 
 23. <a id="endnote-23"></a>
    Source: grammy.com  
    Title: 68th annual grammy awards 2025  
-   Link: [https://grammy.com/awards/68th-annual-grammy-awards-2025](https://grammy.com/awards/68th-annual-grammy-awards-2025)  
+   Link: <a href="https://grammy.com/awards/68th-annual-grammy-awards-2025" target="_blank" rel="noopener noreferrer nofollow">https://grammy.com/awards/68th-annual-grammy-awards-2025</a>  
 
 24. <a id="endnote-24"></a>
    Source: billboard.com  
    Title: drake more life grammy awards submission 8014878  
-   Link: [https://www.billboard.com/music/awards/drake-more-life-grammy-awards-submission-8014878/](https://www.billboard.com/music/awards/drake-more-life-grammy-awards-submission-8014878/)  
+   Link: <a href="https://www.billboard.com/music/awards/drake-more-life-grammy-awards-submission-8014878/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/awards/drake-more-life-grammy-awards-submission-8014878/</a>  
 
 25. <a id="endnote-25"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/artist/drake/](https://www.billboard.com/artist/drake/)  
+   Link: <a href="https://www.billboard.com/artist/drake/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/artist/drake/</a>  
 
 26. <a id="endnote-26"></a>
    Source: billboard.com  
    Title: drake janice stfu hot 100 number one debut  
-   Link: [https://www.billboard.com/lists/drake-janice-stfu-hot-100-number-one-debut/](https://www.billboard.com/lists/drake-janice-stfu-hot-100-number-one-debut/)  
+   Link: <a href="https://www.billboard.com/lists/drake-janice-stfu-hot-100-number-one-debut/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/lists/drake-janice-stfu-hot-100-number-one-debut/</a>  
 
 27. <a id="endnote-27"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/music/chart-beat/drake-first-artist-400-hot-100-hits-1236256941/](https://www.billboard.com/music/chart-beat/drake-first-artist-400-hot-100-hits-1236256941/)  
+   Link: <a href="https://www.billboard.com/music/chart-beat/drake-first-artist-400-hot-100-hits-1236256941/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/drake-first-artist-400-hot-100-hits-1236256941/</a>  
 
 28. <a id="endnote-28"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/media/podcasts/drake-chart-records-pop-shop-podcast-1236257202/](https://www.billboard.com/media/podcasts/drake-chart-records-pop-shop-podcast-1236257202/)  
+   Link: <a href="https://www.billboard.com/media/podcasts/drake-chart-records-pop-shop-podcast-1236257202/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/media/podcasts/drake-chart-records-pop-shop-podcast-1236257202/</a>  
 
 29. <a id="endnote-29"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/artist/drake/chart-history/hsi/](https://www.billboard.com/artist/drake/chart-history/hsi/)  
+   Link: <a href="https://www.billboard.com/artist/drake/chart-history/hsi/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/artist/drake/chart-history/hsi/</a>  
 
 30. <a id="endnote-30"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/artist/taylor-swift/](https://www.billboard.com/artist/taylor-swift/)  
+   Link: <a href="https://www.billboard.com/artist/taylor-swift/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/artist/taylor-swift/</a>  
 
 31. <a id="endnote-31"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/charts/genre/greatest-of-all-time/](https://www.billboard.com/charts/genre/greatest-of-all-time/)  
+   Link: <a href="https://www.billboard.com/charts/genre/greatest-of-all-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/charts/genre/greatest-of-all-time/</a>  
 
 32. <a id="endnote-32"></a>
    Source: billboard.com  
    Title: chappell roan  
-   Link: [https://www.billboard.com/artist/chappell-roan/](https://www.billboard.com/artist/chappell-roan/)  
+   Link: <a href="https://www.billboard.com/artist/chappell-roan/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/artist/chappell-roan/</a>  
 
 33. <a id="endnote-33"></a>
    Source: billboard.com  
    Title: drake setlist wireless festival 2025 night 3  
-   Link: [https://www.billboard.com/lists/drake-setlist-wireless-festival-2025-night-3/](https://www.billboard.com/lists/drake-setlist-wireless-festival-2025-night-3/)  
+   Link: <a href="https://www.billboard.com/lists/drake-setlist-wireless-festival-2025-night-3/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/lists/drake-setlist-wireless-festival-2025-night-3/</a>  
 
 34. <a id="endnote-34"></a>
    Source: billboard.com  
    Title: drake lawsuit kendrick lamar not like us dismissed judge  
-   Link: [https://www.billboard.com/pro/drake-lawsuit-kendrick-lamar-not-like-us-dismissed-judge/](https://www.billboard.com/pro/drake-lawsuit-kendrick-lamar-not-like-us-dismissed-judge/)  
+   Link: <a href="https://www.billboard.com/pro/drake-lawsuit-kendrick-lamar-not-like-us-dismissed-judge/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/drake-lawsuit-kendrick-lamar-not-like-us-dismissed-judge/</a>  
 
 35. <a id="endnote-35"></a>
    Source: billboard.com  
    Title: drake so far gone tracks ranked anniversary 8498283  
-   Link: [https://www.billboard.com/music/rb-hip-hop/drake-so-far-gone-tracks-ranked-anniversary-8498283/](https://www.billboard.com/music/rb-hip-hop/drake-so-far-gone-tracks-ranked-anniversary-8498283/)  
+   Link: <a href="https://www.billboard.com/music/rb-hip-hop/drake-so-far-gone-tracks-ranked-anniversary-8498283/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/rb-hip-hop/drake-so-far-gone-tracks-ranked-anniversary-8498283/</a>  
 
 36. <a id="endnote-36"></a>
    Source: riaa.com  
    Title: Gold & Platinum  
-   Link: [https://www.riaa.com/gold-%20platinum/?col=label&ord=desc&se=drake&tab_active=default-award](https://www.riaa.com/gold-%20platinum/?col=label&ord=desc&se=drake&tab_active=default-award)  
+   Link: <a href="https://www.riaa.com/gold-%20platinum/?col=label&amp;ord=desc&amp;se=drake&amp;tab_active=default-award" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/gold-%20platinum/?col=label&amp;ord=desc&amp;se=drake&amp;tab_active=default-award</a>  
 
 37. <a id="endnote-37"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/gold-platinum/](https://www.riaa.com/gold-platinum/)  
+   Link: <a href="https://www.riaa.com/gold-platinum/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/gold-platinum/</a>  
 
 38. <a id="endnote-38"></a>
    Source: riaa.com  
    Title: morgan wallen becomes riaas highest certified country artist of all time  
-   Link: [https://www.riaa.com/morgan-wallen-becomes-riaas-highest-certified-country-artist-of-all-time/](https://www.riaa.com/morgan-wallen-becomes-riaas-highest-certified-country-artist-of-all-time/)  
+   Link: <a href="https://www.riaa.com/morgan-wallen-becomes-riaas-highest-certified-country-artist-of-all-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/morgan-wallen-becomes-riaas-highest-certified-country-artist-of-all-time/</a>  
 
 39. <a id="endnote-39"></a>
    Source: riaa.com  
    Title: adds digital streams to historic gold platinum awards 2  
-   Link: [https://www.riaa.com/riaa-adds-digital-streams-to-historic-gold-platinum-awards-2/](https://www.riaa.com/riaa-adds-digital-streams-to-historic-gold-platinum-awards-2/)  
+   Link: <a href="https://www.riaa.com/riaa-adds-digital-streams-to-historic-gold-platinum-awards-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-adds-digital-streams-to-historic-gold-platinum-awards-2/</a>  
 
 40. <a id="endnote-40"></a>
    Source: riaa.com  
    Title: Gold & Platinum  
-   Link: [https://www.riaa.com/gold-%20platinum/?col=highest_level&ord=desc&se=drake&tab_active=default-award](https://www.riaa.com/gold-%20platinum/?col=highest_level&ord=desc&se=drake&tab_active=default-award)  
+   Link: <a href="https://www.riaa.com/gold-%20platinum/?col=highest_level&amp;ord=desc&amp;se=drake&amp;tab_active=default-award" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/gold-%20platinum/?col=highest_level&amp;ord=desc&amp;se=drake&amp;tab_active=default-award</a>  
 
 41. <a id="endnote-41"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/6090-2/](https://www.riaa.com/6090-2/)  
+   Link: <a href="https://www.riaa.com/6090-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/6090-2/</a>  
 
 42. <a id="endnote-42"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/](https://www.riaa.com/)  
+   Link: <a href="https://www.riaa.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/</a>  
 
 43. <a id="endnote-43"></a>
    Source: riaa.com  
    Title: nine acts spring forward with new multi platinum awards  
-   Link: [https://www.riaa.com/nine-acts-spring-forward-with-new-multi-platinum-awards/](https://www.riaa.com/nine-acts-spring-forward-with-new-multi-platinum-awards/)  
+   Link: <a href="https://www.riaa.com/nine-acts-spring-forward-with-new-multi-platinum-awards/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/nine-acts-spring-forward-with-new-multi-platinum-awards/</a>  
 
 44. <a id="endnote-44"></a>
    Source: riaa.com  
    Title: 2016 RIAA Awards  
-   Link: [https://www.riaa.com/wp-content/uploads/2017/01/2016-RIAA-Awards.pdf](https://www.riaa.com/wp-content/uploads/2017/01/2016-RIAA-Awards.pdf)  
+   Link: <a href="https://www.riaa.com/wp-content/uploads/2017/01/2016-RIAA-Awards.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2017/01/2016-RIAA-Awards.pdf</a>  
 
 45. <a id="endnote-45"></a>
    Source: riaa.com  
    Title: RIAA APRIL 2017 AWARDS  
-   Link: [https://www.riaa.com/wp-content/uploads/2017/05/RIAA-APRIL-2017-AWARDS.pdf](https://www.riaa.com/wp-content/uploads/2017/05/RIAA-APRIL-2017-AWARDS.pdf)  
+   Link: <a href="https://www.riaa.com/wp-content/uploads/2017/05/RIAA-APRIL-2017-AWARDS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2017/05/RIAA-APRIL-2017-AWARDS.pdf</a>  
    Published: APRIL 2017  
 
 46. <a id="endnote-46"></a>
    Source: drake.fandom.com  
    Title: OVO Sound  
-   Link: [https://drake.fandom.com/wiki/OVO_Sound](https://drake.fandom.com/wiki/OVO_Sound)  
+   Link: <a href="https://drake.fandom.com/wiki/OVO_Sound" target="_blank" rel="noopener noreferrer nofollow">https://drake.fandom.com/wiki/OVO_Sound</a>  
 
 47. <a id="endnote-47"></a>
    Source: rapandhiphop.fandom.com  
-   Link: [https://rapandhiphop.fandom.com/wiki/Drake](https://rapandhiphop.fandom.com/wiki/Drake)  
+   Link: <a href="https://rapandhiphop.fandom.com/wiki/Drake" target="_blank" rel="noopener noreferrer nofollow">https://rapandhiphop.fandom.com/wiki/Drake</a>  
 
 48. <a id="endnote-48"></a>
    Source: degrassi.fandom.com  
    Title: Drake (entertainer)  
-   Link: [https://degrassi.fandom.com/wiki/Drake_%28entertainer%29](https://degrassi.fandom.com/wiki/Drake_%28entertainer%29)  
+   Link: <a href="https://degrassi.fandom.com/wiki/Drake_%28entertainer%29" target="_blank" rel="noopener noreferrer nofollow">https://degrassi.fandom.com/wiki/Drake_%28entertainer%29</a>  
 
 49. <a id="endnote-49"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/drake-becomes-first-artist-to-hold-top-three-billboard-hot-200-spots/](https://pitchfork.com/news/drake-becomes-first-artist-to-hold-top-three-billboard-hot-200-spots/)  
+   Link: <a href="https://pitchfork.com/news/drake-becomes-first-artist-to-hold-top-three-billboard-hot-200-spots/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/drake-becomes-first-artist-to-hold-top-three-billboard-hot-200-spots/</a>  
 
 50. <a id="endnote-50"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/judge-throws-out-drakes-not-like-us-defamation-lawsuit-against-universal-music-group/](https://pitchfork.com/news/judge-throws-out-drakes-not-like-us-defamation-lawsuit-against-universal-music-group/)  
+   Link: <a href="https://pitchfork.com/news/judge-throws-out-drakes-not-like-us-defamation-lawsuit-against-universal-music-group/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/judge-throws-out-drakes-not-like-us-defamation-lawsuit-against-universal-music-group/</a>  
 
 51. <a id="endnote-51"></a>
    Source: pitchfork.com  
    Title: drake care package  
-   Link: [https://pitchfork.com/reviews/albums/drake-care-package/](https://pitchfork.com/reviews/albums/drake-care-package/)  
+   Link: <a href="https://pitchfork.com/reviews/albums/drake-care-package/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/reviews/albums/drake-care-package/</a>  
 
 52. <a id="endnote-52"></a>
    Source: pitchfork.com  
    Title: 65661 drakes views tops half billion streams as one dance reclaims no 1  
-   Link: [https://pitchfork.com/news/65661-drakes-views-tops-half-billion-streams-as-one-dance-reclaims-no-1/](https://pitchfork.com/news/65661-drakes-views-tops-half-billion-streams-as-one-dance-reclaims-no-1/)  
+   Link: <a href="https://pitchfork.com/news/65661-drakes-views-tops-half-billion-streams-as-one-dance-reclaims-no-1/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/65661-drakes-views-tops-half-billion-streams-as-one-dance-reclaims-no-1/</a>  
 
 53. <a id="endnote-53"></a>
    Source: ovosound.com  
-   Link: [https://www.ovosound.com/artists](https://www.ovosound.com/artists)  
+   Link: <a href="https://www.ovosound.com/artists" target="_blank" rel="noopener noreferrer nofollow">https://www.ovosound.com/artists</a>  
 
 54. <a id="endnote-54"></a>
    Source: variety.com  
    Title: drakes not like us defamation suit universal music group dismissed 1236544861  
-   Link: [https://variety.com/2025/music/news/drakes-not-like-us-defamation-suit-universal-music-group-dismissed-1236544861/](https://variety.com/2025/music/news/drakes-not-like-us-defamation-suit-universal-music-group-dismissed-1236544861/)  
+   Link: <a href="https://variety.com/2025/music/news/drakes-not-like-us-defamation-suit-universal-music-group-dismissed-1236544861/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2025/music/news/drakes-not-like-us-defamation-suit-universal-music-group-dismissed-1236544861/</a>  
 
 55. <a id="endnote-55"></a>
    Source: people.com  
    Title: drake degrassi character school shooting victim documentary 11804782  
-   Link: [https://people.com/drake-degrassi-character-school-shooting-victim-documentary-11804782](https://people.com/drake-degrassi-character-school-shooting-victim-documentary-11804782)  
+   Link: <a href="https://people.com/drake-degrassi-character-school-shooting-victim-documentary-11804782" target="_blank" rel="noopener noreferrer nofollow">https://people.com/drake-degrassi-character-school-shooting-victim-documentary-11804782</a>  
 
 56. <a id="endnote-56"></a>
    Source: youtube.com  
    Title: Drake's DARK Truth: From Degrassi to Rap Icon (Full Documentary)  
-   Link: [https://www.youtube.com/watch?v=w4M8Syx9ulA](https://www.youtube.com/watch?v=w4M8Syx9ulA)  
+   Link: <a href="https://www.youtube.com/watch?v=w4M8Syx9ulA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w4M8Syx9ulA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake - Obey Your Thirst (Episode 1)...</p></details>
 
 57. <a id="endnote-57"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=VqIdFWZyYXQ](https://www.youtube.com/watch?v=VqIdFWZyYXQ)  
+   Link: <a href="https://www.youtube.com/watch?v=VqIdFWZyYXQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VqIdFWZyYXQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s Plan E1: Building the Dream Team...</p></details>
 
 58. <a id="endnote-58"></a>
    Source: youtube.com  
    Title: Drake's Plan E1: Building the Dream Team  
-   Link: [https://www.youtube.com/watch?v=5Hv2NcB-XIM](https://www.youtube.com/watch?v=5Hv2NcB-XIM)  
+   Link: <a href="https://www.youtube.com/watch?v=5Hv2NcB-XIM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5Hv2NcB-XIM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake - Certified Lover Boy ALBUM REVIEW...</p></details>
 
 59. <a id="endnote-59"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=k6ppxsRfZMA](https://www.youtube.com/watch?v=k6ppxsRfZMA)  
+   Link: <a href="https://www.youtube.com/watch?v=k6ppxsRfZMA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k6ppxsRfZMA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Certified Lover Boy January 2021...</p></details>
    Published: January 2021  
 
 60. <a id="endnote-60"></a>
    Source: Wikipedia  
    Title: OVO Sound  
-   Link: [https://en.wikipedia.org/wiki/OVO_Sound](https://en.wikipedia.org/wiki/OVO_Sound)  
+   Link: <a href="https://en.wikipedia.org/wiki/OVO_Sound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/OVO_Sound</a>  
 
 61. <a id="endnote-61"></a>
    Source: Wikipedia  
    Title: Take Care  
-   Link: [https://en.wikipedia.org/wiki/Take_Care](https://en.wikipedia.org/wiki/Take_Care)  
+   Link: <a href="https://en.wikipedia.org/wiki/Take_Care" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Take_Care</a>  
 
 62. <a id="endnote-62"></a>
    Source: Wikipedia  
    Title: One Dance  
-   Link: [https://en.wikipedia.org/wiki/One_Dance](https://en.wikipedia.org/wiki/One_Dance)  
+   Link: <a href="https://en.wikipedia.org/wiki/One_Dance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/One_Dance</a>  
 
 63. <a id="endnote-63"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=AOSOENaU61A](https://www.youtube.com/watch?v=AOSOENaU61A)  
+   Link: <a href="https://www.youtube.com/watch?v=AOSOENaU61A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AOSOENaU61A</a>  
 
 64. <a id="endnote-64"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0YPMV6iTy-U](https://www.youtube.com/watch?v=0YPMV6iTy-U)  
+   Link: <a href="https://www.youtube.com/watch?v=0YPMV6iTy-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0YPMV6iTy-U</a>  
 
 65. <a id="endnote-65"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/hiphopheads/comments/1avrogm/billboard_ranks_all_327_of_hot_100_hits_from_drake/](https://www.reddit.com/r/hiphopheads/comments/1avrogm/billboard_ranks_all_327_of_hot_100_hits_from_drake/)  
+   Link: <a href="https://www.reddit.com/r/hiphopheads/comments/1avrogm/billboard_ranks_all_327_of_hot_100_hits_from_drake/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hiphopheads/comments/1avrogm/billboard_ranks_all_327_of_hot_100_hits_from_drake/</a>  
 
 66. <a id="endnote-66"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Drake/](https://www.facebook.com/Drake/)  
+   Link: <a href="https://www.facebook.com/Drake/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Drake/</a>  
 
 67. <a id="endnote-67"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/name/nm1013044/bio/](https://www.imdb.com/name/nm1013044/bio/)  
+   Link: <a href="https://www.imdb.com/name/nm1013044/bio/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm1013044/bio/</a>  
 
 68. <a id="endnote-68"></a>
    Source: biography.com  
-   Link: [https://www.biography.com/musicians/drake](https://www.biography.com/musicians/drake)  
+   Link: <a href="https://www.biography.com/musicians/drake" target="_blank" rel="noopener noreferrer nofollow">https://www.biography.com/musicians/drake</a>  
 
 69. <a id="endnote-69"></a>
    Source: sputnikmusic.com  
-   Link: [https://www.sputnikmusic.com/review/35954/Drake-So-Far-Gone/](https://www.sputnikmusic.com/review/35954/Drake-So-Far-Gone/)  
+   Link: <a href="https://www.sputnikmusic.com/review/35954/Drake-So-Far-Gone/" target="_blank" rel="noopener noreferrer nofollow">https://www.sputnikmusic.com/review/35954/Drake-So-Far-Gone/</a>  
 
 70. <a id="endnote-70"></a>
    Source: sputnikmusic.com  
-   Link: [https://www.sputnikmusic.com/review/46542/Drake-Take-Care/](https://www.sputnikmusic.com/review/46542/Drake-Take-Care/)  
+   Link: <a href="https://www.sputnikmusic.com/review/46542/Drake-Take-Care/" target="_blank" rel="noopener noreferrer nofollow">https://www.sputnikmusic.com/review/46542/Drake-Take-Care/</a>  
 
 71. <a id="endnote-71"></a>
    Source: ru.scribd.com  
-   Link: [https://ru.scribd.com/presentation/527167830/Drake](https://ru.scribd.com/presentation/527167830/Drake)  
+   Link: <a href="https://ru.scribd.com/presentation/527167830/Drake" target="_blank" rel="noopener noreferrer nofollow">https://ru.scribd.com/presentation/527167830/Drake</a>  
 
 72. <a id="endnote-72"></a>
    Source: wbssmedia.com  
-   Link: [https://wbssmedia.com/artists/detail/2660](https://wbssmedia.com/artists/detail/2660)  
+   Link: <a href="https://wbssmedia.com/artists/detail/2660" target="_blank" rel="noopener noreferrer nofollow">https://wbssmedia.com/artists/detail/2660</a>  
 
 73. <a id="endnote-73"></a>
    Source: iam.com  
-   Link: [https://www.iam.com/musicians/celebrity-musicians/drake/](https://www.iam.com/musicians/celebrity-musicians/drake/)  
+   Link: <a href="https://www.iam.com/musicians/celebrity-musicians/drake/" target="_blank" rel="noopener noreferrer nofollow">https://www.iam.com/musicians/celebrity-musicians/drake/</a>  
 
 74. <a id="endnote-74"></a>
    Source: musicchartsarchive.com  
-   Link: [https://musicchartsarchive.com/artists/drake](https://musicchartsarchive.com/artists/drake)  
+   Link: <a href="https://musicchartsarchive.com/artists/drake" target="_blank" rel="noopener noreferrer nofollow">https://musicchartsarchive.com/artists/drake</a>  
 
 ### Additional References
 
 75. <a id="endnote-75"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Genius/posts/nokia-beomes-drakes-42nd-top-5-hit-on-the-billboard-hot-100-charts-extending-his/1096930462478487/](https://www.facebook.com/Genius/posts/nokia-beomes-drakes-42nd-top-5-hit-on-the-billboard-hot-100-charts-extending-his/1096930462478487/)  
+   Link: <a href="https://www.facebook.com/Genius/posts/nokia-beomes-drakes-42nd-top-5-hit-on-the-billboard-hot-100-charts-extending-his/1096930462478487/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Genius/posts/nokia-beomes-drakes-42nd-top-5-hit-on-the-billboard-hot-100-charts-extending-his/1096930462478487/</a>  
 
 76. <a id="endnote-76"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Genius/posts/10-years-ago-this-week-drakes-one-dance-featuring-kyla-and-wizkid-reached-no-1-o/1439671428204387/](https://www.facebook.com/Genius/posts/10-years-ago-this-week-drakes-one-dance-featuring-kyla-and-wizkid-reached-no-1-o/1439671428204387/)  
+   Link: <a href="https://www.facebook.com/Genius/posts/10-years-ago-this-week-drakes-one-dance-featuring-kyla-and-wizkid-reached-no-1-o/1439671428204387/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Genius/posts/10-years-ago-this-week-drakes-one-dance-featuring-kyla-and-wizkid-reached-no-1-o/1439671428204387/</a>  
 
 77. <a id="endnote-77"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PopCultureUpdates/posts/10-years-ago-today-drake-released-views-his-fourth-studio-album-which-debuted-at/992683036446709/](https://www.facebook.com/PopCultureUpdates/posts/10-years-ago-today-drake-released-views-his-fourth-studio-album-which-debuted-at/992683036446709/)  
+   Link: <a href="https://www.facebook.com/PopCultureUpdates/posts/10-years-ago-today-drake-released-views-his-fourth-studio-album-which-debuted-at/992683036446709/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PopCultureUpdates/posts/10-years-ago-today-drake-released-views-his-fourth-studio-album-which-debuted-at/992683036446709/</a>  
 
 78. <a id="endnote-78"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DWw0TuREZfP/?hl=en](https://www.instagram.com/p/DWw0TuREZfP/?hl=en)  
+   Link: <a href="https://www.instagram.com/p/DWw0TuREZfP/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWw0TuREZfP/?hl=en</a>  
 
 79. <a id="endnote-79"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Drizzy/comments/cmdl5x/a_history_of_ovo_fest_guests/](https://www.reddit.com/r/Drizzy/comments/cmdl5x/a_history_of_ovo_fest_guests/)  
+   Link: <a href="https://www.reddit.com/r/Drizzy/comments/cmdl5x/a_history_of_ovo_fest_guests/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Drizzy/comments/cmdl5x/a_history_of_ovo_fest_guests/</a>  
 
 80. <a id="endnote-80"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Billboard/posts/drake-has-taken-a-number-of-legal-actions-since-kendrick-lamar-dropped-not-like-/1197250652275511/](https://www.facebook.com/Billboard/posts/drake-has-taken-a-number-of-legal-actions-since-kendrick-lamar-dropped-not-like-/1197250652275511/)  
+   Link: <a href="https://www.facebook.com/Billboard/posts/drake-has-taken-a-number-of-legal-actions-since-kendrick-lamar-dropped-not-like-/1197250652275511/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/drake-has-taken-a-number-of-legal-actions-since-kendrick-lamar-dropped-not-like-/1197250652275511/</a>  
 
 81. <a id="endnote-81"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Pitchfork/posts/a-lonely-insecure-and-chaotically-honest-time-capsule-of-drake-at-his-most-creat/1332071115444209/](https://www.facebook.com/Pitchfork/posts/a-lonely-insecure-and-chaotically-honest-time-capsule-of-drake-at-his-most-creat/1332071115444209/)  
+   Link: <a href="https://www.facebook.com/Pitchfork/posts/a-lonely-insecure-and-chaotically-honest-time-capsule-of-drake-at-his-most-creat/1332071115444209/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Pitchfork/posts/a-lonely-insecure-and-chaotically-honest-time-capsule-of-drake-at-his-most-creat/1332071115444209/</a>  
 
 82. <a id="endnote-82"></a>
    Source: clickondetroit.com  
-   Link: [https://www.clickondetroit.com/entertainment/2026/05/14/after-the-kendrick-lamar-beef-can-drake-come-back-with-iceman/](https://www.clickondetroit.com/entertainment/2026/05/14/after-the-kendrick-lamar-beef-can-drake-come-back-with-iceman/)  
+   Link: <a href="https://www.clickondetroit.com/entertainment/2026/05/14/after-the-kendrick-lamar-beef-can-drake-come-back-with-iceman/" target="_blank" rel="noopener noreferrer nofollow">https://www.clickondetroit.com/entertainment/2026/05/14/after-the-kendrick-lamar-beef-can-drake-come-back-with-iceman/</a>  
 
 83. <a id="endnote-83"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/name/nm1013044/](https://www.imdb.com/name/nm1013044/)  
+   Link: <a href="https://www.imdb.com/name/nm1013044/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm1013044/</a>  
 
 84. <a id="endnote-84"></a>
    Source: hiphopscriptures.com  
-   Link: [https://www.hiphopscriptures.com/drake](https://www.hiphopscriptures.com/drake)  
+   Link: <a href="https://www.hiphopscriptures.com/drake" target="_blank" rel="noopener noreferrer nofollow">https://www.hiphopscriptures.com/drake</a>  

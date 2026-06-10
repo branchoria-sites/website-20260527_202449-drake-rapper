@@ -265,9 +265,9 @@ The strange part is that both ideas can be true at the same time. *Views* and *S
 
 By 2016, Drake already had hits, but *Views* changed the scale of his fame. It felt less like a rap album release and more like a worldwide streaming event.
 
-Part of that came from timing. Streaming was replacing downloads as the centre of music listening, and Drake understood the shift earlier than most major rappers. *Views* arrived during the height of Apple Music’s battle with Spotify, and Drake became one of the key faces of the streaming era. Apple Music even secured a temporary exclusive release for the album, turning the launch into a tech-platform moment as much as a music release. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/natalierobehmed/2016/04/12/why-drakes-views-from-the-6-is-coming-out-on-apple-music-rihanna-kanye-west/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">why drakes views from the 6 is coming out on apple music rihanna kanye west</span><span class="citation-popover-snippet">ForbesWhy Drake&#x27;s &#x27;Views From The 6&#x27; Is Coming Out On Apple...Apr 12, 2016 — Drake&#x27;s hotly-anticipated fourth studio album, Views from t...</span></span></span>
+Part of that came from timing. Streaming was replacing downloads as the centre of music listening, and Drake understood the shift earlier than most major rappers. *Views* arrived during the height of Apple Music’s battle with Spotify, and Drake became one of the key faces of the streaming era. Apple Music even secured a temporary exclusive release for the album, turning the launch into a tech-platform moment as much as a music release. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/natalierobehmed/2016/04/12/why-drakes-views-from-the-6-is-coming-out-on-apple-music-rihanna-kanye-west/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">why drakes views from the 6 is coming out on apple music rihanna kanye west</span><span class="citation-popover-snippet">Why Drake&#x27;s &#x27;Views From The 6&#x27; Is Coming Out On Apple...Apr 12, 2016 — Drake&#x27;s hotly-anticipated fourth studio album, Views from t...</span></span></span>
 
-The strategy worked immediately. *Views* broke the record for most album streams in a single week in the United States with 245 million plays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/65339-drakes-views-reaches-no-1-breaks-streaming-record/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Drake&#x27;s VIEWS Reaches No</span><span class="citation-popover-snippet">1, Breaks Streaming Record8 May 2016 — It&#x27;s now been confirmed that VIEWS is the No. 1 album on the Billboard 200 chart. It has broken th...</span><span class="citation-popover-meta">Published: May 2016</span></span></span> Even more impressive was the context: much of that happened while the album was still mainly tied to Apple Music, which had far fewer users than Spotify at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/hughmcintyre/2016/12/07/drake-is-on-top-of-apple-musics-biggest-in-2016-lists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">drake is on top of apple musics biggest in 2016 lists</span><span class="citation-popover-snippet">ForbesDrake Is On Top Of Apple Music&#x27;s Biggest In 2016 ListsDec 7, 2016 — In its first full frame of availability, Views racked up an ast...</span></span></span>
+The strategy worked immediately. *Views* broke the record for most album streams in a single week in the United States with 245 million plays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/65339-drakes-views-reaches-no-1-breaks-streaming-record/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Drake&#x27;s VIEWS Reaches No</span><span class="citation-popover-snippet">1, Breaks Streaming Record8 May 2016 — It&#x27;s now been confirmed that VIEWS is the No. 1 album on the Billboard 200 chart. It has broken th...</span><span class="citation-popover-meta">Published: May 2016</span></span></span> Even more impressive was the context: much of that happened while the album was still mainly tied to Apple Music, which had far fewer users than Spotify at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/hughmcintyre/2016/12/07/drake-is-on-top-of-apple-musics-biggest-in-2016-lists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">drake is on top of apple musics biggest in 2016 lists</span><span class="citation-popover-snippet">Drake Is On Top Of Apple Music&#x27;s Biggest In 2016 ListsDec 7, 2016 — In its first full frame of availability, Views racked up an ast...</span></span></span>
 
 Then came “One Dance”.
 
@@ -281,7 +281,7 @@ But this was also where the criticism started to grow.
 
 At 20 tracks, *Views* was longer than many fans expected. Critics and listeners argued that the album felt padded, with weaker songs included because streaming rewarded length. Every extra track meant more possible plays, more playlist placements and more chart activity. Even people who liked the album sometimes admitted it felt inconsistent compared with tighter Drake projects from earlier in his career. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/drake-iceman-habibti-maid-of-honour-albums-chart-records-reviews-2026-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">This bold move, characterized by sheer volume over artistic evolution, highlights Drake&#x27;s savvy business mindset. The albums, though comm...</span></span></span>
 
-That argument would follow Drake for years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/modern-music-analysis/scorpion-still-stings-31d33d8723c4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Scorpion by Drake | Album Review | Modern Music AnalysisDrake says the women has suddenly started acting out and they even get into a bra...</span></span></span>
+That argument would follow Drake for years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/modern-music-analysis/scorpion-still-stings-31d33d8723c4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Scorpion by Drake &#124; Album Review &#124; Modern Music AnalysisDrake says the women has suddenly started acting out and they even get into a bra...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_U0dGWBHyY" title="Drake - Views ALBUM REVIEW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_U0dGWBHyY" target="_blank" rel="noopener noreferrer">Drake - Views ALBUM REVIEW</a></p><p class="youtube-embed-meta">Channel: theneedledrop &middot; Views: 1.7M &middot; Uploaded: May 2016 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_U0dGWBHyY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_U0dGWBHyY">Open on YouTube</a></p></div></div></div>
@@ -294,7 +294,7 @@ Released in 2018, the double album arrived with massive anticipation because Dra
 
 Commercially, *Scorpion* was almost absurdly successful.
 
-Spotify reported the album was being streamed more than 10 million times per hour on release day. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/bryanrolli/2018/07/01/drakes-scorpion-first-day-streaming-record-no-1-album/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">ForbesDrake&#x27;s &#x27;Scorpion&#x27; Obliterates First-Day Streaming Records...Jul 1, 2018 — On Friday, Scorpion&#x27;s release day, the platform tweeted...</span></span></span> In the United States alone, it generated roughly 746 million first-week streams, smashing previous records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Scorpion_%28Drake_album%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Scorpion (Drake album</span><span class="citation-popover-snippet">Scorpion (Drake album</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.guinnessworldrecords.com/world-records/534327-first-album-to-generate-1-billion-audio-streams-in-a-single-week" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guinnessworldrecords.com">[Guinness World Records]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guinnessworldrecords.com</span><span class="citation-popover-snippet">First album to generate 1 billion audio streams in a single...In the USA alone, Scorpion racked up 745.92 million first-week on-demand a...</span></span></span> Globally, the project reportedly crossed one billion streams in its opening week. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universalmusic.ca/press-releases/drakes-scorpion-makes-history-smashes-first-week-streaming-record-1-billion-streams-1-album-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universalmusic.ca">[universalmusic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universalmusic.ca</span><span class="citation-popover-snippet">SMASHES FIRST-WEEK STREAMING RECORD WITH...DRAKE&#x27;S SCORPION MAKES HISTORY – SMASHES FIRST-WEEK STREAMING RECORD WITH OVER 1 BILLION STRE...</span></span></span>
+Spotify reported the album was being streamed more than 10 million times per hour on release day. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/bryanrolli/2018/07/01/drakes-scorpion-first-day-streaming-record-no-1-album/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Drake&#x27;s &#x27;Scorpion&#x27; Obliterates First-Day Streaming Records...Jul 1, 2018 — On Friday, Scorpion&#x27;s release day, the platform tweeted...</span></span></span> In the United States alone, it generated roughly 746 million first-week streams, smashing previous records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Scorpion_%28Drake_album%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Scorpion (Drake album</span><span class="citation-popover-snippet">Scorpion (Drake album</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.guinnessworldrecords.com/world-records/534327-first-album-to-generate-1-billion-audio-streams-in-a-single-week" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guinnessworldrecords.com">[Guinness World Records]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guinnessworldrecords.com</span><span class="citation-popover-snippet">First album to generate 1 billion audio streams in a single...In the USA alone, Scorpion racked up 745.92 million first-week on-demand a...</span></span></span> Globally, the project reportedly crossed one billion streams in its opening week. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universalmusic.ca/press-releases/drakes-scorpion-makes-history-smashes-first-week-streaming-record-1-billion-streams-1-album-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universalmusic.ca">[universalmusic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universalmusic.ca</span><span class="citation-popover-snippet">SMASHES FIRST-WEEK STREAMING RECORD WITH...DRAKE&#x27;S SCORPION MAKES HISTORY – SMASHES FIRST-WEEK STREAMING RECORD WITH OVER 1 BILLION STRE...</span></span></span>
 
 The album also overwhelmed the charts. Every one of its 25 songs entered the Billboard Hot 100, and Drake became the first artist to debut four songs simultaneously inside the top 10. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Drake_%28musician%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Drake (musician</span><span class="citation-popover-snippet">Drake (musician)Aubrey Drake Graham (born October 24, 1986) is a Canadian rapper, singer, and actor. He is credited with popularizing...</span><span class="citation-popover-meta">Published: October 24, 1986</span></span></span>
 
@@ -721,217 +721,218 @@ In other words, *Views* and *Scorpion* may not have ended the argument over Drak
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: forbes.com  
    Title: why drakes views from the 6 is coming out on apple music rihanna kanye west  
-   Link: [https://www.forbes.com/sites/natalierobehmed/2016/04/12/why-drakes-views-from-the-6-is-coming-out-on-apple-music-rihanna-kanye-west/](https://www.forbes.com/sites/natalierobehmed/2016/04/12/why-drakes-views-from-the-6-is-coming-out-on-apple-music-rihanna-kanye-west/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForbesWhy Drake&#x27;s &#x27;Views From The 6&#x27; Is Coming Out On Apple...Apr 12, 2016 — Drake&#x27;s hotly-anticipated fourth studio album, Views from t...</p></details>
+   Link: <a href="https://www.forbes.com/sites/natalierobehmed/2016/04/12/why-drakes-views-from-the-6-is-coming-out-on-apple-music-rihanna-kanye-west/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/natalierobehmed/2016/04/12/why-drakes-views-from-the-6-is-coming-out-on-apple-music-rihanna-kanye-west/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Drake&#x27;s &#x27;Views From The 6&#x27; Is Coming Out On Apple...Apr 12, 2016 — Drake&#x27;s hotly-anticipated fourth studio album, Views from t...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pitchfork.com  
    Title: Drake's VIEWS Reaches No  
-   Link: [https://pitchfork.com/news/65339-drakes-views-reaches-no-1-breaks-streaming-record/](https://pitchfork.com/news/65339-drakes-views-reaches-no-1-breaks-streaming-record/)  
+   Link: <a href="https://pitchfork.com/news/65339-drakes-views-reaches-no-1-breaks-streaming-record/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/65339-drakes-views-reaches-no-1-breaks-streaming-record/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1, Breaks Streaming Record8 May 2016 — It&#x27;s now been confirmed that VIEWS is the No. 1 album on the Billboard 200 chart. It has broken th...</p></details>
    Published: May 2016  
 
 3. <a id="endnote-3"></a>
    Source: forbes.com  
    Title: drake is on top of apple musics biggest in 2016 lists  
-   Link: [https://www.forbes.com/sites/hughmcintyre/2016/12/07/drake-is-on-top-of-apple-musics-biggest-in-2016-lists/](https://www.forbes.com/sites/hughmcintyre/2016/12/07/drake-is-on-top-of-apple-musics-biggest-in-2016-lists/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForbesDrake Is On Top Of Apple Music&#x27;s Biggest In 2016 ListsDec 7, 2016 — In its first full frame of availability, Views racked up an ast...</p></details>
+   Link: <a href="https://www.forbes.com/sites/hughmcintyre/2016/12/07/drake-is-on-top-of-apple-musics-biggest-in-2016-lists/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/hughmcintyre/2016/12/07/drake-is-on-top-of-apple-musics-biggest-in-2016-lists/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake Is On Top Of Apple Music&#x27;s Biggest In 2016 ListsDec 7, 2016 — In its first full frame of availability, Views racked up an ast...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: vogue.com  
    Title: drake most streamed artist on spotify  
-   Link: [https://www.vogue.com/article/drake-most-streamed-artist-on-spotify](https://www.vogue.com/article/drake-most-streamed-artist-on-spotify)  
+   Link: <a href="https://www.vogue.com/article/drake-most-streamed-artist-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/drake-most-streamed-artist-on-spotify</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>His success was largely driven by his album &quot;Views,&quot; which was the most streamed album of the year, and his hit single &quot;One Dance,&quot; the t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/bryanrolli/2018/07/01/drakes-scorpion-first-day-streaming-record-no-1-album/](https://www.forbes.com/sites/bryanrolli/2018/07/01/drakes-scorpion-first-day-streaming-record-no-1-album/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForbesDrake&#x27;s &#x27;Scorpion&#x27; Obliterates First-Day Streaming Records...Jul 1, 2018 — On Friday, Scorpion&#x27;s release day, the platform tweeted...</p></details>
+   Link: <a href="https://www.forbes.com/sites/bryanrolli/2018/07/01/drakes-scorpion-first-day-streaming-record-no-1-album/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/bryanrolli/2018/07/01/drakes-scorpion-first-day-streaming-record-no-1-album/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake&#x27;s &#x27;Scorpion&#x27; Obliterates First-Day Streaming Records...Jul 1, 2018 — On Friday, Scorpion&#x27;s release day, the platform tweeted...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Scorpion (Drake album)  
-   Link: [https://en.wikipedia.org/wiki/Scorpion_%28Drake_album%29](https://en.wikipedia.org/wiki/Scorpion_%28Drake_album%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Scorpion_%28Drake_album%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scorpion_%28Drake_album%29</a>  
 
 7. <a id="endnote-7"></a>
    Source: universalmusic.ca  
-   Link: [https://www.universalmusic.ca/press-releases/drakes-scorpion-makes-history-smashes-first-week-streaming-record-1-billion-streams-1-album-world/](https://www.universalmusic.ca/press-releases/drakes-scorpion-makes-history-smashes-first-week-streaming-record-1-billion-streams-1-album-world/)  
+   Link: <a href="https://www.universalmusic.ca/press-releases/drakes-scorpion-makes-history-smashes-first-week-streaming-record-1-billion-streams-1-album-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.universalmusic.ca/press-releases/drakes-scorpion-makes-history-smashes-first-week-streaming-record-1-billion-streams-1-album-world/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SMASHES FIRST-WEEK STREAMING RECORD WITH...DRAKE&#x27;S SCORPION MAKES HISTORY – SMASHES FIRST-WEEK STREAMING RECORD WITH OVER 1 BILLION STRE...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/reviews/albums/drake-scorpion](https://pitchfork.com/reviews/albums/drake-scorpion)  
+   Link: <a href="https://pitchfork.com/reviews/albums/drake-scorpion" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/reviews/albums/drake-scorpion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Scorpion&quot; isn&#x27;t solely about fatherhood but features themes typical of Drake&#x27;s work, including relationships and celebrity burdens. The...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: time.com  
-   Link: [https://time.com/5326409/drake-scorpion-album-review/](https://time.com/5326409/drake-scorpion-album-review/)  
+   Link: <a href="https://time.com/5326409/drake-scorpion-album-review/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5326409/drake-scorpion-album-review/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite his efforts to blend pop and hip-hop, Drake&#x27;s introspective gestures are inconsistent, and the album fails to deliver a transcend...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/hughmcintyre/2016/05/07/drakes-views-debuts-with-the-largest-first-week-sales-frame-by-a-man-in-years/](https://www.forbes.com/sites/hughmcintyre/2016/05/07/drakes-views-debuts-with-the-largest-first-week-sales-frame-by-a-man-in-years/)  
+   Link: <a href="https://www.forbes.com/sites/hughmcintyre/2016/05/07/drakes-views-debuts-with-the-largest-first-week-sales-frame-by-a-man-in-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/hughmcintyre/2016/05/07/drakes-views-debuts-with-the-largest-first-week-sales-frame-by-a-man-in-years/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake&#x27;s &#x27;Views&#x27; Debuts With The Largest First-Week Sales...May 7, 2016 — The latest collection from the hip-hop star sold an incredible...</p></details>
    Published: May 7, 2016  
 
 11. <a id="endnote-11"></a>
    Source: forbes.com  
    Title: Drake's 'Scorpion' Debuts At No  
-   Link: [https://www.forbes.com/sites/hughmcintyre/2018/07/08/drakes-scorpion-debuts-at-no-1-with-the-largest-opening-week-of-2018/](https://www.forbes.com/sites/hughmcintyre/2018/07/08/drakes-scorpion-debuts-at-no-1-with-the-largest-opening-week-of-2018/)  
+   Link: <a href="https://www.forbes.com/sites/hughmcintyre/2018/07/08/drakes-scorpion-debuts-at-no-1-with-the-largest-opening-week-of-2018/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/hughmcintyre/2018/07/08/drakes-scorpion-debuts-at-no-1-with-the-largest-opening-week-of-2018/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 With The Largest...8 Jul 2018 — Drake&#x27;s &#x27;Scorpion&#x27; Debuts At No. 1 With The Largest Opening Week Of 2018 · Some artists have a good sh...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: forbes.com  
    Title: drakes views is the first album to hit 1 billion streams on apple music  
-   Link: [https://www.forbes.com/sites/hughmcintyre/2016/09/27/drakes-views-is-the-first-album-to-hit-1-billion-streams-on-apple-music/](https://www.forbes.com/sites/hughmcintyre/2016/09/27/drakes-views-is-the-first-album-to-hit-1-billion-streams-on-apple-music/)  
+   Link: <a href="https://www.forbes.com/sites/hughmcintyre/2016/09/27/drakes-views-is-the-first-album-to-hit-1-billion-streams-on-apple-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/hughmcintyre/2016/09/27/drakes-views-is-the-first-album-to-hit-1-billion-streams-on-apple-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake&#x27;s &#x27;Views&#x27; Is The First Album To Hit One Billion...27 Sept 2016 — The rapper&#x27;s album Views has just become the first to accrue one...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: billboard.com  
    Title: Drake Has 12 Albums on the Billboard 200 Chart for the First Time  
-   Link: [https://www.billboard.com/music/chart-beat/drake-12-albums-billboard-200-chart-1236257628/](https://www.billboard.com/music/chart-beat/drake-12-albums-billboard-200-chart-1236257628/)  
+   Link: <a href="https://www.billboard.com/music/chart-beat/drake-12-albums-billboard-200-chart-1236257628/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/drake-12-albums-billboard-200-chart-1236257628/</a>  
 
 14. <a id="endnote-14"></a>
    Source: billboard.com  
    Title: drake views sales week career best  
-   Link: [https://www.billboard.com/pro/drake-views-sales-week-career-best/](https://www.billboard.com/pro/drake-views-sales-week-career-best/)  
+   Link: <a href="https://www.billboard.com/pro/drake-views-sales-week-career-best/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/drake-views-sales-week-career-best/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake Set for Career-Best Sales Week With &#x27;Views&#x27;Apr 30, 2016 — The set was released exclusively for sale through the iTunes Store and to...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/artist/drake/](https://www.billboard.com/artist/drake/)  
+   Link: <a href="https://www.billboard.com/artist/drake/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/artist/drake/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y is Oct. 24, 1986, and his height is 6&#x27;0&quot;...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: music.apple.com  
-   Link: [https://music.apple.com/us/album/views/1440841363](https://music.apple.com/us/album/views/1440841363)  
+   Link: <a href="https://music.apple.com/us/album/views/1440841363" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/us/album/views/1440841363</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Album by DrakeListen to Views by Drake on Apple Music. 2016. 20 Songs. Duration: 1 hour 21 minutes... On the cover of his fourth studio...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: music.apple.com  
-   Link: [https://music.apple.com/us/artist/drake/271256](https://music.apple.com/us/artist/drake/271256)  
+   Link: <a href="https://music.apple.com/us/artist/drake/271256" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/us/artist/drake/271256</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aubrey Drake Graham in Toronto in 1986, he—like Tupac—became the voice of a generation and prism for his pop-cultural moment...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Drake (musician)  
-   Link: [https://en.wikipedia.org/wiki/Drake_%28musician%29](https://en.wikipedia.org/wiki/Drake_%28musician%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Drake_%28musician%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Drake_%28musician%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake (musician)Aubrey Drake Graham (born October 24, 1986) is a Canadian rapper, singer, and actor. He is credited with popularizing...</p></details>
    Published: October 24, 1986  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Views (album)  
-   Link: [https://en.wikipedia.org/wiki/Views_%28album%29](https://en.wikipedia.org/wiki/Views_%28album%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Views_%28album%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Views_%28album%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Views (album)Views is the fourth studio album by Canadian rapper Drake. It was released on April 29, 2016, by Cash Money Records, Repu...</p></details>
    Published: April 29, 2016  
 
 20. <a id="endnote-20"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4)  
+   Link: <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rapper and vocalist Drake has retained a bigger-than-life commercial presence shortly after he hit the scene in 2006, whether with his own...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Why Drake Dropped 3 Albums At Once  
-   Link: [https://www.youtube.com/watch?v=Xzm81SuCjJk](https://www.youtube.com/watch?v=Xzm81SuCjJk)  
+   Link: <a href="https://www.youtube.com/watch?v=Xzm81SuCjJk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xzm81SuCjJk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake - Views ALBUM REVIEW...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=4_U0dGWBHyY](https://www.youtube.com/watch?v=4_U0dGWBHyY)  
+   Link: <a href="https://www.youtube.com/watch?v=4_U0dGWBHyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4_U0dGWBHyY</a>  
 
 23. <a id="endnote-23"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/drake-iceman-habibti-maid-of-honour-albums-chart-records-reviews-2026-5](https://www.businessinsider.com/drake-iceman-habibti-maid-of-honour-albums-chart-records-reviews-2026-5)  
+   Link: <a href="https://www.businessinsider.com/drake-iceman-habibti-maid-of-honour-albums-chart-records-reviews-2026-5" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/drake-iceman-habibti-maid-of-honour-albums-chart-records-reviews-2026-5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This bold move, characterized by sheer volume over artistic evolution, highlights Drake&#x27;s savvy business mindset. The albums, though comm...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: kojodadzie.com  
    Title: you know what im saying drakes scorpion album review  
-   Link: [https://www.kojodadzie.com/artistic-integrity/2018/7/18/you-know-what-im-saying-drakes-scorpion-album-review](https://www.kojodadzie.com/artistic-integrity/2018/7/18/you-know-what-im-saying-drakes-scorpion-album-review)  
+   Link: <a href="https://www.kojodadzie.com/artistic-integrity/2018/7/18/you-know-what-im-saying-drakes-scorpion-album-review" target="_blank" rel="noopener noreferrer nofollow">https://www.kojodadzie.com/artistic-integrity/2018/7/18/you-know-what-im-saying-drakes-scorpion-album-review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This album felt more like a playlist than &#x27;More Life&#x27; did. I find myself revisiting &#x27;Scorpion&#x27;, but not...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: guinnessworldrecords.com  
-   Link: [https://www.guinnessworldrecords.com/world-records/534327-first-album-to-generate-1-billion-audio-streams-in-a-single-week](https://www.guinnessworldrecords.com/world-records/534327-first-album-to-generate-1-billion-audio-streams-in-a-single-week)  
+   Link: <a href="https://www.guinnessworldrecords.com/world-records/534327-first-album-to-generate-1-billion-audio-streams-in-a-single-week" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/world-records/534327-first-album-to-generate-1-billion-audio-streams-in-a-single-week</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First album to generate 1 billion audio streams in a single...In the USA alone, Scorpion racked up 745.92 million first-week on-demand a...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: guinnessworldrecords.com  
    Title: Most streamed album by a male artist in one week (USA)  
-   Link: [https://www.guinnessworldrecords.com/world-records/769033-most-streamed-album-by-a-male-artist-in-one-week-usa](https://www.guinnessworldrecords.com/world-records/769033-most-streamed-album-by-a-male-artist-in-one-week-usa)  
+   Link: <a href="https://www.guinnessworldrecords.com/world-records/769033-most-streamed-album-by-a-male-artist-in-one-week-usa" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/world-records/769033-most-streamed-album-by-a-male-artist-in-one-week-usa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scorpion amassed 745.92 million on-demand official streams when it debuted at No.1 on the US Billboard 200 on 14 July 2018. There was a s...</p></details>
    Published: July 2018  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/beatsrhymeslounge/posts/27243056205342785/](https://www.facebook.com/groups/beatsrhymeslounge/posts/27243056205342785/)  
+   Link: <a href="https://www.facebook.com/groups/beatsrhymeslounge/posts/27243056205342785/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/beatsrhymeslounge/posts/27243056205342785/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scorpion or Drake Views From The 6Drake - Scorpion or Drake Views From The 6...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: albumoftheyear.org  
-   Link: [https://www.albumoftheyear.org/user/turbulencessb/album/108155-scorpion/](https://www.albumoftheyear.org/user/turbulencessb/album/108155-scorpion/)  
+   Link: <a href="https://www.albumoftheyear.org/user/turbulencessb/album/108155-scorpion/" target="_blank" rel="noopener noreferrer nofollow">https://www.albumoftheyear.org/user/turbulencessb/album/108155-scorpion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>it was simply bad mixing and a very, very uncomfortable song overall. Ratchet Happy Birthday is a candidate for the best worst song...Re...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: medium.com  
-   Link: [https://medium.com/modern-music-analysis/scorpion-still-stings-31d33d8723c4](https://medium.com/modern-music-analysis/scorpion-still-stings-31d33d8723c4)  
+   Link: <a href="https://medium.com/modern-music-analysis/scorpion-still-stings-31d33d8723c4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/modern-music-analysis/scorpion-still-stings-31d33d8723c4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scorpion by Drake | Album Review | Modern Music AnalysisDrake says the women has suddenly started acting out and they even get into a bra...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Drizzy/comments/ijw1n1/views_or_scorpion/](https://www.reddit.com/r/Drizzy/comments/ijw1n1/views_or_scorpion/)  
+   Link: <a href="https://www.reddit.com/r/Drizzy/comments/ijw1n1/views_or_scorpion/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Drizzy/comments/ijw1n1/views_or_scorpion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Views or Scorpion?: r/DrizzyThese 2 are considered Drake&#x27;s worst projects by those outside his core fan base. But we all know it&#x27;s cause...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/name/nm1013044/](https://www.imdb.com/name/nm1013044/)  
+   Link: <a href="https://www.imdb.com/name/nm1013044/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm1013044/</a>  
 
 32. <a id="endnote-32"></a>
    Source: drakerelated.com  
-   Link: [https://drakerelated.com/](https://drakerelated.com/)  
+   Link: <a href="https://drakerelated.com/" target="_blank" rel="noopener noreferrer nofollow">https://drakerelated.com/</a>  
 
 33. <a id="endnote-33"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/arts-entertainment/music/reviews/drake-scorpion-album-review-tracklist-lyrics-son-pusha-t-samples-features-a8423206.html](https://www.independent.co.uk/arts-entertainment/music/reviews/drake-scorpion-album-review-tracklist-lyrics-son-pusha-t-samples-features-a8423206.html)  
+   Link: <a href="https://www.independent.co.uk/arts-entertainment/music/reviews/drake-scorpion-album-review-tracklist-lyrics-son-pusha-t-samples-features-a8423206.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/arts-entertainment/music/reviews/drake-scorpion-album-review-tracklist-lyrics-son-pusha-t-samples-features-a8423206.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake, Scorpion album review: Lacks a sting in the tail29 Jun 2018 — His fifth album Scorpion is over-stuffed with material that varies d...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: digitalmusicnews.com  
    Title: apple music takes another hit at spotify with drake exclusive  
-   Link: [https://www.digitalmusicnews.com/2016/04/10/apple-music-takes-another-hit-at-spotify-with-drake-exclusive/](https://www.digitalmusicnews.com/2016/04/10/apple-music-takes-another-hit-at-spotify-with-drake-exclusive/)  
+   Link: <a href="https://www.digitalmusicnews.com/2016/04/10/apple-music-takes-another-hit-at-spotify-with-drake-exclusive/" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalmusicnews.com/2016/04/10/apple-music-takes-another-hit-at-spotify-with-drake-exclusive/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake Punishes Fans Again With an Apple Music ExclusiveApr 10, 2016 — Drake&#x27;s album Views From the 6 will be an Apple Music exclusive, le...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: theguardian.com  
    Title: The Guardian Drake: Iceman / Maid of Honour / Habibti review  
-   Link: [https://www.theguardian.com/music/2026/may/15/drake-iceman-maid-of-honour-habibti-review-triple-album-comeback-is-a-boring-bloated-disaster](https://www.theguardian.com/music/2026/may/15/drake-iceman-maid-of-honour-habibti-review-triple-album-comeback-is-a-boring-bloated-disaster)  
+   Link: <a href="https://www.theguardian.com/music/2026/may/15/drake-iceman-maid-of-honour-habibti-review-triple-album-comeback-is-a-boring-bloated-disaster" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2026/may/15/drake-iceman-maid-of-honour-habibti-review-triple-album-comeback-is-a-boring-bloated-disaster</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Following a public rap feud loss, legal entanglements involving gambling, and associations with controversial internet figures, Drake&#x27;s l...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: djbooth.net  
    Title: 2016 09 26 drake views billion streams on apple music  
-   Link: [https://djbooth.net/features/2016-09-26-drake-views-billion-streams-on-apple-music/](https://djbooth.net/features/2016-09-26-drake-views-billion-streams-on-apple-music/)  
+   Link: <a href="https://djbooth.net/features/2016-09-26-drake-views-billion-streams-on-apple-music/" target="_blank" rel="noopener noreferrer nofollow">https://djbooth.net/features/2016-09-26-drake-views-billion-streams-on-apple-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake&#x27;s “Views” Becomes First Album to Achieve 1 Billion...Sep 26, 2016 — Drake&#x27;s “Views” Becomes First Album to Achieve 1 Billion Strea...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: complex.com  
    Title: drakes views sold 851000 copies in its first week  
-   Link: [https://www.complex.com/music/a/corbin-reiff/drakes-views-sold-851000-copies-in-its-first-week](https://www.complex.com/music/a/corbin-reiff/drakes-views-sold-851000-copies-in-its-first-week)  
+   Link: <a href="https://www.complex.com/music/a/corbin-reiff/drakes-views-sold-851000-copies-in-its-first-week" target="_blank" rel="noopener noreferrer nofollow">https://www.complex.com/music/a/corbin-reiff/drakes-views-sold-851000-copies-in-its-first-week</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake&#x27;s &#x27;VIEWS&#x27; Had Biggest Sales Week of Any 2016 AlbumMay 7, 2016 — The numbers are in and according to Billboard&#x27;s tabulations, Drake...</p></details>
    Published: May 7, 2016  
 
 38. <a id="endnote-38"></a>
    Source: thatgrapejuice.net  
    Title: Drake's 'VIEWS' Eyes 1 Million First Week Sales  
-   Link: [https://thatgrapejuice.net/2016/05/drakes-views-eyes-1-million-first-week-sales/](https://thatgrapejuice.net/2016/05/drakes-views-eyes-1-million-first-week-sales/)  
+   Link: <a href="https://thatgrapejuice.net/2016/05/drakes-views-eyes-1-million-first-week-sales/" target="_blank" rel="noopener noreferrer nofollow">https://thatgrapejuice.net/2016/05/drakes-views-eyes-1-million-first-week-sales/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 2, 2016 — The MC is now set for a 1 million US sales debut – a number which rises to 1.2 million when factoring in streaming from App...</p></details>
    Published: May 2, 2016  

@@ -770,188 +770,189 @@ Even debates about his music often confirm how effective the formula became. Cri
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: open.spotify.com  
    Title: Best of Drake  
-   Link: [https://open.spotify.com/playlist/77xkMCLAsa6mkbCBnMBfQ3](https://open.spotify.com/playlist/77xkMCLAsa6mkbCBnMBfQ3)  
+   Link: <a href="https://open.spotify.com/playlist/77xkMCLAsa6mkbCBnMBfQ3" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/77xkMCLAsa6mkbCBnMBfQ3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Drake - playlist by SpottinyBest of Drake · Over · Hotline Bling · God&#x27;s Plan · One Dance · Nice For What · Energy · Too Good · Headlines...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: graphsaboutsongs.com  
    Title: Does The #1 Song Even Matter Anymore?  
-   Link: [https://www.graphsaboutsongs.com/p/does-the-1-song-even-matter-anymore](https://www.graphsaboutsongs.com/p/does-the-1-song-even-matter-anymore)  
+   Link: <a href="https://www.graphsaboutsongs.com/p/does-the-1-song-even-matter-anymore" target="_blank" rel="noopener noreferrer nofollow">https://www.graphsaboutsongs.com/p/does-the-1-song-even-matter-anymore</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Matt BaileyAugust 1, 2024 — 1 Aug 2024 — Streaming has fundamentally changed how we measure music consumption. Has it also ruined the...</p></details>
    Published: August 1, 2024  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Views_%28album%29](https://en.wikipedia.org/wiki/Views_%28album%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Views_%28album%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Views_%28album%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2016, by Cash Money Records, Republic Records, and Young Money...Read more...</p></details>
    Published: April 29, 2016  
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: You Tube Drake  
-   Link: [https://www.youtube.com/watch?v=uxpDa-c-4Mc](https://www.youtube.com/watch?v=uxpDa-c-4Mc)  
+   Link: <a href="https://www.youtube.com/watch?v=uxpDa-c-4Mc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uxpDa-c-4Mc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Drake - Hotline BlingOctober 26, 2015 — Hotline Bling (Official Video) Available for download here! [http://republicrec.co/DrakeHot...&quot;](http://republicrec.co/DrakeHot...&quot;)...</p></details>
    Published: October 26, 2015  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Drizzy/comments/139rzig/what_is_drakes_most_iconic_music_video/](https://www.reddit.com/r/Drizzy/comments/139rzig/what_is_drakes_most_iconic_music_video/)  
+   Link: <a href="https://www.reddit.com/r/Drizzy/comments/139rzig/what_is_drakes_most_iconic_music_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Drizzy/comments/139rzig/what_is_drakes_most_iconic_music_video/</a>  
 
 6. <a id="endnote-6"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DXsapPjDE46/?__d=11](https://www.instagram.com/p/DXsapPjDE46/?__d=11)  
+   Link: <a href="https://www.instagram.com/p/DXsapPjDE46/?__d=11" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXsapPjDE46/?__d=11</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nce moves, to the cinematic storytelling and real-life generosity...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DQA4bFDEQgM/?hl=en-gb](https://www.instagram.com/reel/DQA4bFDEQgM/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/DQA4bFDEQgM/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQA4bFDEQgM/?hl=en-gb</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ready and fun/experimental, with potential for replay value in clubs...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: You Tube Drake  
-   Link: [https://www.youtube.com/watch?v=xpVfcZ0ZcFM](https://www.youtube.com/watch?v=xpVfcZ0ZcFM)  
+   Link: <a href="https://www.youtube.com/watch?v=xpVfcZ0ZcFM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xpVfcZ0ZcFM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake - God&#x27;s PlanFebruary 17, 2018 — God&#x27;s Plan (Official Video) Song Available Here: [https://Drake.lnk.to/ScaryHoursYD](https://Drake.lnk.to/ScaryHoursYD) Directed...</p></details>
    Published: February 17, 2018  
 
 9. <a id="endnote-9"></a>
    Source: time.com  
-   Link: [https://time.com/5180878/drake-gods-plan-memes/](https://time.com/5180878/drake-gods-plan-memes/)  
+   Link: <a href="https://time.com/5180878/drake-gods-plan-memes/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5180878/drake-gods-plan-memes/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This act of kindness has sparked a wave of parody memes on Twitter, where users humorously caption a GIF of Drake hugging a fan with triv...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ca.billboard.com  
-   Link: [https://ca.billboard.com/music/rb-hip-hop/drake-sets-2026-spotify-record-for-most-streamed-artist-album-song-in-a-single-day](https://ca.billboard.com/music/rb-hip-hop/drake-sets-2026-spotify-record-for-most-streamed-artist-album-song-in-a-single-day)  
+   Link: <a href="https://ca.billboard.com/music/rb-hip-hop/drake-sets-2026-spotify-record-for-most-streamed-artist-album-song-in-a-single-day" target="_blank" rel="noopener noreferrer nofollow">https://ca.billboard.com/music/rb-hip-hop/drake-sets-2026-spotify-record-for-most-streamed-artist-album-song-in-a-single-day</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard CanadaDrake Sets 2026 Spotify Record for Most-Streamed Artist...May 16, 2026 — 16 May 2026 — Drake Sets 2026 Spotify Record fo...</p></details>
    Published: May 16, 2026  
 
 11. <a id="endnote-11"></a>
    Source: hiphopcanada.com  
-   Link: [https://hiphopcanada.com/drake-breaking-billboard-records/](https://hiphopcanada.com/drake-breaking-billboard-records/)  
+   Link: <a href="https://hiphopcanada.com/drake-breaking-billboard-records/" target="_blank" rel="noopener noreferrer nofollow">https://hiphopcanada.com/drake-breaking-billboard-records/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake Breaks Multiple Billboard Records With Historic Trilogy3 hours ago — Drake makes Billboard history with Iceman, Habibti and Maid of...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DUEaKyJDCjK/](https://www.instagram.com/p/DUEaKyJDCjK/)  
+   Link: <a href="https://www.instagram.com/p/DUEaKyJDCjK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUEaKyJDCjK/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e Bling, and Too Good. You then also have some of your fan...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DWAvci-CaI8/](https://www.instagram.com/reel/DWAvci-CaI8/)  
+   Link: <a href="https://www.instagram.com/reel/DWAvci-CaI8/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWAvci-CaI8/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MORE LIFE by Drake turns 9 years old today Drake described...* Helped define modern rap-and-R&amp;B fusion * Major influence on global music...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DX_00rkjCvU/](https://www.instagram.com/p/DX_00rkjCvU/)  
+   Link: <a href="https://www.instagram.com/p/DX_00rkjCvU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DX_00rkjCvU/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rolla,” Views helped solidify Drake&#x27;s position as a global...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYK2aPbieuz/](https://www.instagram.com/p/DYK2aPbieuz/)  
+   Link: <a href="https://www.instagram.com/p/DYK2aPbieuz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYK2aPbieuz/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake is top 3 in Spotify history, and these are the songs...DRAKE JUST MADE HISTORY AS THE FIRST RAPPER WITH 6 ALBUMS OVER 5B STREAMS D...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYXQuXGDeCs/?hl=el&img_index=2](https://www.instagram.com/p/DYXQuXGDeCs/?hl=el&img_index=2)  
+   Link: <a href="https://www.instagram.com/p/DYXQuXGDeCs/?hl=el&amp;img_index=2" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYXQuXGDeCs/?hl=el&amp;img_index=2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake just dropped 3 albumsSongs like “Hotline Bling,” “God&#x27;s Plan,” and “One Dance” helped him dominate streaming platforms and break mu...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Drizzy/comments/5l5kcp/make_a_14song_playlist_for_the_homie_who_heard/](https://www.reddit.com/r/Drizzy/comments/5l5kcp/make_a_14song_playlist_for_the_homie_who_heard/)  
+   Link: <a href="https://www.reddit.com/r/Drizzy/comments/5l5kcp/make_a_14song_playlist_for_the_homie_who_heard/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Drizzy/comments/5l5kcp/make_a_14song_playlist_for_the_homie_who_heard/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e&quot; and decided he wanted to give Drizzy a chance. Spotify playlist...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Drizzy/comments/1tkn942/drake_dominates_the_us_spotify_market_he_is_the/](https://www.reddit.com/r/Drizzy/comments/1tkn942/drake_dominates_the_us_spotify_market_he_is_the/)  
+   Link: <a href="https://www.reddit.com/r/Drizzy/comments/1tkn942/drake_dominates_the_us_spotify_market_he_is_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Drizzy/comments/1tkn942/drake_dominates_the_us_spotify_market_he_is_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake DOMINATES the US Spotify market, he is the cultureBiggest US Spotify streaming debut weeks for a Hip Hop album in order: ‪Drake - S...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4)  
+   Link: <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comDrake... Billboard&#x27;s Hot R&amp;B/Hip-Hop Songs chart. After a fierce bidding war, Drake signed with Universal Motown in late summe...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Hotline Bling How to do Drake's dance from Hotline Bling  
-   Link: [https://www.youtube.com/watch?v=USo0sAaJKR0](https://www.youtube.com/watch?v=USo0sAaJKR0)  
+   Link: <a href="https://www.youtube.com/watch?v=USo0sAaJKR0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=USo0sAaJKR0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hotline BlingHow to do Drake&#x27;s dance from Hotline Bling - Dance meme serie #shorts. 1.9M views. How to dance like Drake in Hotline Bling...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Noah '40' Shebib on producing Drake | Native Instruments  
-   Link: [https://www.youtube.com/watch?v=cl23qnQQ3J0](https://www.youtube.com/watch?v=cl23qnQQ3J0)  
+   Link: <a href="https://www.youtube.com/watch?v=cl23qnQQ3J0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cl23qnQQ3J0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What makes Noah 40&#x27;s Production So Incredible??...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: What makes Noah 40's Production So Incredible??  
-   Link: [https://www.youtube.com/watch?v=mzI98cB_DdI](https://www.youtube.com/watch?v=mzI98cB_DdI)  
+   Link: <a href="https://www.youtube.com/watch?v=mzI98cB_DdI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mzI98cB_DdI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Drake Just Broke The Music Industry’s Spine...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: How Drake Just Broke The Music Industry’s Spine  
-   Link: [https://www.youtube.com/watch?v=cokqU1rU9n4](https://www.youtube.com/watch?v=cokqU1rU9n4)  
+   Link: <a href="https://www.youtube.com/watch?v=cokqU1rU9n4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cokqU1rU9n4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake&#x27;s Song Writing Formula: The Importance of a Memorable Melody...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Drake's Song Writing Formula: The Importance of a Memorable Melody  
-   Link: [https://www.youtube.com/watch?v=NVyK2JPAX20](https://www.youtube.com/watch?v=NVyK2JPAX20)  
+   Link: <a href="https://www.youtube.com/watch?v=NVyK2JPAX20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NVyK2JPAX20</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[40 Drake OvO] Underwater Technique Explained - Plus Midi Files Download...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: [40 Drake Ov O] Underwater Technique Explained  
-   Link: [https://www.youtube.com/watch?v=1Te9llEa2gw](https://www.youtube.com/watch?v=1Te9llEa2gw)  
+   Link: <a href="https://www.youtube.com/watch?v=1Te9llEa2gw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1Te9llEa2gw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Drake&quot; streaming music industry algorithm playlist formula How To Start A Music Career🎶 #50cent #music #rap Power University...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: redbull.com  
    Title: Red Bull Top 10 best Drake songs to add to your playlist  
-   Link: [https://www.redbull.com/ca-en/top-10-best-drake-songs](https://www.redbull.com/ca-en/top-10-best-drake-songs)  
+   Link: <a href="https://www.redbull.com/ca-en/top-10-best-drake-songs" target="_blank" rel="noopener noreferrer nofollow">https://www.redbull.com/ca-en/top-10-best-drake-songs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hotline Bling&quot; · 2. &quot;Marvin&#x27;s Room&quot; · 3. &quot;Worst Behaviour&quot; · 4. &quot;In My Feelings&quot; · 5. &quot;Hold On, We&#x27;re Going Home&quot; · 6...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/drake-iceman-habibti-maid-of-honour-albums-chart-records-reviews-2026-5](https://www.businessinsider.com/drake-iceman-habibti-maid-of-honour-albums-chart-records-reviews-2026-5)  
+   Link: <a href="https://www.businessinsider.com/drake-iceman-habibti-maid-of-honour-albums-chart-records-reviews-2026-5" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/drake-iceman-habibti-maid-of-honour-albums-chart-records-reviews-2026-5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This bold move, characterized by sheer volume over artistic evolution, highlights Drake&#x27;s savvy business mindset. The albums, though comm...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: businessinsider.com  
    Title: Business Insider Only 91 songs have debuted at No  
-   Link: [https://www.businessinsider.com/every-no-1-song-debut-billboard-hot-100](https://www.businessinsider.com/every-no-1-song-debut-billboard-hot-100)  
+   Link: <a href="https://www.businessinsider.com/every-no-1-song-debut-billboard-hot-100" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/every-no-1-song-debut-billboard-hot-100</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 in the history of the Billboard Hot 100 - here they all areSince the Billboard Hot 100 adopted modern tracking methods in 1991, only 91...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/lil-nas-xs-old-town-road-breaks-streaming-record-set-by-drake](https://pitchfork.com/news/lil-nas-xs-old-town-road-breaks-streaming-record-set-by-drake)  
+   Link: <a href="https://pitchfork.com/news/lil-nas-xs-old-town-road-breaks-streaming-record-set-by-drake" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/lil-nas-xs-old-town-road-breaks-streaming-record-set-by-drake</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 song in America for a second consecutive week and broke a significant streaming record. The song amassed 143 million U.S. streams, surp...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1702722073848271/posts/1810688029718341/](https://www.facebook.com/groups/1702722073848271/posts/1810688029718341/)  
+   Link: <a href="https://www.facebook.com/groups/1702722073848271/posts/1810688029718341/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1702722073848271/posts/1810688029718341/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake Spotify Playlists: Old, Underrated, and Featured SongsFor Drake Fans Only Old Drake...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: complex.com  
-   Link: [https://www.complex.com/music/a/backwoodsaltar/drake-breaks-michael-jackson-hot-100-record](https://www.complex.com/music/a/backwoodsaltar/drake-breaks-michael-jackson-hot-100-record)  
+   Link: <a href="https://www.complex.com/music/a/backwoodsaltar/drake-breaks-michael-jackson-hot-100-record" target="_blank" rel="noopener noreferrer nofollow">https://www.complex.com/music/a/backwoodsaltar/drake-breaks-michael-jackson-hot-100-record</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>atest Billboard Hot 100 chart update, plus bests a Michael Jackson...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wowmagazinenepal/posts/drake-has-broken-multiple-streaming-records-across-spotify-apple-music-and-amazo/1594718395996269/](https://www.facebook.com/wowmagazinenepal/posts/drake-has-broken-multiple-streaming-records-across-spotify-apple-music-and-amazo/1594718395996269/)  
+   Link: <a href="https://www.facebook.com/wowmagazinenepal/posts/drake-has-broken-multiple-streaming-records-across-spotify-apple-music-and-amazo/1594718395996269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wowmagazinenepal/posts/drake-has-broken-multiple-streaming-records-across-spotify-apple-music-and-amazo/1594718395996269/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>streams on Spotify‼️ Here&#x27;s how they rank⬇️ • Drake...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: music.amazon.co.uk  
    Title: · 116 SONGS • 7 HOURS AND 47 MINUTES  
-   Link: [https://music.amazon.co.uk/playlists/B08BJGCKY4](https://music.amazon.co.uk/playlists/B08BJGCKY4)  
+   Link: <a href="https://music.amazon.co.uk/playlists/B08BJGCKY4" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.co.uk/playlists/B08BJGCKY4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake Playlist on Amazon Music UnlimitedCurated by Amazon Music · Drake&#x27;s versatile style, laid-back flow, and high-standards lifted him...</p></details>

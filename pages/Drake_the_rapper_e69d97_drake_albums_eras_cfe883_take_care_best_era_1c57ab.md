@@ -250,7 +250,7 @@ image: /assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care
 
 ## Introduction
 
-For a huge part of Drake’s fanbase, *Take Care* is not just his best album. It is the version of Drake that felt the most complete. Released in 2011, the album arrived at the exact moment when his emotional writing, late-night production style and growing superstar confidence finally connected into one identity. More than a decade later, fans still return to it when arguing about “peak Drake” because it balances vulnerability, rap skill and atmosphere better than almost any other project in his catalogue. Critics at the time praised its emotional depth and subtle production, while newer listeners still discover songs that feel strangely modern even today. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/reviews/albums/16039-take-care/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Take Care Album Review</span><span class="citation-popover-snippet">PitchforkTake Care Album Review - Drake14 Nov 2011 — This is sensuous music that breathes heavy somewhere between UGK&#x27;s deep funk, quiet...</span></span></span>
+For a huge part of Drake’s fanbase, *Take Care* is not just his best album. It is the version of Drake that felt the most complete. Released in 2011, the album arrived at the exact moment when his emotional writing, late-night production style and growing superstar confidence finally connected into one identity. More than a decade later, fans still return to it when arguing about “peak Drake” because it balances vulnerability, rap skill and atmosphere better than almost any other project in his catalogue. Critics at the time praised its emotional depth and subtle production, while newer listeners still discover songs that feel strangely modern even today. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/reviews/albums/16039-take-care/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Take Care Album Review</span><span class="citation-popover-snippet">Take Care Album Review - Drake14 Nov 2011 — This is sensuous music that breathes heavy somewhere between UGK&#x27;s deep funk, quiet...</span></span></span>
 
 
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab-Illustration-1-dark.svg" | relative_url }}" alt="Take Care illustration 1" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -289,7 +289,7 @@ That tension is everywhere across the album:
 
 The contradictions made Drake feel believable. Critics at the time noted how compelling his emotional conflicts were, with reviews praising the “contradictory sentiments” and candid writing running through the project. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Take_Care" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Take Care</span><span class="citation-popover-snippet">Take Care</span></span></span>
 
-This era also gave fans what many still consider the ideal version of Drake’s rap-and-singing balance. On some later albums, listeners argued he leaned too far toward detached melodies or formulaic streaming records. On *Take Care*, the shifts between rapping and singing felt natural and emotionally connected. Reviews and fan discussions repeatedly highlight how seamlessly the album moves between those modes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/modern-music-analysis/take-care-album-review-2cee159fe9ac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Take Care by Drake</span><span class="citation-popover-snippet">MediumTake Care by Drake - Album Review | Modern Music AnalysisAugust 9, 2021 — This album is largely emotional and showcases the versati...</span><span class="citation-popover-meta">Published: August 9, 2021</span></span></span>
+This era also gave fans what many still consider the ideal version of Drake’s rap-and-singing balance. On some later albums, listeners argued he leaned too far toward detached melodies or formulaic streaming records. On *Take Care*, the shifts between rapping and singing felt natural and emotionally connected. Reviews and fan discussions repeatedly highlight how seamlessly the album moves between those modes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/modern-music-analysis/take-care-album-review-2cee159fe9ac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Take Care by Drake</span><span class="citation-popover-snippet">Take Care by Drake - Album Review &#124; Modern Music AnalysisAugust 9, 2021 — This album is largely emotional and showcases the versati...</span><span class="citation-popover-meta">Published: August 9, 2021</span></span></span>
 
 Importantly, the album still had ambition and hunger. Drake had already become famous, but he had not yet settled into the image of permanent cultural dominance that would define the *Views* and *Scorpion* years. Fans often describe *Take Care* as the last era where he sounded like he still had something to prove.
 
@@ -316,7 +316,7 @@ The biggest argument for *Take Care* as Drake’s best era is not just that the 
 
 After *Take Care*, emotional transparency became commercially valuable in a different way. A generation of artists adopted the combination of rap, melody and vulnerable confession that Drake pushed into the centre of pop culture. The influence spread across melodic rap, alternative R&B and streaming-era playlist music throughout the decade.
 
-Critics still place the album high on major rap lists because it captured a moment where Drake’s style felt innovative rather than overly familiar. Pitchfork later described the album as “moody and unfiltered”, highlighting how central the emotional atmosphere remains to its reputation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/features/lists-and-guides/best-rap-albums-all-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">best rap albums all time</span><span class="citation-popover-snippet">PitchforkThe 100 Best Rap Albums of All TimeSep 30, 2025 — Drake: Take Care (2011). Almost all of Drake&#x27;s dreams came true... It&#x27;s moody...</span></span></span>
+Critics still place the album high on major rap lists because it captured a moment where Drake’s style felt innovative rather than overly familiar. Pitchfork later described the album as “moody and unfiltered”, highlighting how central the emotional atmosphere remains to its reputation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/features/lists-and-guides/best-rap-albums-all-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">best rap albums all time</span><span class="citation-popover-snippet">The 100 Best Rap Albums of All TimeSep 30, 2025 — Drake: Take Care (2011). Almost all of Drake&#x27;s dreams came true... It&#x27;s moody...</span></span></span>
 
 Even people who think Drake later became repetitive often separate *Take Care* from the rest of his catalogue. The album represents a rare point where popularity, experimentation and emotional specificity all lined up at once. That is why so many fans still treat the era as the definitive answer to the question of peak Drake.
 
@@ -698,226 +698,227 @@ Even people who think Drake later became repetitive often separate *Take Care* f
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: pitchfork.com  
    Title: Take Care Album Review  
-   Link: [https://pitchfork.com/reviews/albums/16039-take-care/](https://pitchfork.com/reviews/albums/16039-take-care/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PitchforkTake Care Album Review - Drake14 Nov 2011 — This is sensuous music that breathes heavy somewhere between UGK&#x27;s deep funk, quiet...</p></details>
+   Link: <a href="https://pitchfork.com/reviews/albums/16039-take-care/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/reviews/albums/16039-take-care/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Take Care Album Review - Drake14 Nov 2011 — This is sensuous music that breathes heavy somewhere between UGK&#x27;s deep funk, quiet...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Take Care  
-   Link: [https://en.wikipedia.org/wiki/Take_Care](https://en.wikipedia.org/wiki/Take_Care)  
+   Link: <a href="https://en.wikipedia.org/wiki/Take_Care" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Take_Care</a>  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: That being said that's what all of his ALBUMS lack, and even Take  
-   Link: [https://www.reddit.com/r/hiphopheads/comments/3oj7ff/discussion_what_makes_drakes_take_care_such_a/](https://www.reddit.com/r/hiphopheads/comments/3oj7ff/discussion_what_makes_drakes_take_care_such_a/)  
+   Link: <a href="https://www.reddit.com/r/hiphopheads/comments/3oj7ff/discussion_what_makes_drakes_take_care_such_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hiphopheads/comments/3oj7ff/discussion_what_makes_drakes_take_care_such_a/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit[DISCUSSION] What makes Drake&#x27;s &quot;Take Care&quot; such a...October 13, 2015 — Take care is his best album out of his catalog because of...</p></details>
    Published: October 13, 2015  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/hiphopheads/comments/m35yh/what_are_peoples_opinions_on_drakes_take_care/](https://www.reddit.com/r/hiphopheads/comments/m35yh/what_are_peoples_opinions_on_drakes_take_care/)  
+   Link: <a href="https://www.reddit.com/r/hiphopheads/comments/m35yh/what_are_peoples_opinions_on_drakes_take_care/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hiphopheads/comments/m35yh/what_are_peoples_opinions_on_drakes_take_care/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>y has vastly improved and he experiments with multiple flows...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: medium.com  
    Title: Take Care by Drake  
-   Link: [https://medium.com/modern-music-analysis/take-care-album-review-2cee159fe9ac](https://medium.com/modern-music-analysis/take-care-album-review-2cee159fe9ac)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumTake Care by Drake - Album Review | Modern Music AnalysisAugust 9, 2021 — This album is largely emotional and showcases the versati...</p></details>
+   Link: <a href="https://medium.com/modern-music-analysis/take-care-album-review-2cee159fe9ac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/modern-music-analysis/take-care-album-review-2cee159fe9ac</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Take Care by Drake - Album Review | Modern Music AnalysisAugust 9, 2021 — This album is largely emotional and showcases the versati...</p></details>
    Published: August 9, 2021  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: [DISCUSSION] DRAKE  
-   Link: [https://www.reddit.com/r/hiphopheads/comments/qu8knn/discussion_drake_take_care_10_years_later/](https://www.reddit.com/r/hiphopheads/comments/qu8knn/discussion_drake_take_care_10_years_later/)  
+   Link: <a href="https://www.reddit.com/r/hiphopheads/comments/qu8knn/discussion_drake_take_care_10_years_later/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hiphopheads/comments/qu8knn/discussion_drake_take_care_10_years_later/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit[DISCUSSION] DRAKE - Take Care (10 Years Later)November 15, 2021 — Overall Take Care has some of the deepest and best Drakes cuts (...</p></details>
    Published: November 15, 2021  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/hiphopheads/comments/cmmc4w/pitchfork_gives_drakes_care_package_an_81/](https://www.reddit.com/r/hiphopheads/comments/cmmc4w/pitchfork_gives_drakes_care_package_an_81/)  
+   Link: <a href="https://www.reddit.com/r/hiphopheads/comments/cmmc4w/pitchfork_gives_drakes_care_package_an_81/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hiphopheads/comments/cmmc4w/pitchfork_gives_drakes_care_package_an_81/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pitchfork gives Drake&#x27;s Care Package an 8.1Take Care has to be his best album though. The amount of hits over like 17 tracks is ridiculou...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/reviews/albums/drake-habibti](https://pitchfork.com/reviews/albums/drake-habibti)  
+   Link: <a href="https://pitchfork.com/reviews/albums/drake-habibti" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/reviews/albums/drake-habibti</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracks like &quot;WNBA,&quot; &quot;Gen 5,&quot; and &quot;White Bone&quot; hint at deeper emotional resonance, but the sincerity is frequently undercut by Drake&#x27;s ten...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/reviews/albums/drake-partynextdoor-some-sexy-songs-4-u](https://pitchfork.com/reviews/albums/drake-partynextdoor-some-sexy-songs-4-u)  
+   Link: <a href="https://pitchfork.com/reviews/albums/drake-partynextdoor-some-sexy-songs-4-u" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/reviews/albums/drake-partynextdoor-some-sexy-songs-4-u</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>His collaborations with PARTYNEXTDOOR add a dimension of rawness, though often feel insincere. Critics note that Drake&#x27;s efforts to retur...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pitchfork.com  
    Title: drake iceman  
-   Link: [https://pitchfork.com/reviews/albums/drake-iceman](https://pitchfork.com/reviews/albums/drake-iceman)  
+   Link: <a href="https://pitchfork.com/reviews/albums/drake-iceman" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/reviews/albums/drake-iceman</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Instead of crafting a sharp and concise comeback, Drake delivers a bloated two-and-a-half-hour trilogy of albums, with *ICEMAN* embodying...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pitchfork.com  
    Title: best rap albums all time  
-   Link: [https://pitchfork.com/features/lists-and-guides/best-rap-albums-all-time/](https://pitchfork.com/features/lists-and-guides/best-rap-albums-all-time/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PitchforkThe 100 Best Rap Albums of All TimeSep 30, 2025 — Drake: Take Care (2011). Almost all of Drake&#x27;s dreams came true... It&#x27;s moody...</p></details>
+   Link: <a href="https://pitchfork.com/features/lists-and-guides/best-rap-albums-all-time/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/features/lists-and-guides/best-rap-albums-all-time/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 100 Best Rap Albums of All TimeSep 30, 2025 — Drake: Take Care (2011). Almost all of Drake&#x27;s dreams came true... It&#x27;s moody...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pitchfork.com  
    Title: The Most Trusted Voice in Music  
-   Link: [https://pitchfork.com/](https://pitchfork.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| PitchforkEach Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is elig...</p></details>
+   Link: <a href="https://pitchfork.com/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>PitchforkEach Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is elig...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/reviews/albums/drake-maid-of-honour/](https://pitchfork.com/reviews/albums/drake-maid-of-honour/)  
+   Link: <a href="https://pitchfork.com/reviews/albums/drake-maid-of-honour/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/reviews/albums/drake-maid-of-honour/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>im his title as hip-hop&#x27;s ultimate hitmaker...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pitchfork.com  
    Title: He also posted the following message: Feels like it's been so long.Read more  
-   Link: [https://pitchfork.com/news/44106-drake-reveals-take-care-album-cover/](https://pitchfork.com/news/44106-drake-reveals-take-care-album-cover/)  
+   Link: <a href="https://pitchfork.com/news/44106-drake-reveals-take-care-album-cover/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/44106-drake-reveals-take-care-album-cover/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake Reveals Take Care Album CoverSep 24, 2011 — Drake has revealed the cover for his second album, Take Care, due out October 24...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pitchfork.com  
    Title: best drake song of the 2020s  
-   Link: [https://pitchfork.com/thepitch/best-drake-song-of-the-2020s/](https://pitchfork.com/thepitch/best-drake-song-of-the-2020s/)  
+   Link: <a href="https://pitchfork.com/thepitch/best-drake-song-of-the-2020s/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/thepitch/best-drake-song-of-the-2020s/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake&#x27;s grainy R&amp;B loosies, unfinished scraps, and remixes were floating around rap blogs. The moody emotional dumps were ridiculously pe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pitchfork.com  
    Title: drake care package  
-   Link: [https://pitchfork.com/reviews/albums/drake-care-package/](https://pitchfork.com/reviews/albums/drake-care-package/)  
+   Link: <a href="https://pitchfork.com/reviews/albums/drake-care-package/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/reviews/albums/drake-care-package/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake: Care Package Album Review6 Aug 2019 — It&#x27;s a huge sound, by design—in producer Noah “40” Shebib&#x27;s production, Drake could easily f...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pitchfork.com  
    Title: 18511 drake nothing was the same  
-   Link: [https://pitchfork.com/reviews/albums/18511-drake-nothing-was-the-same/](https://pitchfork.com/reviews/albums/18511-drake-nothing-was-the-same/)  
+   Link: <a href="https://pitchfork.com/reviews/albums/18511-drake-nothing-was-the-same/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/reviews/albums/18511-drake-nothing-was-the-same/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake: Nothing Was the Same Album ReviewSep 23, 2013 — In place of the more opulent production that was on Take Care are all these airy...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/artists/27950-drake/](https://pitchfork.com/artists/27950-drake/)  
+   Link: <a href="https://pitchfork.com/artists/27950-drake/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/artists/27950-drake/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Albums, Songs, and News20 Contenders for the 2025 Song of the Summer · 5 Takeaways From Drake&#x27;s New Album For All the Dogs · 5 Takeaways...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pitchfork.com  
    Title: drake scorpion  
-   Link: [https://pitchfork.com/reviews/albums/drake-scorpion/](https://pitchfork.com/reviews/albums/drake-scorpion/)  
+   Link: <a href="https://pitchfork.com/reviews/albums/drake-scorpion/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/reviews/albums/drake-scorpion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake: Scorpion Album Review2 Jul 2018 — Drake&#x27;s fifth proper studio album is richly produced, studded with gems, and grapples with his f...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/fantanoforever/comments/15n00l7/am_i_the_only_person_surprised_at_how_high/](https://www.reddit.com/r/fantanoforever/comments/15n00l7/am_i_the_only_person_surprised_at_how_high/)  
+   Link: <a href="https://www.reddit.com/r/fantanoforever/comments/15n00l7/am_i_the_only_person_surprised_at_how_high/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fantanoforever/comments/15n00l7/am_i_the_only_person_surprised_at_how_high/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t has just one high-quality and catchy song after the next.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Drizzy/comments/mvprt6/best_song_on_take_care/](https://www.reddit.com/r/Drizzy/comments/mvprt6/best_song_on_take_care/)  
+   Link: <a href="https://www.reddit.com/r/Drizzy/comments/mvprt6/best_song_on_take_care/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Drizzy/comments/mvprt6/best_song_on_take_care/</a>  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/hiphopheads/comments/1isyt72/pitchfork_album_review_drake_partynextdoor_ome/](https://www.reddit.com/r/hiphopheads/comments/1isyt72/pitchfork_album_review_drake_partynextdoor_ome/)  
+   Link: <a href="https://www.reddit.com/r/hiphopheads/comments/1isyt72/pitchfork_album_review_drake_partynextdoor_ome/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hiphopheads/comments/1isyt72/pitchfork_album_review_drake_partynextdoor_ome/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>illions and millions and an unlimited budget from...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/rap/comments/16bsrbx/do_we_all_agree_that_take_care_is_the_best_drake/](https://www.reddit.com/r/rap/comments/16bsrbx/do_we_all_agree_that_take_care_is_the_best_drake/)  
+   Link: <a href="https://www.reddit.com/r/rap/comments/16bsrbx/do_we_all_agree_that_take_care_is_the_best_drake/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/rap/comments/16bsrbx/do_we_all_agree_that_take_care_is_the_best_drake/</a>  
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Drizzy/comments/1jamo6a/drake_best_album_after_take_care_and_nwts/](https://www.reddit.com/r/Drizzy/comments/1jamo6a/drake_best_album_after_take_care_and_nwts/)  
+   Link: <a href="https://www.reddit.com/r/Drizzy/comments/1jamo6a/drake_best_album_after_take_care_and_nwts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Drizzy/comments/1jamo6a/drake_best_album_after_take_care_and_nwts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake Best Album After Take Care and NWTS: r/DrizzyIncredible album, is it just me or 9 would have made for a better intro than Keep the...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
    Title: Getting into Drake  
-   Link: [https://www.reddit.com/r/Drizzy/comments/vz931n/getting_into_drake_take_care_27/](https://www.reddit.com/r/Drizzy/comments/vz931n/getting_into_drake_take_care_27/)  
+   Link: <a href="https://www.reddit.com/r/Drizzy/comments/vz931n/getting_into_drake_take_care_27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Drizzy/comments/vz931n/getting_into_drake_take_care_27/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Take Care (2/7): r/DrizzyOverview of Drake&#x27;s album Take Care. Drake&#x27;s second album details. Top Drake songs for a party playlist. Best D...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Pitchfork (website)  
-   Link: [https://en.wikipedia.org/wiki/Pitchfork_%28website%29](https://en.wikipedia.org/wiki/Pitchfork_%28website%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pitchfork_%28website%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pitchfork_%28website%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pitchfork (website)Pitchfork (formerly Pitchfork Media) is an American online music magazine founded in 1996 by Ryan Schreiber in Minn...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=COs-ftjcCTA](https://www.youtube.com/watch?v=COs-ftjcCTA)  
+   Link: <a href="https://www.youtube.com/watch?v=COs-ftjcCTA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=COs-ftjcCTA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TAKE CARE by Drake is ACTUALLY a MASTERPIECE… (Album Reaction)...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: TAKE CARE by Drake is ACTUALLY a MASTERPIECE… (Album Reaction)  
-   Link: [https://www.youtube.com/watch?v=Y7KBsQsKbq8](https://www.youtube.com/watch?v=Y7KBsQsKbq8)  
+   Link: <a href="https://www.youtube.com/watch?v=Y7KBsQsKbq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y7KBsQsKbq8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake - Take Care Album Review | DEHH...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=kPSNFd_Y8Dc](https://www.youtube.com/watch?v=kPSNFd_Y8Dc)  
+   Link: <a href="https://www.youtube.com/watch?v=kPSNFd_Y8Dc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kPSNFd_Y8Dc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Drake&#x27;s &#x27;Take Care&#x27; a Classic?...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: albumoftheyear.org  
-   Link: [https://www.albumoftheyear.org/album/2907-drake-take-care.php](https://www.albumoftheyear.org/album/2907-drake-take-care.php)  
+   Link: <a href="https://www.albumoftheyear.org/album/2907-drake-take-care.php" target="_blank" rel="noopener noreferrer nofollow">https://www.albumoftheyear.org/album/2907-drake-take-care.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Take Care - ReviewsDrake&#x27;s second album is a bit of a masterclass in melancholic lyrical soul-searching, about lost love and spurned love...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: albumoftheyear.org  
-   Link: [https://www.albumoftheyear.org/user/faizr/album/2907-take-care/](https://www.albumoftheyear.org/user/faizr/album/2907-take-care/)  
+   Link: <a href="https://www.albumoftheyear.org/user/faizr/album/2907-take-care/" target="_blank" rel="noopener noreferrer nofollow">https://www.albumoftheyear.org/user/faizr/album/2907-take-care/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Take Care review by faizr23 hours ago — That subtle emotional build-up is what makes the album so powerful and memorable. The melodies ar...</p></details>
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Pitchfork/posts/a-lonely-insecure-and-chaotically-honest-time-capsule-of-drake-at-his-most-creat/1332071115444209/](https://www.facebook.com/Pitchfork/posts/a-lonely-insecure-and-chaotically-honest-time-capsule-of-drake-at-his-most-creat/1332071115444209/)  
+   Link: <a href="https://www.facebook.com/Pitchfork/posts/a-lonely-insecure-and-chaotically-honest-time-capsule-of-drake-at-his-most-creat/1332071115444209/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Pitchfork/posts/a-lonely-insecure-and-chaotically-honest-time-capsule-of-drake-at-his-most-creat/1332071115444209/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e of Drake&#x27;s finest works, showcasing his evolution as an artist and...Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: atwoodmagazine.com  
-   Link: [https://atwoodmagazine.com/2024-best-music-according-to-our-favorite-artists/](https://atwoodmagazine.com/2024-best-music-according-to-our-favorite-artists/)  
+   Link: <a href="https://atwoodmagazine.com/2024-best-music-according-to-our-favorite-artists/" target="_blank" rel="noopener noreferrer nofollow">https://atwoodmagazine.com/2024-best-music-according-to-our-favorite-artists/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Best Music of 2024, According to Our Favorite Artists!Dec 19, 2024 — Following up with his latest album Take Care, he is still...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: beatsperminute.com  
    Title: Beats Per Minute Album Review: Drake – Take Care  
-   Link: [https://beatsperminute.com/album-review-drake-take-care/](https://beatsperminute.com/album-review-drake-take-care/)  
+   Link: <a href="https://beatsperminute.com/album-review-drake-take-care/" target="_blank" rel="noopener noreferrer nofollow">https://beatsperminute.com/album-review-drake-take-care/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Album Review: Drake – Take Care - Beats Per Minute14 Nov 2011 — Drake seemed afraid of his potential power, caught between a hunger for g...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/raphubdaily/posts/apple-music-rates-drakes-take-care-as-the-47th-best-album-of-all-time/788869820090573/](https://www.facebook.com/raphubdaily/posts/apple-music-rates-drakes-take-care-as-the-47th-best-album-of-all-time/788869820090573/)  
+   Link: <a href="https://www.facebook.com/raphubdaily/posts/apple-music-rates-drakes-take-care-as-the-47th-best-album-of-all-time/788869820090573/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/raphubdaily/posts/apple-music-rates-drakes-take-care-as-the-47th-best-album-of-all-time/788869820090573/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tic, based on 26 reviews. Critics praised the album&#x27;s...Read more...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WeLoveHIPHOP12/posts/drakes-album-received-a-score-of-59-on-pitchfork-%EF%B8%8F/645655217975867/](https://www.facebook.com/WeLoveHIPHOP12/posts/drakes-album-received-a-score-of-59-on-pitchfork-%EF%B8%8F/645655217975867/)  
+   Link: <a href="https://www.facebook.com/WeLoveHIPHOP12/posts/drakes-album-received-a-score-of-59-on-pitchfork-%EF%B8%8F/645655217975867/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WeLoveHIPHOP12/posts/drakes-album-received-a-score-of-59-on-pitchfork-%EF%B8%8F/645655217975867/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There are some songs that go on for too...Read more...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: musicboard.app  
    Title: Reviews of Take Care by Drake  
-   Link: [https://musicboard.app/album/take-care-deluxe/drake/reviews?order_by=helpful](https://musicboard.app/album/take-care-deluxe/drake/reviews?order_by=helpful)  
+   Link: <a href="https://musicboard.app/album/take-care-deluxe/drake/reviews?order_by=helpful" target="_blank" rel="noopener noreferrer nofollow">https://musicboard.app/album/take-care-deluxe/drake/reviews?order_by=helpful</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AlbumsThe production is phenomenal, with ethereal, nocturnal instrumentals for the more introspective or simpy cuts, as well as the anthe...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: instagram.com  
    Title: DW68m SQDyy7  
-   Link: [https://www.instagram.com/p/DW68mSQDyy7/?img_index=7](https://www.instagram.com/p/DW68mSQDyy7/?img_index=7)  
+   Link: <a href="https://www.instagram.com/p/DW68mSQDyy7/?img_index=7" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW68mSQDyy7/?img_index=7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake&#x27;s Take Care (2011) Released...Critically acclaimed for its introspective lyricism and moody production, Take Care won the Grammy A...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
    Title: Is Drake's 'Take Care' a Classic?  
-   Link: [https://www.youtube.com/watch?v=DCNGgblQBkY](https://www.youtube.com/watch?v=DCNGgblQBkY)  
+   Link: <a href="https://www.youtube.com/watch?v=DCNGgblQBkY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DCNGgblQBkY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake- Take Care ALBUM REVIEW...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: Drake- Take Care ALBUM REVIEW  
-   Link: [https://www.youtube.com/watch?v=CxT49-YpUNc](https://www.youtube.com/watch?v=CxT49-YpUNc)  
+   Link: <a href="https://www.youtube.com/watch?v=CxT49-YpUNc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CxT49-YpUNc</a>  
