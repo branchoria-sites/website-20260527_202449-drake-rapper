@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-10T13:29:33.853758Z",
+  "generated_at_utc": "2026-06-10T15:13:46.411137Z",
   "settings": {
     "enable_page_quality_telemetry": true,
     "enable_format_sensitive_cleanup": false,
@@ -23,19 +23,19 @@
     "total_pages": 7,
     "pages_needing_review": 0,
     "pages_hidden_from_navigation": 0,
-    "average_word_count": 8848,
+    "average_word_count": 10868,
     "pages_with_endnotes_heading": 7,
-    "average_inline_internal_links_per_page": 0.0,
+    "average_inline_internal_links_per_page": 2.43,
     "pages_hitting_internal_link_page_cap": 0,
-    "pages_hitting_internal_link_paragraph_cap": 0,
+    "pages_hitting_internal_link_paragraph_cap": 2,
     "pages_with_related_reports_panel": 0,
-    "total_related_report_entries": 0,
+    "total_related_report_entries": 42,
     "total_prompt_leak_hits": 0,
     "total_mojibake_hits": 0,
     "total_structured_output_hits": 0,
     "total_broken_citation_artifact_hits": 0,
     "total_inline_citation_domain_fallbacks": 0,
-    "total_unresolved_plain_citation_hits": 14,
+    "total_unresolved_plain_citation_hits": 0,
     "total_placeholder_citation_hits": 0,
     "total_malformed_heading_artifact_hits": 0,
     "total_suspicious_markdown_link_boundary_hits": 0,
@@ -47,71 +47,56 @@
       "basename": "Drake_the_rapper_e69d97",
       "title": "Why Drake Still Runs the Conversation",
       "permalink": "/drake-the-rapper/",
-      "word_count": 10549,
-      "char_count": 89082,
-      "line_count": 873,
+      "word_count": 12587,
+      "char_count": 95005,
+      "line_count": 470,
       "heading_count": 12,
       "h2_count": 11,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 84,
-      "url_count": 238,
+      "url_count": 230,
       "youtube_embed_count": 3,
       "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "inline_internal_link_count": 0,
-      "related_report_count": 0,
+      "internal_link_candidate_pool_size": 46,
+      "inline_internal_link_count": 4,
+      "related_report_count": 6,
       "internal_link_hit_page_cap": false,
-      "internal_link_hit_paragraph_cap": false,
+      "internal_link_hit_paragraph_cap": true,
       "prompt_leak_hit_count": 0,
       "mojibake_hit_count": 0,
       "structured_output_hit_count": 0,
       "broken_citation_artifact_hit_count": 0,
       "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
+      "unresolved_plain_citation_hit_count": 0,
       "placeholder_citation_hit_count": 0,
       "malformed_heading_artifact_hit_count": 0,
       "suspicious_markdown_link_boundary_hit_count": 0,
       "embed_integrity_hit_count": 0,
       "needs_review": false,
       "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 302,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 417,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
+      "issue_samples": []
     },
     {
       "basename": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883",
       "title": "Which Drake Era Is Actually the Best?",
       "permalink": "/albums/",
-      "word_count": 8267,
-      "char_count": 70750,
-      "line_count": 725,
+      "word_count": 10133,
+      "char_count": 76076,
+      "line_count": 314,
       "heading_count": 15,
       "h2_count": 6,
       "h3_count": 9,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 28,
-      "url_count": 119,
+      "url_count": 111,
       "youtube_embed_count": 3,
       "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "inline_internal_link_count": 0,
-      "related_report_count": 0,
+      "internal_link_candidate_pool_size": 42,
+      "inline_internal_link_count": 2,
+      "related_report_count": 6,
       "internal_link_hit_page_cap": false,
       "internal_link_hit_paragraph_cap": false,
       "prompt_leak_hit_count": 0,
@@ -119,49 +104,34 @@
       "structured_output_hit_count": 0,
       "broken_citation_artifact_hit_count": 0,
       "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
+      "unresolved_plain_citation_hit_count": 0,
       "placeholder_citation_hit_count": 0,
       "malformed_heading_artifact_hit_count": 0,
       "suspicious_markdown_link_boundary_hit_count": 0,
       "embed_integrity_hit_count": 0,
       "needs_review": false,
       "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 366,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 481,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
+      "issue_samples": []
     },
     {
       "basename": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab",
       "title": "Why Fans Still Pick Take Care",
       "permalink": "/take-care/",
-      "word_count": 8264,
-      "char_count": 69868,
-      "line_count": 675,
+      "word_count": 10539,
+      "char_count": 79873,
+      "line_count": 286,
       "heading_count": 7,
       "h2_count": 6,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 40,
-      "url_count": 144,
+      "url_count": 137,
       "youtube_embed_count": 3,
       "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "inline_internal_link_count": 0,
-      "related_report_count": 0,
+      "internal_link_candidate_pool_size": 44,
+      "inline_internal_link_count": 1,
+      "related_report_count": 6,
       "internal_link_hit_page_cap": false,
       "internal_link_hit_paragraph_cap": false,
       "prompt_leak_hit_count": 0,
@@ -169,99 +139,69 @@
       "structured_output_hit_count": 0,
       "broken_citation_artifact_hit_count": 0,
       "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
+      "unresolved_plain_citation_hit_count": 0,
       "placeholder_citation_hit_count": 0,
       "malformed_heading_artifact_hit_count": 0,
       "suspicious_markdown_link_boundary_hit_count": 0,
       "embed_integrity_hit_count": 0,
       "needs_review": false,
       "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 263,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 378,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
+      "issue_samples": []
     },
     {
       "basename": "Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_scorpion_strea_a39a49",
       "title": "Was Streaming Drake His Real Peak?",
       "permalink": "/streaming-era/",
-      "word_count": 9040,
-      "char_count": 76740,
-      "line_count": 689,
+      "word_count": 11346,
+      "char_count": 86986,
+      "line_count": 303,
       "heading_count": 7,
       "h2_count": 6,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 38,
-      "url_count": 147,
+      "url_count": 140,
       "youtube_embed_count": 3,
       "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "inline_internal_link_count": 0,
-      "related_report_count": 0,
+      "internal_link_candidate_pool_size": 45,
+      "inline_internal_link_count": 3,
+      "related_report_count": 6,
       "internal_link_hit_page_cap": false,
-      "internal_link_hit_paragraph_cap": false,
+      "internal_link_hit_paragraph_cap": true,
       "prompt_leak_hit_count": 0,
       "mojibake_hit_count": 0,
       "structured_output_hit_count": 0,
       "broken_citation_artifact_hit_count": 0,
       "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
+      "unresolved_plain_citation_hit_count": 0,
       "placeholder_citation_hit_count": 0,
       "malformed_heading_artifact_hit_count": 0,
       "suspicious_markdown_link_boundary_hit_count": 0,
       "embed_integrity_hit_count": 0,
       "needs_review": false,
       "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 286,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 401,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
+      "issue_samples": []
     },
     {
       "basename": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba",
       "title": "How Did Drake Get So Many Hits?",
       "permalink": "/charts/",
-      "word_count": 9132,
-      "char_count": 78876,
-      "line_count": 783,
+      "word_count": 10976,
+      "char_count": 84240,
+      "line_count": 373,
       "heading_count": 14,
       "h2_count": 8,
       "h3_count": 6,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 41,
-      "url_count": 147,
+      "url_count": 139,
       "youtube_embed_count": 3,
       "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "inline_internal_link_count": 0,
-      "related_report_count": 0,
+      "internal_link_candidate_pool_size": 41,
+      "inline_internal_link_count": 2,
+      "related_report_count": 6,
       "internal_link_hit_page_cap": false,
       "internal_link_hit_paragraph_cap": false,
       "prompt_leak_hit_count": 0,
@@ -269,49 +209,34 @@
       "structured_output_hit_count": 0,
       "broken_citation_artifact_hit_count": 0,
       "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
+      "unresolved_plain_citation_hit_count": 0,
       "placeholder_citation_hit_count": 0,
       "malformed_heading_artifact_hit_count": 0,
       "suspicious_markdown_link_boundary_hit_count": 0,
       "embed_integrity_hit_count": 0,
       "needs_review": false,
       "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 362,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 477,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
+      "issue_samples": []
     },
     {
       "basename": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599",
       "title": "Why Do Drake Albums Chart All at Once?",
       "permalink": "/album-floods/",
-      "word_count": 8111,
-      "char_count": 69568,
-      "line_count": 675,
+      "word_count": 10029,
+      "char_count": 76718,
+      "line_count": 268,
       "heading_count": 11,
       "h2_count": 7,
       "h3_count": 4,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 29,
-      "url_count": 128,
+      "url_count": 116,
       "youtube_embed_count": 3,
       "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "inline_internal_link_count": 0,
-      "related_report_count": 0,
+      "internal_link_candidate_pool_size": 43,
+      "inline_internal_link_count": 3,
+      "related_report_count": 6,
       "internal_link_hit_page_cap": false,
       "internal_link_hit_paragraph_cap": false,
       "prompt_leak_hit_count": 0,
@@ -319,49 +244,34 @@
       "structured_output_hit_count": 0,
       "broken_citation_artifact_hit_count": 0,
       "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
+      "unresolved_plain_citation_hit_count": 0,
       "placeholder_citation_hit_count": 0,
       "malformed_heading_artifact_hit_count": 0,
       "suspicious_markdown_link_boundary_hit_count": 0,
       "embed_integrity_hit_count": 0,
       "needs_review": false,
       "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 327,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 442,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
+      "issue_samples": []
     },
     {
       "basename": "Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_playlist_repla_0bec4e",
       "title": "Why Are Drake Songs So Easy to Replay?",
       "permalink": "/replay-hits/",
-      "word_count": 8570,
-      "char_count": 72785,
-      "line_count": 709,
+      "word_count": 10468,
+      "char_count": 79515,
+      "line_count": 298,
       "heading_count": 12,
       "h2_count": 8,
       "h3_count": 4,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 33,
-      "url_count": 139,
+      "url_count": 127,
       "youtube_embed_count": 3,
       "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "inline_internal_link_count": 0,
-      "related_report_count": 0,
+      "internal_link_candidate_pool_size": 45,
+      "inline_internal_link_count": 2,
+      "related_report_count": 6,
       "internal_link_hit_page_cap": false,
       "internal_link_hit_paragraph_cap": false,
       "prompt_leak_hit_count": 0,
@@ -369,29 +279,14 @@
       "structured_output_hit_count": 0,
       "broken_citation_artifact_hit_count": 0,
       "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
+      "unresolved_plain_citation_hit_count": 0,
       "placeholder_citation_hit_count": 0,
       "malformed_heading_artifact_hit_count": 0,
       "suspicious_markdown_link_boundary_hit_count": 0,
       "embed_integrity_hit_count": 0,
       "needs_review": false,
       "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 335,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 450,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
+      "issue_samples": []
     }
   ]
 }
