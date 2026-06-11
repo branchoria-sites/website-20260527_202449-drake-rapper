@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /drake-the-rapper/
 nav_short_title: Charts
 title: How Did Drake Get So Many Hits?
-title_full: How Did Drake Get So Many Hits? | Drake
+title_full: How Did Drake Get So Many Hits?
 display_title_short: Charts
 display_title: Charts
 heading_title: How Did Drake Get So Many Hits?
@@ -252,7 +252,6 @@ image: /assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba-Illust
 
 Drake became one of the defining artists of the [streaming era]({{ 'streaming-era/' | relative_url }}) because his music was built for the way people now listen: playlists, repeat plays, mood tracks, quick viral moments and giant [albums]({{ 'albums/' | relative_url }}) that dominate charts all at once. Earlier rap stars could score huge singles, but Drake helped normalise a different model — one where an artist stays constantly present across streaming platforms and turns that attention into historic chart numbers.
 
-
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba-Illustration-1-dark.svg" | relative_url }}" alt="Charts illustration 1" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 By the mid-2020s, Drake had accumulated more than 360 Billboard Hot 100 entries, more than 80 top-10 hits and double-digit No. 1 singles. Billboard and RIAA data also placed him among the most commercially successful digital artists ever. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/artist/drake/chart-history/hsi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">Drake &#124; Biography, Music &amp; NewsDrake. Billboard Hot 100™. 13 No. 1 Hits. 362 Songs. 81 Top 10 Hits. Billboard Hot 100™. Billboar...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/goldandplatinum.php?content_selector=top-artists-digital-singles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">Gold &amp; Platinum</span><span class="citation-popover-snippet">Gold &amp; Platinum - RIAAArtist; SHARE. DRAKE, 277.5; SHARE. MORGAN WALLEN, 215; SHARE. RIHANNA, 199; SHARE. EMINEM, 167...Read more...</span></span></span> But the interesting part is not only the numbers. It is the mechanism behind them: long tracklists, instantly recognisable hooks, strategic collaborations, emotional replay value and an understanding of streaming culture that often seemed years ahead of rivals.
 
@@ -278,7 +277,6 @@ The strategy worked commercially. Streaming rewards volume because more tracks c
 
 This changed how chart dominance looked in practice:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Drake could flood the Hot 100 with nearly every song from a new release.
@@ -291,7 +289,6 @@ Some fans saw this as proof of unmatched popularity. Others argued it inflated c
 
 Still, even critics usually admitted that Drake understood the system better than almost anyone else.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZXnG8DENrGc" title="Drake Is the Artist With the Most Hot 100 Songs Ever | Billboard #BlackHistoryMonth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZXnG8DENrGc" target="_blank" rel="noopener noreferrer">Drake Is the Artist With the Most Hot 100 Songs Ever | Billboard #BlackHistoryMonth</a></p><p class="youtube-embed-meta">Channel: Billboard &middot; Views: 3.9K &middot; Uploaded: February 2022 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZXnG8DENrGc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZXnG8DENrGc">Open on YouTube</a></p></div></div></div>
 
 ## Singles Built for Playlists and Replay
@@ -301,7 +298,6 @@ Drake’s streaming success was not only about quantity. His songs were also eng
 ### The “mood playlist” advantage
 
 Spotify and Apple Music changed listening from album-first to playlist-first. Drake adapted by making tracks that slid naturally into popular playlist categories:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -317,7 +313,6 @@ Spotify and Apple Music changed listening from album-first to playlist-first. Dr
 A track like “Passionfruit” works differently from “Nonstop”, yet both fit major streaming environments. One feels atmospheric and emotional; the other is blunt and repetitive in a way that sticks in your head after one listen.
 
 Drake’s vocal style also mattered. He often avoids extremely technical or dense rap performances in favour of conversational hooks and memorable melodies. That made his music easier for broad audiences to replay casually, including listeners who were not hardcore rap fans.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oGKDAJvjXEg" title="My Top 5 songs from (DRAKE - CERTIFIED LOVER BOY) album" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oGKDAJvjXEg" target="_blank" rel="noopener noreferrer">My Top 5 songs from (DRAKE - CERTIFIED LOVER BOY) album</a></p><p class="youtube-embed-meta">Channel: TGK TV &middot; Views: 2.0K &middot; Uploaded: September 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oGKDAJvjXEg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oGKDAJvjXEg">Open on YouTube</a></p></div></div></div>
 
@@ -338,7 +333,6 @@ Over the years he linked himself to:
 
 These collaborations helped Drake remain central to streaming culture even as trends changed. A listener entering through Afrobeat, trap, pop or R&B could still encounter Drake.
 
-
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba-Illustration-2-dark.svg" | relative_url }}" alt="Charts illustration 2" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Meme culture and quotable lyrics
 
@@ -358,7 +352,6 @@ His music also crossed genre boundaries more easily than many earlier rap stars.
 
 That flexibility helped him avoid becoming trapped in one musical lane. Even when trends changed — dancehall influence, trap production, melodic rap, Afro-fusion sounds — Drake usually adapted fast enough to remain commercially central.
 
-
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba-Illustration-3-dark.svg" | relative_url }}" alt="Charts illustration 3" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Awards, Certifications and Fan Debates
 
@@ -376,7 +369,6 @@ A common criticism is that Drake releases too much music designed to game stream
 
 That argument became especially loud around projects like *Scorpion* and later releases where reviewers accused him of padding albums with filler tracks. Some writers described his strategy as highly data-driven: make enough songs that several are guaranteed to explode online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/artists-with-most-no-1-songs-billboard-hot-100-chart" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider The 13 artists with the most No</span><span class="citation-popover-snippet">1 singles on the Billboard Hot 100This article highlights the 13 artists with the most No. 1 singles on the Billboard Hot 100, showcasing...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ynw7-zsw4Ms" title="Drake&#x27;s Plan E7: Creating the Empire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ynw7-zsw4Ms" target="_blank" rel="noopener noreferrer">Drake&#x27;s Plan E7: Creating the Empire</a></p><p class="youtube-embed-meta">Channel: CBC Music &middot; Views: 29.7K &middot; Uploaded: December 2019 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ynw7-zsw4Ms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ynw7-zsw4Ms">Open on YouTube</a></p></div></div></div>
 
 ### Are streaming-era records fair comparisons?
@@ -384,7 +376,6 @@ That argument became especially loud around projects like *Scorpion* and later r
 Another debate centres on whether streaming statistics should be compared directly with older eras.
 
 In previous decades:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -523,15 +514,15 @@ Even artists who reject his style still operate in an industry shaped by the rul
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake, Thank Me Later, Album Art Poster, Print, Music, Tracklist"><img src="{{ '/assets/images/marketplace-covers/3133e6e4b18e79898617.jpg' | relative_url }}" alt="Listing image for Drake, Thank Me Later, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drake-get-so-many-hits-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="how-did-drake-get-so-many-hits-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake Iceman Album Poster Music 2026 Album Prints Bedroom Home Decor A2 A3 A4"><img src="https://i.ebayimg.com/images/g/cFsAAeSwaLBqCEfu/s-l225.jpg" alt="Listing image for Drake Iceman Album Poster Music 2026 Album Prints Bedroom Home Decor A2 A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Drake, Thank Me Later, Album Art Poster, Print, Music, Tracklist</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drake-get-so-many-hits-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="how-did-drake-get-so-many-hits-drake-poster" target="_blank" rel="sponsored noopener noreferrer">Drake Iceman Album Poster Music 2026 Album Prints Bedroom Home Decor A2 A3 A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drake-get-so-many-hits-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="how-did-drake-get-so-many-hits-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drake-get-so-many-hits-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="how-did-drake-get-so-many-hits-drake-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -539,15 +530,15 @@ Even artists who reject his style still operate in an industry shaped by the rul
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake Iceman Album Poster Music 2026 Album Prints Bedroom Home Decor A2 A3 A4"><img src="{{ '/assets/images/marketplace-covers/82123d346d8295b3dcaa.jpg' | relative_url }}" alt="Listing image for Drake Iceman Album Poster Music 2026 Album Prints Bedroom Home Decor A2 A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drake-get-so-many-hits-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="how-did-drake-get-so-many-hits-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake Views Album Poster, Drake Print, Drake Poster"><img src="https://i.ebayimg.com/images/g/fl4AAeSwNw1qEXZq/s-l225.jpg" alt="Listing image for Drake Views Album Poster, Drake Print, Drake Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Drake Iceman Album Poster Music 2026 Album Prints Bedroom Home Decor A2 A3 A4</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drake-get-so-many-hits-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="how-did-drake-get-so-many-hits-drake-poster" target="_blank" rel="sponsored noopener noreferrer">Drake Views Album Poster, Drake Print, Drake Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drake-get-so-many-hits-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="how-did-drake-get-so-many-hits-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drake-get-so-many-hits-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="how-did-drake-get-so-many-hits-drake-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,15 +546,15 @@ Even artists who reject his style still operate in an industry shaped by the rul
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake, Views, Album Art Poster, Print, Music, Tracklist"><img src="{{ '/assets/images/marketplace-covers/edb01b263c6d9933d53b.jpg' | relative_url }}" alt="Listing image for Drake, Views, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drake-get-so-many-hits-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="how-did-drake-get-so-many-hits-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="https://i.ebayimg.com/images/g/Gm4AAeSw9fpptEEA/s-l225.jpg" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Drake, Views, Album Art Poster, Print, Music, Tracklist</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drake-get-so-many-hits-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="how-did-drake-get-so-many-hits-drake-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drake-get-so-many-hits-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="how-did-drake-get-so-many-hits-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drake-get-so-many-hits-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="how-did-drake-get-so-many-hits-drake-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -571,15 +562,15 @@ Even artists who reject his style still operate in an industry shaped by the rul
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake, Take Care, Album Art Poster, Print, Music, Tracklist"><img src="{{ '/assets/images/marketplace-covers/4a3e70420ba4f18af097.jpg' | relative_url }}" alt="Listing image for Drake, Take Care, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drake-get-so-many-hits-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="how-did-drake-get-so-many-hits-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake, Take Care, Album Art Poster, Print, Music, Tracklist"><img src="https://i.ebayimg.com/images/g/cdoAAeSwWfxo8OL1/s-l225.jpg" alt="Listing image for Drake, Take Care, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Drake, Take Care, Album Art Poster, Print, Music, Tracklist</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drake-get-so-many-hits-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="how-did-drake-get-so-many-hits-drake-poster" target="_blank" rel="sponsored noopener noreferrer">Drake, Take Care, Album Art Poster, Print, Music, Tracklist</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drake-get-so-many-hits-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="how-did-drake-get-so-many-hits-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drake-get-so-many-hits-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="how-did-drake-get-so-many-hits-drake-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -587,7 +578,7 @@ Even artists who reject his style still operate in an industry shaped by the rul
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="charts-how-did-drake-get-so-many-hits-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drake-get-so-many-hits-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="how-did-drake-get-so-many-hits-drake-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>

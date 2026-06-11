@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /charts/
 nav_short_title: Replay Hits
 title: Why Are Drake Songs So Easy to Replay?
-title_full: Why Are Drake Songs So Easy to Replay? | Charts
+title_full: Why Are Drake Songs So Easy to Replay?
 display_title_short: Replay Hits
 display_title: Replay Hits
 heading_title: Why Are Drake Songs So Easy to Replay?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-27 20:24:15'
-parent_title: How Did Drake Get So Many Hits? | Drake
+parent_title: How Did Drake Get So Many Hits?
 parent_permalink: /charts/
 parent_nav_short_title: Charts
 parent_heading_title: How Did Drake Get So Many Hits?
@@ -252,7 +252,6 @@ image: /assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_
 
 Drake’s biggest songs became replay machines because they were designed for how people actually use streaming apps. Instead of relying only on radio listeners buying a single track once, his music fit into playlists, background listening, social-media clips and emotional moods that people returned to daily. Songs like “One Dance”, “Hotline Bling”, “God’s Plan” and “In My Feelings” worked at parties, during late-night scrolling, in gym playlists and even as meme soundtracks. That flexibility helped turn streams into enormous chart numbers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.redbull.com/ca-en/top-10-best-drake-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: redbull.com">[Red Bull]</a><span class="citation-popover" role="note"><span class="citation-popover-source">redbull.com</span><span class="citation-popover-title">Red Bull Top 10 best Drake songs to add to your playlist</span><span class="citation-popover-snippet">Hotline Bling&quot; · 2. &quot;Marvin&#x27;s Room&quot; · 3. &quot;Worst Behaviour&quot; · 4. &quot;In My Feelings&quot; · 5. &quot;Hold On, We&#x27;re Going Home&quot; · 6...</span></span></span> Spotify Drake also arrived at the perfect moment in music history. Streaming platforms reward songs that people replay casually and repeatedly rather <span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.spotify.com/playlist/77xkMCLAsa6mkbCBnMBfQ3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.spotify.com">[open.spotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.spotify.com</span><span class="citation-popover-title">Best of Drake</span><span class="citation-popover-snippet">of Drake - playlist by SpottinyBest of Drake · Over · Hotline Bling · God&#x27;s Plan · One Dance · Nice For What · Energy · Too Good · Headlines...</span></span></span> than hear once and forget. His blend of melodic rap, emotional lyrics and instantly recognisable hooks made his tracks unusually easy to loop without tiring listeners out. Critics sometimes described this as “playlist music”, but commercially it became one of the most effective formulas of the [streaming era]({{ 'streaming-era/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.graphsaboutsongs.com/p/does-the-1-song-even-matter-anymore" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: graphsaboutsongs.com">[graphsaboutsongs.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">graphsaboutsongs.com</span><span class="citation-popover-title">Does The #1 Song Even Matter Anymore?</span><span class="citation-popover-snippet">by Matt BaileyAugust 1, 2024 — 1 Aug 2024 — Streaming has fundamentally changed how we measure music consumption. Has it also ruined the...</span><span class="citation-popover-meta">Published: August 1, 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_playlist_repla_0bec4e-Illustration-1-dark.svg" | relative_url }}" alt="Replay Hits illustration 1" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_playlist_repla_0bec4e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_playlist_repla_0bec4e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Hooks, Melodies and Casual Listening
 
@@ -261,7 +260,6 @@ A major reason Drake songs replay so well is that many of them avoid sounding to
 That matters more in the streaming era than it did during the CD era. Many listeners now keep music on while studying, gaming, texting or travelling. Drake’s songs frequently feel conversational and relaxed enough to stay in rotation for hours without becoming exhausting. Tracks such as “Hold On, We’re Going Home” and “One Dance” became especially powerful because they mixed catchy choruses with easy-going rhythms that fit almost any situation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.redbull.com/ca-en/top-10-best-drake-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: redbull.com">[Red Bull]</a><span class="citation-popover" role="note"><span class="citation-popover-source">redbull.com</span><span class="citation-popover-title">Red Bull Top 10 best Drake songs to add to your playlist</span><span class="citation-popover-snippet">Hotline Bling&quot; · 2. &quot;Marvin&#x27;s Room&quot; · 3. &quot;Worst Behaviour&quot; · 4. &quot;In My Feelings&quot; · 5. &quot;Hold On, We&#x27;re Going Home&quot; · 6...</span></span></span>
 
 His hooks also tend to be extremely simple and memorable. Drake rarely overloads choruses with complicated wording. Instead, he repeats emotionally direct phrases people instantly remember:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -280,7 +278,6 @@ Another key factor is emotional flexibility. Drake often sits between rapping an
 
 Streaming changed music discovery from album ownership to mood-based listening. Instead of asking “What album should I play?”, listeners increasingly ask:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * What should I play while driving?
@@ -291,7 +288,6 @@ Streaming changed music discovery from album ownership to mood-based listening. 
 </div>
 
 Drake’s catalogue fits nearly every one of those moods.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cl23qnQQ3J0" title="Noah &#x27;40&#x27; Shebib on producing Drake | Native Instruments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cl23qnQQ3J0" target="_blank" rel="noopener noreferrer">Noah &#x27;40&#x27; Shebib on producing Drake | Native Instruments</a></p><p class="youtube-embed-meta">Channel: Native Instruments &middot; Views: 2.8M &middot; Uploaded: March 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cl23qnQQ3J0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cl23qnQQ3J0">Open on YouTube</a></p></div></div></div>
 
@@ -312,7 +308,6 @@ This balance helped Drake avoid a common problem: some huge hits burn out quickl
 Not every replay hit was emotional or soft. Songs like “Nonstop”, “Energy” and “Started From the Bottom” became popular workout and confidence-building tracks. Their repetitive rhythms and quotable lyrics made them ideal for playlists built around motivation.
 
 The important thing is range. Drake’s catalogue became almost playlist-proof because he covered so many emotional settings at once.
-
 
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_playlist_repla_0bec4e-Illustration-2-dark.svg" | relative_url }}" alt="Replay Hits illustration 2" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_playlist_repla_0bec4e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_playlist_repla_0bec4e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Collaborations Expanded His Playlist Reach
@@ -339,7 +334,6 @@ That meme cycle mattered commercially because every viral repost pushed more peo
 
 In the streaming era, memes are not separate from music success. They create repeated exposure. A listener who hears a song through dozens of short clips may eventually stream it repeatedly without consciously deciding to “discover” it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uxpDa-c-4Mc" title="Drake - Hotline Bling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uxpDa-c-4Mc" target="_blank" rel="noopener noreferrer">Drake - Hotline Bling</a></p><p class="youtube-embed-meta">Channel: DrakeVEVO &middot; Views: 2.1B &middot; Uploaded: October 2015 &middot; Length: 4 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uxpDa-c-4Mc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uxpDa-c-4Mc">Open on YouTube</a></p></div></div></div>
 
 ## Drake Understood Streaming Attention Better Than Rivals
@@ -352,7 +346,6 @@ Streaming statistics show how powerful that strategy became. Drake repeatedly br
 
 What separated Drake from many rivals was not just popularity. It was repeatability. His songs were built to survive everyday listening habits: quiet enough for background use, catchy enough for parties, emotional enough for personal playlists and viral enough for social media culture.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1Te9llEa2gw" title="[40 Drake OvO] Underwater Technique Explained - Plus Midi Files Download" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1Te9llEa2gw" target="_blank" rel="noopener noreferrer">[40 Drake OvO] Underwater Technique Explained - Plus Midi Files Download</a></p><p class="youtube-embed-meta">Channel: Maschine Masters &middot; Views: 207.1K &middot; Uploaded: October 2016 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1Te9llEa2gw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1Te9llEa2gw">Open on YouTube</a></p></div></div></div>
 
 ## Why Drake’s Replay Formula Changed Pop Rap
@@ -360,7 +353,6 @@ What separated Drake from many rivals was not just popularity. It was repeatabil
 Drake helped reshape expectations for mainstream rap music. Earlier rap stars often focused on explosive singles designed mainly for radio or clubs. Drake proved that softer, mood-based songs could dominate streaming platforms for years.
 
 That influence spread across modern hip-hop and pop. Many later artists adopted:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -375,7 +367,6 @@ That influence spread across modern hip-hop and pop. Many later artists adopted:
 Streaming services themselves reinforced the formula. Recommendation systems and autoplay features tend to reward songs that listeners rarely skip. Drake’s calm, melodic style fit perfectly into that environment.
 
 Even debates about his music often confirm how effective the formula became. Critics sometimes accuse Drake of making songs engineered for playlists rather than carefully crafted albums. But that criticism also explains why his music stayed everywhere for so long: he understood how people actually consumed music during the streaming era better than almost anyone else. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/drake-iceman-habibti-maid-of-honour-albums-chart-records-reviews-2026-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">This bold move, characterized by sheer volume over artistic evolution, highlights Drake&#x27;s savvy business mindset. The albums, though comm...</span></span></span>
-
 
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_playlist_repla_0bec4e-Illustration-3-dark.svg" | relative_url }}" alt="Replay Hits illustration 3" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_playlist_repla_0bec4e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_playlist_repla_0bec4e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -496,15 +487,15 @@ Even debates about his music often confirm how effective the formula became. Cri
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake &#x27;Take Care&#x27; Double Vinyl LP Album"><img src="https://i.ebayimg.com/images/g/mXgAAeSwICVqFrwD/s-l225.jpg" alt="Listing image for Drake &#x27;Take Care&#x27; Double Vinyl LP Album" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake, Nothing Was The Same, Album Art Poster, Print, Music, Tracklist"><img src="https://i.ebayimg.com/images/g/GHQAAeSwcxppOARc/s-l225.jpg" alt="Listing image for Drake, Nothing Was The Same, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Drake &#x27;Take Care&#x27; Double Vinyl LP Album</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-poster" target="_blank" rel="sponsored noopener noreferrer">Drake, Nothing Was The Same, Album Art Poster, Print, Music, Tracklist</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake vinyl record">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake vinyl record</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-vinyl-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,15 +503,15 @@ Even debates about his music often confirm how effective the formula became. Cri
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake Take Care 2xLP Vinyl Record Album 2011"><img src="https://i.ebayimg.com/images/g/3tUAAeSweGNqBaVj/s-l225.jpg" alt="Listing image for Drake Take Care 2xLP Vinyl Record Album 2011" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DRAKE BB2 POSTER PRINT A4 A3 SIZE BUY 2 GET ANY 2 FREE"><img src="https://i.ebayimg.com/images/g/pW8AAOSwFmxmjD-d/s-l225.jpg" alt="Listing image for DRAKE BB2 POSTER PRINT A4 A3 SIZE BUY 2 GET ANY 2 FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Drake Take Care 2xLP Vinyl Record Album 2011</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-poster" target="_blank" rel="sponsored noopener noreferrer">DRAKE BB2 POSTER PRINT A4 A3 SIZE BUY 2 GET ANY 2 FREE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake vinyl record">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake vinyl record</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-vinyl-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,15 +519,15 @@ Even debates about his music often confirm how effective the formula became. Cri
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake - Take Care (Virgin EMI Records) 2LP Vinyl 12&quot; Album"><img src="https://i.ebayimg.com/images/g/hpAAAeSwTpVp~meE/s-l225.jpg" alt="Listing image for Drake - Take Care (Virgin EMI Records) 2LP Vinyl 12&quot; Album" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake, Thank Me Later, Album Art Poster, Print, Music, Tracklist"><img src="https://i.ebayimg.com/images/g/JP8AAeSwR7JpOARF/s-l225.jpg" alt="Listing image for Drake, Thank Me Later, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Drake - Take Care (Virgin EMI Records) 2LP Vinyl 12&quot; Album</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-poster" target="_blank" rel="sponsored noopener noreferrer">Drake, Thank Me Later, Album Art Poster, Print, Music, Tracklist</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake vinyl record">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake vinyl record</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-vinyl-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,15 +535,15 @@ Even debates about his music often confirm how effective the formula became. Cri
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nick Drake - Pink Moon [VINYL]. Reissue. New"><img src="https://i.ebayimg.com/images/g/lpwAAeSwHNFqFGbj/s-l225.jpg" alt="Listing image for Nick Drake - Pink Moon [VINYL]. Reissue. New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake Iceman A4 Framed Print Poster Album With Frame"><img src="https://i.ebayimg.com/images/g/7B0AAeSwi7NqGckl/s-l225.jpg" alt="Listing image for Drake Iceman A4 Framed Print Poster Album With Frame" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Nick Drake - Pink Moon [VINYL]. Reissue. New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-poster" target="_blank" rel="sponsored noopener noreferrer">Drake Iceman A4 Framed Print Poster Album With Frame</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake vinyl record">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake vinyl record</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-vinyl-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -560,7 +551,7 @@ Even debates about his music often confirm how effective the formula became. Cri
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-drake-songs-so-easy-to-replay-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="why-are-drake-songs-so-easy-to-replay-drake-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>

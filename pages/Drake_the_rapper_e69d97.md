@@ -215,7 +215,6 @@ image: /assets/images/Drake_the_rapper_e69d97-overview-social.jpg
 
 Drake is one of the most successful rappers of the [streaming era]({{ 'streaming-era/' | relative_url }}): a Toronto-born artist who moved from acting on *Degrassi: The Next Generation* to reshaping how rap, R&B and pop overlap. His biggest strength is not just rapping fast or singing smoothly; it is making music that feels like a late-night text, a flex, a confession and a playlist-ready hook all at once. That mix has made him huge with fans, dominant on charts, and endlessly debated by critics. Britannica describes his signature as a blend of singing and lyrical rapping, often switching between confidence and vulnerability, which is still the core of why Drake connects with so many listeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/biography/Drake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaDrake &#124; Rapper, Iceman, Albums, Songs, Son, Record...3 days ago — Drake (born October 24, 1986, Toronto, Ontario...</span><span class="citation-popover-meta">Published: October 24, 1986</span></span></span>
 
-
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97-overview.webp" | relative_url }}" alt="Overview image for Drake the rapper" loading="eager" decoding="sync" fetchpriority="high">
 The quick version: Drake matters because he helped make emotional, melodic rap feel normal at the centre of mainstream music. He also became a model for the modern superstar — part musician, part brand, part meme, part sports-world fixture, and part lightning rod for arguments about authenticity, ghostwriting, overexposure and rap beef. His career is not just a list of hit songs; it is a story about how hip-hop changed when streaming, social media and genre-blending became the default.
 
@@ -226,7 +225,6 @@ Drake was born Aubrey Drake Graham on 24 October 1986 in Toronto, Canada. Before
 His breakthrough came through mixtapes, especially *So Far Gone* in 2009. The project was important because it gave listeners the Drake formula before it became unavoidable: moody production, diary-like lyrics, romantic regret, ambition, and a willingness to sing where older rap rules might have demanded a harder delivery. Later retrospective writing has treated *So Far Gone* as the moment Drake became an industry force rather than just a promising newcomer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vibe.com/features/editorial/drake-so-far-gone-mixtape-review-anniversary-634895/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vibe.com">[vibe.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vibe.com</span><span class="citation-popover-title">drake so far gone mixtape review anniversary 634895</span><span class="citation-popover-snippet">Drake&#x27;s &#x27;So Far Gone&#x27; Mixtape Turns 10: Re-Review13 Feb 2019 — Looking at &#x27;So Far Gone&#x27; 10 years later, we catch a glimpse of how Drake b...</span></span></span>
 
 The other key figure in that early sound was producer Noah “40” Shebib. Along with Oliver El-Khatib, Drake and 40 became central to OVO Sound, the label and creative world tied to Drake’s Toronto identity. OVO’s official site describes the label as founded by Aubrey Drake Graham and long-time friends and partners Noah “40” Shebib and Oliver El-Khatib. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ovosound.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovosound.com">[ovosound.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovosound.com</span><span class="citation-popover-snippet">OVO SOUNDOVO Sound is a record label founded by Aubrey Drake Graham and long-time friends and partners Noah “40” Shebib and Oliver El-Kha...</span></span></span> For fans, that matters because “OVO” is not only a logo on hoodies; it is part of Drake’s whole world-building strategy — the owl, the Toronto pride, the winter-night mood, the in-house producers, the sense that his music belongs to a specific city and circle.
-
 
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-1-dark.svg" | relative_url }}" alt="Drake the rapper illustration 1" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The sound: rap, R&B and late-night honesty
@@ -247,7 +245,6 @@ The later era is more contested. Projects such as *Scorpion*, *Certified Lover B
 
 For a new fan, the best way in is not necessarily chronological. Start with *Take Care* for the emotional blueprint, *Nothing Was the Same* for a focused album experience, *If You’re Reading This It’s Too Late* for tougher rap energy, and then singles such as “Hotline Bling”, “One Dance”, “God’s Plan”, “Nice for What” and “Nonstop” to understand why he became unavoidable.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VqIdFWZyYXQ" title="Drake - Obey Your Thirst (Episode 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VqIdFWZyYXQ" target="_blank" rel="noopener noreferrer">Drake - Obey Your Thirst (Episode 1)</a></p><p class="youtube-embed-meta">Channel: The FADER &middot; Views: 1.8M &middot; Uploaded: June 2015 &middot; Length: 3 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VqIdFWZyYXQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VqIdFWZyYXQ">Open on YouTube</a></p></div></div></div>
 
 ## Why the numbers are so huge
@@ -266,7 +263,6 @@ His connection with the Toronto Raptors made that city branding even more visibl
 
 This is why Drake is not only discussed as a rapper. He is also a city symbol. For teenage fans, that can be part of the attraction: Drake made being from Toronto feel stylish, moody, international and culturally powerful. Even when people joke about his courtside behaviour or his shifting sports loyalties, the bigger point remains: he tied music, fashion, basketball and hometown pride into one recognisable image.
 
-
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-2-dark.svg" | relative_url }}" alt="Drake the rapper illustration 2" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The criticism: why people argue about Drake so much
 
@@ -284,7 +280,6 @@ The legal aftermath made the story even bigger. Reuters reported that in October
 
 For fans, the important point is not just who “won” the beef. It is how the battle affected Drake’s image. He had spent years looking almost unbeatable: chart records, viral moments, major collaborations, constant visibility. The Kendrick feud showed that popularity and control are not the same thing. Drake could still be huge, but he no longer seemed untouchable in the same way.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0YPMV6iTy-U" title="Drake - So Far Gone MIXTAPE REVIEW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0YPMV6iTy-U" target="_blank" rel="noopener noreferrer">Drake - So Far Gone MIXTAPE REVIEW</a></p><p class="youtube-embed-meta">Channel: theneedledrop &middot; Views: 406.7K &middot; Uploaded: February 2019 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0YPMV6iTy-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0YPMV6iTy-U">Open on YouTube</a></p></div></div></div>
 
 ## What makes Drake appealing to fans
@@ -295,7 +290,6 @@ He is also extremely quotable. Drake understands short lines, hooks and phrases 
 
 His catalogue also gives different kinds of fans different versions of him. Some love sad Drake. Some want rapper Drake. Some prefer dancehall Drake, toxic relationship Drake, luxury Drake, meme Drake, or feature Drake. That flexibility keeps him relevant even when people disagree about which Drake is “real”.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5Hv2NcB-XIM" title="Drake&#x27;s Plan E1: Building the Dream Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5Hv2NcB-XIM" target="_blank" rel="noopener noreferrer">Drake&#x27;s Plan E1: Building the Dream Team</a></p><p class="youtube-embed-meta">Channel: CBC Music &middot; Views: 104.2K &middot; Uploaded: December 2019 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5Hv2NcB-XIM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5Hv2NcB-XIM">Open on YouTube</a></p></div></div></div>
 
 ## How to understand his legacy now
@@ -305,7 +299,6 @@ Drake’s legacy is already secure in one sense: the numbers, hits and influence
 The more interesting question is how people will rank him artistically. To some fans, he is one of the greatest hitmakers rap has ever produced. To some critics, he is more of a brilliant adapter than a great innovator. To many listeners, he is both: a rapper who changed the sound of mainstream music, but also a superstar whose later work can feel too calculated.
 
 That tension is exactly why Drake remains worth talking about. He is not just popular; he is a test case for what modern music rewards. Is greatness about classic albums, technical rapping, emotional connection, cultural impact, streaming dominance, or staying relevant for over a decade? Drake’s career forces that debate because he scores highly in some categories, divides opinion in others, and keeps adding new chapters before the argument can settle.
-
 
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-3-dark.svg" | relative_url }}" alt="Drake the rapper illustration 3" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -1082,4 +1075,4 @@ That tension is exactly why Drake remains worth talking about. He is not just po
 
 84. <a id="endnote-84"></a>
    Source: hiphopscriptures.com  
-   Link: <a href="https://www.hiphopscriptures.com/drake" target="_blank" rel="noopener noreferrer nofollow">https://www.hiphopscriptures.com/drake</a>  
+   Link: <a href="https://www.hiphopscriptures.com/drake" target="_blank" rel="noopener noreferrer nofollow">https://www.hiphopscriptures.com/drake</a>

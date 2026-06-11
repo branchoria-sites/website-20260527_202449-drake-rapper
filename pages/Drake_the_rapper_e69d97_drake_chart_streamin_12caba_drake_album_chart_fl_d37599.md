@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /charts/
 nav_short_title: Album Floods
 title: Why Do Drake Albums Chart All at Once?
-title_full: Why Do Drake Albums Chart All at Once? | Charts
+title_full: Why Do Drake Albums Chart All at Once?
 display_title_short: Album Floods
 display_title: Album Floods
 heading_title: Why Do Drake Albums Chart All at Once?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-27 20:24:09'
-parent_title: How Did Drake Get So Many Hits? | Drake
+parent_title: How Did Drake Get So Many Hits?
 parent_permalink: /charts/
 parent_nav_short_title: Charts
 parent_heading_title: How Did Drake Get So Many Hits?
@@ -252,7 +252,6 @@ image: /assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_
 
 When a new Drake album drops, the Billboard Hot 100 can suddenly look less like a singles chart and more like a Drake playlist. Entire tracklists appear at once, with deep cuts charting beside official singles. That is not an accident or just fan hype. It is a direct result of how streaming changed the music business — and how Drake adapted to those rules earlier and more aggressively than almost anyone else.
 
-
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599-Illustration-1-dark.svg" | relative_url }}" alt="Album Floods illustration 1" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In the [streaming era]({{ 'streaming-era/' | relative_url }}), every play counts. Fans no longer buy one single and ignore the rest of the album. They stream whole projects on release weekend, replay favourite songs instantly and add album tracks to playlists within hours. Drake’s long [albums]({{ 'albums/' | relative_url }}), huge fanbase and playlist-friendly style make him especially powerful inside that system. The result is a chart “flood”: dozens of songs entering the Hot 100 simultaneously, sometimes rewriting chart records in a single week. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thefader.com/2018/07/09/drake-breaks-beatles-record-scorpion-top-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thefader.com">[The FADER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thefader.com</span><span class="citation-popover-title">drake breaks beatles record scorpion top 10</span><span class="citation-popover-snippet">The FADERDrake breaks 54-year-old Beatles record with seven...Jul 9, 2018 — Seven songs from Drake&#x27;s new album Scorpion are in the top 1...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/pro/drake-certified-lover-boy-hot-100-top-40-every-track/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">Drake Lands 21 &#x27;Certified Lover Boy&#x27; Tracks in Hot 100 Top...Sep 13, 2021 — Drake Dominates With Record 9 of Top 10 on Billboar...</span></span></span>
 
@@ -268,7 +267,6 @@ The [charts]({{ 'charts/' | relative_url }}) respond in real time. In 2018, ever
 
 Those moments looked shocking compared with older chart eras, but they followed the logic of streaming exactly. If every track is instantly available and instantly counted, then superstar albums can overwhelm the singles chart.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R1GGMdmB7cI" title="Drake Dominates the Hot 100 Chart With &#x27;Certified Lover Boy&#x27; &amp; ‘Way 2 Sexy’ At No.1 | Billboard News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R1GGMdmB7cI" target="_blank" rel="noopener noreferrer">Drake Dominates the Hot 100 Chart With &#x27;Certified Lover Boy&#x27; &amp; ‘Way 2 Sexy’ At No.1 | Billboard News</a></p><p class="youtube-embed-meta">Channel: Billboard &middot; Views: 7.7K &middot; Uploaded: September 2021 &middot; Length: 1 minute 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R1GGMdmB7cI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R1GGMdmB7cI">Open on YouTube</a></p></div></div></div>
 
 ## Why Long Tracklists Matter So Much
@@ -280,7 +278,6 @@ A 25-track album simply has more chances to collect streams than a tightly edite
 Streaming-equivalent formulas amplify this effect. Billboard and industry measurement systems convert streams into chart “units”, meaning a larger pool of songs can create a larger total consumption number. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chartdata.org/faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chartdata.org">[CHART DATA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chartdata.org</span><span class="citation-popover-title">CHART DATAFrequently Asked Questions (FAQ</span><span class="citation-popover-snippet">Chart DataThus, 1,250 premium streams or 3,750 free streams from the same album is equivalent to 1 album unit. SPS means sales plus strea...</span></span></span> Wikipedia This changed album design across pop and hip-hop. In earlier eras <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Billboard_Hot_100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Billboard Hot 100</span><span class="citation-popover-snippet">May 11, 2026 — The Billboard Hot 100, also known as simply the Hot 100, is the music industry standard record chart in the United States...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>, artists often worried about filler damaging an album’s reputation. In the streaming era, extra tracks can increase visibility and total streams even if critics think the project is bloated.
 
 Drake became one of the clearest examples of that shift:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -294,7 +291,6 @@ Critics often described these projects as “playlist albums” rather than care
 
 Yet the commercial logic was hard to deny. *Certified Lover Boy* generated more than 743 million on-demand streams in its first week in the US alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Album-equivalent_unit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Album-equivalent unit</span><span class="citation-popover-snippet">Album-equivalent unitKnown as TEA (track equivalent album) and SEA (streaming equivalent album) when originally implemented, 10 song s...</span></span></span> Massive tracklists plus massive fan attention created chart floods almost automatically.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GFeS8HVMPlE" title="All of Drake’s Key Hot 100 Records" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GFeS8HVMPlE" target="_blank" rel="noopener noreferrer">All of Drake’s Key Hot 100 Records</a></p><p class="youtube-embed-meta">Channel: Complex News &middot; Views: 15.2K &middot; Uploaded: July 2018 &middot; Length: 2 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GFeS8HVMPlE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GFeS8HVMPlE">Open on YouTube</a></p></div></div></div>
 
 ## Why Drake Was Perfectly Built for the Streaming Era
@@ -306,7 +302,6 @@ Drake’s music often sits comfortably in playlists for studying, gaming, drivin
 That matters because streaming rewards habit more than one-time purchases. A song does not need to become a classic radio smash to help the charts. It only needs millions of streams from listeners returning to it regularly.
 
 His albums also spread across multiple sounds at once:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -321,7 +316,6 @@ His albums also spread across multiple sounds at once:
 This variety increases the odds that different songs will find different audiences. One listener may replay the emotional tracks, another the gym songs, another the TikTok snippets. Together, those streams pile up across the whole album.
 
 That is why Drake’s albums can dominate even when critics argue they are inconsistent. The streaming system rewards breadth and replay value as much as classic album cohesion.
-
 
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599-Illustration-2-dark.svg" | relative_url }}" alt="Album Floods illustration 2" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Records That Made People Debate the Charts
@@ -340,7 +334,6 @@ The Beatles, Michael Jackson or early 2000s stars operated in eras where listene
 
 That makes raw chart totals difficult to compare directly across eras. A superstar today can place dozens of songs on the chart in one week because every stream counts immediately.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rHvCUW1LD_8" title="How Many Streams is Sale to go Gold and Platinum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rHvCUW1LD_8" target="_blank" rel="noopener noreferrer">How Many Streams is Sale to go Gold and Platinum</a></p><p class="youtube-embed-meta">Channel: SMARTMUSICBUSINESS - Chris Greenwood &middot; Views: 4.1K &middot; Uploaded: April 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rHvCUW1LD_8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rHvCUW1LD_8">Open on YouTube</a></p></div></div></div>
 
 ### Long albums may inflate statistics
@@ -356,7 +349,6 @@ Because streaming reacts instantly to hype, release-week excitement can temporar
 That means an album cut can technically become a “chart hit” without having the long-term cultural impact of older blockbuster singles.
 
 Still, defenders of the streaming era argue that the charts are simply measuring modern listening honestly. If millions of people really are playing Drake songs all weekend, then the charts are reflecting reality rather than inventing success.
-
 
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599-Illustration-3-dark.svg" | relative_url }}" alt="Album Floods illustration 3" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_chart_streamin_12caba_drake_album_chart_fl_d37599-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Strategy Keeps Working
@@ -488,11 +480,11 @@ The result is one of the defining images of streaming-era music: a Drake album r
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scorpion by Drake (Record, 2018)"><img src="https://i.ebayimg.com/images/g/jZwAAeSw3GdpyAUI/s-l225.jpg" alt="Listing image for Scorpion by Drake (Record, 2018)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake : Views Vinyl***NEW*** Value Guaranteed from eBay’s biggest seller!"><img src="https://i.ebayimg.com/images/g/MiYAAOSwFzVh~rFy/s-l225.jpg" alt="Listing image for Drake : Views Vinyl***NEW*** Value Guaranteed from eBay’s biggest seller!" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Scorpion by Drake (Record, 2018)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Drake : Views Vinyl***NEW*** Value Guaranteed from eBay’s biggest seller!</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake vinyl record">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake vinyl record</a>
         <div class="fr-book-actions">
@@ -504,11 +496,11 @@ The result is one of the defining images of streaming-era music: a Drake album r
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake &#x27;Take Care&#x27; Double Vinyl LP Album"><img src="https://i.ebayimg.com/images/g/mXgAAeSwICVqFrwD/s-l225.jpg" alt="Listing image for Drake &#x27;Take Care&#x27; Double Vinyl LP Album" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake : Scorpion Vinyl***NEW*** Value Guaranteed from eBay’s biggest seller!"><img src="https://i.ebayimg.com/images/g/eckAAOSwsAth~tg5/s-l225.jpg" alt="Listing image for Drake : Scorpion Vinyl***NEW*** Value Guaranteed from eBay’s biggest seller!" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Drake &#x27;Take Care&#x27; Double Vinyl LP Album</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Drake : Scorpion Vinyl***NEW*** Value Guaranteed from eBay’s biggest seller!</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake vinyl record">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake vinyl record</a>
         <div class="fr-book-actions">
@@ -520,11 +512,11 @@ The result is one of the defining images of streaming-era music: a Drake album r
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nick Drake - Pink Moon [VINYL]. Reissue. New"><img src="https://i.ebayimg.com/images/g/lpwAAeSwHNFqFGbj/s-l225.jpg" alt="Listing image for Nick Drake - Pink Moon [VINYL]. Reissue. New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for What a Time to Be Alive [Lp] by Drake / Future (Record, 2016)"><img src="https://i.ebayimg.com/images/g/9mMAAeSwlMZqII4Y/s-l225.jpg" alt="Listing image for What a Time to Be Alive [Lp] by Drake / Future (Record, 2016)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Nick Drake - Pink Moon [VINYL]. Reissue. New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">What a Time to Be Alive [Lp] by Drake / Future (Record, 2016)</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake vinyl record">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake vinyl record</a>
         <div class="fr-book-actions">
@@ -536,11 +528,11 @@ The result is one of the defining images of streaming-era music: a Drake album r
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake take care vinyl black pressing 2 LP"><img src="https://i.ebayimg.com/images/g/ZpIAAeSwCbZqFuMj/s-l225.jpg" alt="Listing image for Drake take care vinyl black pressing 2 LP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake Vinyl (2XLP) (NEW, SEALED)"><img src="https://i.ebayimg.com/images/g/zzgAAeSww7FpxCpJ/s-l225.jpg" alt="Listing image for Drake Vinyl (2XLP) (NEW, SEALED)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Drake take care vinyl black pressing 2 LP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Drake Vinyl (2XLP) (NEW, SEALED)</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-drake-albums-chart-all-at-once-drake-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake vinyl record" data-ebay-reference="why-do-drake-albums-chart-all-at-once-drake-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake vinyl record">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake vinyl record</a>
         <div class="fr-book-actions">

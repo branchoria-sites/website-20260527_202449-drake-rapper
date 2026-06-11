@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /albums/
 nav_short_title: Take Care
 title: Why Fans Still Pick Take Care
-title_full: Why Fans Still Pick Take Care | Albums
+title_full: Why Fans Still Pick Take Care
 display_title_short: Take Care
 display_title: Take Care
 heading_title: Why Fans Still Pick Take Care
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-27 20:23:51'
-parent_title: Which Drake Era Is Actually the Best? | Drake
+parent_title: Which Drake Era Is Actually the Best?
 parent_permalink: /albums/
 parent_nav_short_title: Albums
 parent_heading_title: Which Drake Era Is Actually the Best?
@@ -252,10 +252,8 @@ image: /assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care
 
 For a huge part of Drake’s fanbase, *Take Care* is not just his best album. It is the version of Drake that felt the most complete. Released in 2011, the album arrived at the exact moment when his emotional writing, late-night production style and growing superstar confidence finally connected into one identity. More than a decade later, fans still return to it when arguing about “peak Drake” because it balances vulnerability, rap skill and atmosphere better than almost any other project in his catalogue. Critics at the time praised its emotional depth and subtle production, while newer listeners still discover songs that feel strangely modern even today. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/reviews/albums/16039-take-care/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Take Care Album Review</span><span class="citation-popover-snippet">Take Care Album Review - Drake14 Nov 2011 — This is sensuous music that breathes heavy somewhere between UGK&#x27;s deep funk, quiet...</span></span></span>
 
-
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab-Illustration-1-dark.svg" | relative_url }}" alt="Take Care illustration 1" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Part of the reason the era still matters is that *Take Care* shaped what mainstream melodic rap and moody R&B-infused hip-hop would sound like throughout the 2010s. The album did not just produce hits. It created a feeling: lonely luxury, emotional oversharing, dark rooms, text-message arguments and fame mixed with insecurity. Even people who no longer consider themselves Drake fans often admit that this was the era where his music felt most human.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/COs-ftjcCTA" title="Take Care Was 2011’s Most Iconic Album. Here’s Why" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=COs-ftjcCTA" target="_blank" rel="noopener noreferrer">Take Care Was 2011’s Most Iconic Album. Here’s Why</a></p><p class="youtube-embed-meta">Channel: Elsie not Elise &middot; Views: 8.7K &middot; Uploaded: April 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=COs-ftjcCTA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=COs-ftjcCTA">Open on YouTube</a></p></div></div></div>
 
@@ -269,7 +267,6 @@ The album also benefited from a perfect set of collaborators. The Weeknd’s inf
 
 What makes the production age well is that it rarely sounds desperate for chart success. Even the bigger records feel restrained. “Headlines” and “The Motto” became huge hits, but they still fit the album’s moody world instead of sounding pasted in from another project. That cohesiveness is one reason fans continue to describe *Take Care* as Drake’s most “album-like” release rather than simply a playlist of singles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/hiphopheads/comments/3oj7ff/discussion_what_makes_drakes_take_care_such_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">That being said that&#x27;s what all of his ALBUMS lack, and even Take</span><span class="citation-popover-snippet">Reddit[DISCUSSION] What makes Drake&#x27;s &quot;Take Care&quot; such a...October 13, 2015 — Take care is his best album out of his catalog because of...</span><span class="citation-popover-meta">Published: October 13, 2015</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kPSNFd_Y8Dc" title="Drake - Take Care Album Review | DEHH" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kPSNFd_Y8Dc" target="_blank" rel="noopener noreferrer">Drake - Take Care Album Review | DEHH</a></p><p class="youtube-embed-meta">Channel: Dead End Hip Hop &middot; Views: 175.4K &middot; Uploaded: November 2011 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kPSNFd_Y8Dc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kPSNFd_Y8Dc">Open on YouTube</a></p></div></div></div>
 
 ## The songs that balanced sadness and status
@@ -277,7 +274,6 @@ What makes the production age well is that it rarely sounds desperate for chart 
 One reason fans keep choosing *Take Care* over later Drake albums is that it captures the exact point where he was becoming a superstar but still sounded emotionally uncertain. Later projects often leaned heavily into either luxury and dominance or bitterness and detachment. *Take Care* sits in the middle.
 
 That tension is everywhere across the album:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -293,7 +289,6 @@ This era also gave fans what many still consider the ideal version of Drake’s 
 
 Importantly, the album still had ambition and hunger. Drake had already become famous, but he had not yet settled into the image of permanent cultural dominance that would define the *Views* and *Scorpion* years. Fans often describe *Take Care* as the last era where he sounded like he still had something to prove.
 
-
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab-Illustration-2-dark.svg" | relative_url }}" alt="Take Care illustration 2" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the album still wins fan debates
 
@@ -307,7 +302,6 @@ Another reason the era survives is replay value. Even critics and listeners who 
 
 The nostalgia factor matters too, especially for listeners who grew up in the early 2010s. *Take Care* became the soundtrack for late-night Tumblr posts, Blackberry messages, dorm-room speakers and emotional social-media captions. The album helped define internet-era sadness before that aesthetic became completely normal online. That emotional memory is difficult for later Drake eras to compete with.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CxT49-YpUNc" title="Drake- Take Care ALBUM REVIEW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CxT49-YpUNc" target="_blank" rel="noopener noreferrer">Drake- Take Care ALBUM REVIEW</a></p><p class="youtube-embed-meta">Channel: theneedledrop &middot; Views: 624.4K &middot; Uploaded: November 2011 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CxT49-YpUNc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CxT49-YpUNc">Open on YouTube</a></p></div></div></div>
 
 ## Why the era changed Drake’s legacy
@@ -319,7 +313,6 @@ After *Take Care*, emotional transparency became commercially valuable in a diff
 Critics still place the album high on major rap lists because it captured a moment where Drake’s style felt innovative rather than overly familiar. Pitchfork later described the album as “moody and unfiltered”, highlighting how central the emotional atmosphere remains to its reputation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/features/lists-and-guides/best-rap-albums-all-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">best rap albums all time</span><span class="citation-popover-snippet">The 100 Best Rap Albums of All TimeSep 30, 2025 — Drake: Take Care (2011). Almost all of Drake&#x27;s dreams came true... It&#x27;s moody...</span></span></span>
 
 Even people who think Drake later became repetitive often separate *Take Care* from the rest of his catalogue. The album represents a rare point where popularity, experimentation and emotional specificity all lined up at once. That is why so many fans still treat the era as the definitive answer to the question of peak Drake.
-
 
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab-Illustration-3-dark.svg" | relative_url }}" alt="Take Care illustration 3" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_take_care_best_era_1c57ab-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -440,6 +433,38 @@ Even people who think Drake later became repetitive often separate *Take Care* f
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake - Take Care (Virgin EMI Records) 2LP Vinyl 12&quot; Album"><img src="https://i.ebayimg.com/images/g/HkAAAeSw2-NqGkjA/s-l225.jpg" alt="Listing image for Drake - Take Care (Virgin EMI Records) 2LP Vinyl 12&quot; Album" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" target="_blank" rel="sponsored noopener noreferrer">Drake - Take Care (Virgin EMI Records) 2LP Vinyl 12&quot; Album</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake Take Care vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake Take Care vinyl</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake - Take Care [VINYL]"><img src="https://i.ebayimg.com/images/g/xDAAAOSw6ktjD48j/s-l225.jpg" alt="Listing image for Drake - Take Care [VINYL]" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" target="_blank" rel="sponsored noopener noreferrer">Drake - Take Care [VINYL]</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake Take Care vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake Take Care vinyl</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake Take Care 2xLP Vinyl Record Album 2011"><img src="https://i.ebayimg.com/images/g/3tUAAeSweGNqBaVj/s-l225.jpg" alt="Listing image for Drake Take Care 2xLP Vinyl Record Album 2011" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -456,27 +481,11 @@ Even people who think Drake later became repetitive often separate *Take Care* f
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake - Take Care (Virgin EMI Records) 2LP Vinyl 12&quot; Album"><img src="https://i.ebayimg.com/images/g/hpAAAeSwTpVp~meE/s-l225.jpg" alt="Listing image for Drake - Take Care (Virgin EMI Records) 2LP Vinyl 12&quot; Album" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake : Take Care Vinyl 12&quot; Album 2 discs (2016) ***NEW*** Fast and FREE P &amp; P"><img src="https://i.ebayimg.com/images/g/WlAAAOSwLupmWjrr/s-l225.jpg" alt="Listing image for Drake : Take Care Vinyl 12&quot; Album 2 discs (2016) ***NEW*** Fast and FREE P &amp; P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" target="_blank" rel="sponsored noopener noreferrer">Drake - Take Care (Virgin EMI Records) 2LP Vinyl 12&quot; Album</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake Take Care vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake Take Care vinyl</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake Take Care 2xLP Vinyl Record Album"><img src="https://i.ebayimg.com/images/g/YuMAAeSwI3pplKJd/s-l225.jpg" alt="Listing image for Drake Take Care 2xLP Vinyl Record Album" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" target="_blank" rel="sponsored noopener noreferrer">Drake Take Care 2xLP Vinyl Record Album</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" target="_blank" rel="sponsored noopener noreferrer">Drake : Take Care Vinyl 12&quot; Album 2 discs (2016) ***NEW*** Fast and FREE P &amp; P</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Take+Care+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-pick-take-care-drake-take-care-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Take Care vinyl" data-ebay-reference="why-fans-still-pick-take-care-drake-take-care-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake Take Care vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake Take Care vinyl</a>
         <div class="fr-book-actions">
@@ -921,4 +930,4 @@ Even people who think Drake later became repetitive often separate *Take Care* f
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: Drake- Take Care ALBUM REVIEW  
-   Link: <a href="https://www.youtube.com/watch?v=CxT49-YpUNc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CxT49-YpUNc</a>  
+   Link: <a href="https://www.youtube.com/watch?v=CxT49-YpUNc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CxT49-YpUNc</a>

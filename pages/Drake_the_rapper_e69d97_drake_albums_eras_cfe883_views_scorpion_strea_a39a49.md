@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /albums/
 nav_short_title: Streaming Era
 title: Was Streaming Drake His Real Peak?
-title_full: Was Streaming Drake His Real Peak? | Albums
+title_full: Was Streaming Drake His Real Peak?
 display_title_short: Streaming Era
 display_title: Streaming Era
 heading_title: Was Streaming Drake His Real Peak?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-27 20:23:56'
-parent_title: Which Drake Era Is Actually the Best? | Drake
+parent_title: Which Drake Era Is Actually the Best?
 parent_permalink: /albums/
 parent_nav_short_title: Albums
 parent_heading_title: Which Drake Era Is Actually the Best?
@@ -252,12 +252,10 @@ image: /assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_sco
 
 When people argue about Drake’s peak, the conversation usually splits in two directions. One side points to [albums]({{ 'albums/' | relative_url }}) like *[Take Care]({{ 'take-care/' | relative_url }})* or *If You’re Reading This It’s Too Late* and says that was the best version of Drake artistically. The other side points to *Views* and *Scorpion* and says nobody in modern music controlled streaming culture like he did in the late 2010s.
 
-
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_scorpion_strea_a39a49-Illustration-1-dark.svg" | relative_url }}" alt="Streaming Era illustration 1" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_scorpion_strea_a39a49-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_scorpion_strea_a39a49-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That is what made the *Views* and *Scorpion* era so important. Drake stopped being just a superstar rapper and became something bigger: a streaming platform giant whose albums seemed designed to dominate playlists, [charts]({{ 'charts/' | relative_url }}), memes and online conversation all at once. The numbers were historic, but the backlash was loud too. Fans started asking whether Drake was still making albums to be experienced front-to-back or building giant collections of songs engineered for maximum streams.
 
 The strange part is that both ideas can be true at the same time. *Views* and *Scorpion* made Drake commercially untouchable while also creating the biggest debates about his music quality.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DjtnFoSG-zc" title="Our Picks From Drake&#x27;s &#x27;Scorpion&#x27; Album | Neighborhood Playlist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DjtnFoSG-zc" target="_blank" rel="noopener noreferrer">Our Picks From Drake&#x27;s &#x27;Scorpion&#x27; Album | Neighborhood Playlist</a></p><p class="youtube-embed-meta">Channel: BigBoyTV &middot; Views: 10.4K &middot; Uploaded: July 2018 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DjtnFoSG-zc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DjtnFoSG-zc">Open on YouTube</a></p></div></div></div>
 
@@ -282,7 +280,6 @@ But this was also where the criticism started to grow.
 At 20 tracks, *Views* was longer than many fans expected. Critics and listeners argued that the album felt padded, with weaker songs included because streaming rewarded length. Every extra track meant more possible plays, more playlist placements and more chart activity. Even people who liked the album sometimes admitted it felt inconsistent compared with tighter Drake projects from earlier in his career. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/drake-iceman-habibti-maid-of-honour-albums-chart-records-reviews-2026-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">This bold move, characterized by sheer volume over artistic evolution, highlights Drake&#x27;s savvy business mindset. The albums, though comm...</span></span></span>
 
 That argument would follow Drake for years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/modern-music-analysis/scorpion-still-stings-31d33d8723c4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Scorpion by Drake &#124; Album Review &#124; Modern Music AnalysisDrake says the women has suddenly started acting out and they even get into a bra...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_U0dGWBHyY" title="Drake - Views ALBUM REVIEW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_U0dGWBHyY" target="_blank" rel="noopener noreferrer">Drake - Views ALBUM REVIEW</a></p><p class="youtube-embed-meta">Channel: theneedledrop &middot; Views: 1.7M &middot; Uploaded: May 2016 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_U0dGWBHyY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_U0dGWBHyY">Open on YouTube</a></p></div></div></div>
 
@@ -310,7 +307,6 @@ Some fans defended the approach by arguing that Drake’s versatility was the po
 
 Others felt the streaming logic weakened Drake’s best instincts as an artist. Earlier projects often had tighter emotional focus. *Scorpion*, by contrast, could feel more like a constantly refreshing playlist feed.
 
-
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_scorpion_strea_a39a49-Illustration-2-dark.svg" | relative_url }}" alt="Streaming Era illustration 2" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_scorpion_strea_a39a49-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_scorpion_strea_a39a49-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The moment Drake stopped chasing approval
 
@@ -325,7 +321,6 @@ Drake did not invent every part of that system, but he became its clearest super
 The effect reached beyond hip-hop. Pop stars increasingly structured releases around streaming behaviour: longer tracklists, more moods, faster follow-up drops and songs designed to spread through social platforms. Drake’s albums felt almost perfectly adapted for that environment because his music could work in so many settings at once.
 
 At the same time, the “playlist music” criticism became attached to his reputation in a way that never fully disappeared. Even years later, reviews of newer Drake releases still compare them to the sprawling structure of *Views* and *Scorpion*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/drake-iceman-habibti-maid-of-honour-albums-chart-records-reviews-2026-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">This bold move, characterized by sheer volume over artistic evolution, highlights Drake&#x27;s savvy business mindset. The albums, though comm...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GZ49VTTAiTI" title="Drake Sells Over 1.075 Million First Week with &quot;VIEWS&quot; with Record Streaming #&#x27;s on Apple Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GZ49VTTAiTI" target="_blank" rel="noopener noreferrer">Drake Sells Over 1.075 Million First Week with &quot;VIEWS&quot; with Record Streaming #&#x27;s on Apple Music</a></p><p class="youtube-embed-meta">Channel: DJ Akademiks &middot; Views: 348.3K &middot; Uploaded: May 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GZ49VTTAiTI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GZ49VTTAiTI">Open on YouTube</a></p></div></div></div>
 
@@ -342,7 +337,6 @@ That tension explains why the era remains fascinating. *Views* and *Scorpion* ca
 Drake mastered that system better than almost anyone. The trade-off was that some listeners began to feel they were hearing the world’s smartest streaming superstar instead of the emotionally sharp rapper who originally made them care.
 
 In other words, *Views* and *Scorpion* may not have ended the argument over Drake’s best era. They created an entirely new kind of argument about what “greatness” even means in the streaming age.
-
 
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_scorpion_strea_a39a49-Illustration-3-dark.svg" | relative_url }}" alt="Streaming Era illustration 3" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_scorpion_strea_a39a49-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883_views_scorpion_strea_a39a49-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -463,6 +457,38 @@ In other words, *Views* and *Scorpion* may not have ended the argument over Drak
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Views - Drake Vinyl"><img src="https://i.ebayimg.com/images/g/3S4AAeSwnxZqA9DH/s-l225.jpg" alt="Listing image for Views - Drake Vinyl" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" target="_blank" rel="sponsored noopener noreferrer">Views - Drake Vinyl</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake Views vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake Views vinyl</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DRAKE - Views - Vinyl (gatefold 2xLP)"><img src="https://i.ebayimg.com/images/g/svQAAeSwU7hqKUF5/s-l225.jpg" alt="Listing image for DRAKE - Views - Vinyl (gatefold 2xLP)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" target="_blank" rel="sponsored noopener noreferrer">DRAKE - Views - Vinyl (gatefold 2xLP)</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake Views vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake Views vinyl</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake - Views [VINYL]"><img src="https://i.ebayimg.com/images/g/~XAAAOSwII9fdd7M/s-l225.jpg" alt="Listing image for Drake - Views [VINYL]" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -479,27 +505,11 @@ In other words, *Views* and *Scorpion* may not have ended the argument over Drak
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake Views (Vinyl) 12&quot; Album"><img src="https://i.ebayimg.com/images/g/-18AAeSwnflqE4hQ/s-l225.jpg" alt="Listing image for Drake Views (Vinyl) 12&quot; Album" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake &#x27;Views&#x27; Double Vinyl LP Record"><img src="https://i.ebayimg.com/images/g/pd8AAeSwkXBqEtmV/s-l225.jpg" alt="Listing image for Drake &#x27;Views&#x27; Double Vinyl LP Record" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" target="_blank" rel="sponsored noopener noreferrer">Drake Views (Vinyl) 12&quot; Album</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake Views vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake Views vinyl</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake : Views Vinyl***NEW*** Value Guaranteed from eBay’s biggest seller!"><img src="https://i.ebayimg.com/images/g/MiYAAOSwFzVh~rFy/s-l225.jpg" alt="Listing image for Drake : Views Vinyl***NEW*** Value Guaranteed from eBay’s biggest seller!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" target="_blank" rel="sponsored noopener noreferrer">Drake : Views Vinyl***NEW*** Value Guaranteed from eBay’s biggest seller!</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" target="_blank" rel="sponsored noopener noreferrer">Drake &#x27;Views&#x27; Double Vinyl LP Record</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+Views+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-streaming-drake-his-real-peak-drake-views-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake Views vinyl" data-ebay-reference="was-streaming-drake-his-real-peak-drake-views-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake Views vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake Views vinyl</a>
         <div class="fr-book-actions">
@@ -935,4 +945,4 @@ In other words, *Views* and *Scorpion* may not have ended the argument over Drak
    Title: Drake's 'VIEWS' Eyes 1 Million First Week Sales  
    Link: <a href="https://thatgrapejuice.net/2016/05/drakes-views-eyes-1-million-first-week-sales/" target="_blank" rel="noopener noreferrer nofollow">https://thatgrapejuice.net/2016/05/drakes-views-eyes-1-million-first-week-sales/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 2, 2016 — The MC is now set for a 1 million US sales debut – a number which rises to 1.2 million when factoring in streaming from App...</p></details>
-   Published: May 2, 2016  
+   Published: May 2, 2016

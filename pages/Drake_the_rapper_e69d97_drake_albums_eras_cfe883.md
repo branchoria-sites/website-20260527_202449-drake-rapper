@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /drake-the-rapper/
 nav_short_title: Albums
 title: Which Drake Era Is Actually the Best?
-title_full: Which Drake Era Is Actually the Best? | Drake
+title_full: Which Drake Era Is Actually the Best?
 display_title_short: Albums
 display_title: Albums
 heading_title: Which Drake Era Is Actually the Best?
@@ -252,7 +252,6 @@ image: /assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883-Illustrat
 
 Trying to decide Drake’s best era is basically arguing about what version of Drake mattered most to you. Some fans want the emotional late-night music of *[Take Care]({{ 'take-care/' | relative_url }})*. Others prefer the hungry rapper from *If You’re Reading This It’s Too Late*. Another group thinks the global-pop domination of *Views* and *Scorpion* is the real peak because nobody else controlled streaming and radio the same way.
 
-
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883-Illustration-1-dark.svg" | relative_url }}" alt="Albums illustration 1" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The important thing is that Drake’s career works in eras, not just albums. Every few years, his sound, attitude and public image shifted. Early Drake sounded vulnerable and ambitious. Mid-2010s Drake became colder, sharper and more competitive. Later Drake turned into a streaming-era giant making dance hits, meme records and huge playlist albums that divided critics but dominated culture. Even fans who disagree about his best album usually agree on one thing: each era feels different.
 
@@ -276,7 +275,6 @@ Critics praised the album’s subtle sound and emotional depth. Pitchfork descri
 
 This era also matters because it expanded Drake’s universe:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The Weeknd’s influence on the dark atmosphere became legendary.
@@ -296,7 +294,6 @@ The emotional side was still there, but it became colder and more controlled. So
 A lot of long-time fans argue this is actually his strongest rap album because it trims some of the emotional messiness of *Take Care* while keeping the atmosphere and songwriting. The production sounded cleaner, the bars were tighter and Drake seemed fully in command of his identity.
 
 If *Take Care* is the emotional classic, *Nothing Was the Same* is often treated as the polished “I made it” version of that formula.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CxT49-YpUNc" title="Drake- Take Care ALBUM REVIEW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CxT49-YpUNc" target="_blank" rel="noopener noreferrer">Drake- Take Care ALBUM REVIEW</a></p><p class="youtube-embed-meta">Channel: theneedledrop &middot; Views: 624.4K &middot; Uploaded: November 2011 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CxT49-YpUNc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CxT49-YpUNc">Open on YouTube</a></p></div></div></div>
 
@@ -320,7 +317,6 @@ Whether people thought the accusations mattered or not, Drake clearly won the pu
 
 That confidence shaped the next stage of his career. From here on, Drake increasingly acted less like an outsider seeking approval and more like a superstar controlling the conversation.
 
-
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883-Illustration-2-dark.svg" | relative_url }}" alt="Albums illustration 2" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The global hits and split reactions
 
@@ -340,7 +336,6 @@ By the time *Scorpion* arrived in 2018, Drake had become almost impossible to es
 
 The project included giant singles:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * “God’s Plan”
@@ -356,7 +351,6 @@ This is probably the clearest example of the “greatest versus best” debate i
 
 The era also became tied to the Pusha T feud and the revelation about Drake’s son, which pushed personal drama directly into the music narrative. *Scorpion* sounded like an artist trying to remain untouchable while also reacting to public pressure in real time.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0YPMV6iTy-U" title="Drake - So Far Gone MIXTAPE REVIEW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0YPMV6iTy-U" target="_blank" rel="noopener noreferrer">Drake - So Far Gone MIXTAPE REVIEW</a></p><p class="youtube-embed-meta">Channel: theneedledrop &middot; Views: 406.7K &middot; Uploaded: February 2019 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0YPMV6iTy-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0YPMV6iTy-U">Open on YouTube</a></p></div></div></div>
 
 ### Why later Drake became more controversial
@@ -364,7 +358,6 @@ The era also became tied to the Pusha T feud and the revelation about Drake’s 
 Albums such as *Certified Lover Boy*, *Honestly, Nevermind* and *For All the Dogs* continued Drake’s dominance, but they also deepened debates about repetition, oversaturation and artistic focus.
 
 Some fans love the later era because Drake experiments more freely:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -379,7 +372,6 @@ Some fans love the later era because Drake experiments more freely:
 Others feel the later albums lack the emotional sharpness and discipline of his earlier classics.
 
 That disagreement is now part of Drake’s identity. Earlier in his career, the debate was whether he belonged at the top of rap. Later, the debate became whether he could still surprise listeners after becoming the default soundtrack of the [streaming era]({{ 'streaming-era/' | relative_url }}).
-
 
 <img src="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883-Illustration-3-dark.svg" | relative_url }}" alt="Albums illustration 3" data-theme-src-dark="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Drake_the_rapper_e69d97_drake_albums_eras_cfe883-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## So which Drake era is actually the best?
@@ -406,9 +398,7 @@ The reason Drake’s catalogue stays so debated is that every era reflects a dif
 
 That is why fans keep revisiting these albums. They are not just different projects; they are different answers to what Drake was trying to become.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s_IATuze-R0" title="Successful" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s_IATuze-R0" target="_blank" rel="noopener noreferrer">Successful</a></p><p class="youtube-embed-meta">Channel: Drake - Topic &middot; Views: 24.1M &middot; Uploaded: February 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s_IATuze-R0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s_IATuze-R0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -527,15 +517,15 @@ That is why fans keep revisiting these albums. They are not just different proje
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake, Nothing Was The Same, Album Art Poster, Print, Music, Tracklist"><img src="{{ '/assets/images/marketplace-covers/94c5df1e1503184379cc.jpg' | relative_url }}" alt="Listing image for Drake, Nothing Was The Same, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-drake-era-is-actually-the-best-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="which-drake-era-is-actually-the-best-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="https://i.ebayimg.com/images/g/swgAAeSwKGlpfMiY/s-l225.jpg" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Drake, Nothing Was The Same, Album Art Poster, Print, Music, Tracklist</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-drake-era-is-actually-the-best-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="which-drake-era-is-actually-the-best-drake-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-drake-era-is-actually-the-best-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="which-drake-era-is-actually-the-best-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-drake-era-is-actually-the-best-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="which-drake-era-is-actually-the-best-drake-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,15 +533,15 @@ That is why fans keep revisiting these albums. They are not just different proje
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DRAKE - Take Care | Music Album Cover Print Poster | A4, A3, A2 &amp; A1"><img src="{{ '/assets/images/marketplace-covers/76093d01979df82af7ee.jpg' | relative_url }}" alt="Listing image for DRAKE - Take Care | Music Album Cover Print Poster | A4, A3, A2 &amp; A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-drake-era-is-actually-the-best-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="which-drake-era-is-actually-the-best-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake Take Care Album A4 Framed Print Poster With Frame"><img src="https://i.ebayimg.com/images/g/7LUAAeSwBexpGiLs/s-l225.jpg" alt="Listing image for Drake Take Care Album A4 Framed Print Poster With Frame" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">DRAKE - Take Care | Music Album Cover Print Poster | A4, A3, A2 &amp; A1</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-drake-era-is-actually-the-best-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="which-drake-era-is-actually-the-best-drake-poster" target="_blank" rel="sponsored noopener noreferrer">Drake Take Care Album A4 Framed Print Poster With Frame</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-drake-era-is-actually-the-best-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="which-drake-era-is-actually-the-best-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-drake-era-is-actually-the-best-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="which-drake-era-is-actually-the-best-drake-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,15 +549,15 @@ That is why fans keep revisiting these albums. They are not just different proje
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake, Views, Album Art Poster, Print, Music, Tracklist"><img src="{{ '/assets/images/marketplace-covers/edb01b263c6d9933d53b.jpg' | relative_url }}" alt="Listing image for Drake, Views, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-drake-era-is-actually-the-best-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="which-drake-era-is-actually-the-best-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake, Scorpion, Album Art Poster, Print, Music, Tracklist"><img src="https://i.ebayimg.com/images/g/opkAAeSwA8Zo8OH-/s-l225.jpg" alt="Listing image for Drake, Scorpion, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Drake, Views, Album Art Poster, Print, Music, Tracklist</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-drake-era-is-actually-the-best-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="which-drake-era-is-actually-the-best-drake-poster" target="_blank" rel="sponsored noopener noreferrer">Drake, Scorpion, Album Art Poster, Print, Music, Tracklist</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-drake-era-is-actually-the-best-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="which-drake-era-is-actually-the-best-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-drake-era-is-actually-the-best-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="which-drake-era-is-actually-the-best-drake-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,15 +565,15 @@ That is why fans keep revisiting these albums. They are not just different proje
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake, Take Care, Album Art Poster, Print, Music, Tracklist"><img src="{{ '/assets/images/marketplace-covers/4a3e70420ba4f18af097.jpg' | relative_url }}" alt="Listing image for Drake, Take Care, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-drake-era-is-actually-the-best-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="which-drake-era-is-actually-the-best-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake album posters music collection wall art prints home décor gift A2 A3 A4"><img src="https://i.ebayimg.com/images/g/UuQAAeSwj4lqJT3g/s-l225.jpg" alt="Listing image for Drake album posters music collection wall art prints home décor gift A2 A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Drake, Take Care, Album Art Poster, Print, Music, Tracklist</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-drake-era-is-actually-the-best-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="which-drake-era-is-actually-the-best-drake-poster" target="_blank" rel="sponsored noopener noreferrer">Drake album posters music collection wall art prints home décor gift A2 A3 A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-drake-era-is-actually-the-best-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="which-drake-era-is-actually-the-best-drake-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Drake poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Drake poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-drake-era-is-actually-the-best-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="which-drake-era-is-actually-the-best-drake-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -591,7 +581,7 @@ That is why fans keep revisiting these albums. They are not just different proje
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster -book -books" data-ebay-reference="albums-which-drake-era-is-actually-the-best-drake-the-rapper-drake-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Drake+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-drake-era-is-actually-the-best-drake-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Drake poster" data-ebay-reference="which-drake-era-is-actually-the-best-drake-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
