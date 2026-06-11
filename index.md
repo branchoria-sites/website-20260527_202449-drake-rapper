@@ -166,10 +166,6 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-header:
-  og_image: /assets/images/Drake_the_rapper_e69d97-overview-social.jpg
-  preview_image: /assets/images/Drake_the_rapper_e69d97-overview-social.jpg
-image: /assets/images/Drake_the_rapper_e69d97-overview-social.jpg
 site_image_description: Drake on a night-lit stage with a microphone, a Toronto skyline silhouette behind him and fans holding phones in the foreground.
 ---
 
