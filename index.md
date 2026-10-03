@@ -360,5 +360,92 @@ site_image_description: Drake on a night-lit stage with a microphone, a Toronto 
     </section>
 
   </div>
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="homepage-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="homepage-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">The books behind the reports on this site — how the hit machine works, how streaming rewired the business, and what the Drake era says about modern fame. Each report carries picks tied to its own subject.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+          <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x1KNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Song Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+          <div class="fr-book-info">
+            <h4 class="fr-book-title">
+              <a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song Machine">The Song Machine</a>
+            </h4>
+            <p class="fr-book-author">By John Seabrook</p>
+        
+            <p class="fr-book-desc">Explains how modern songs are shaped for memorability, radio and repeat listening.</p>
+            <div class="fr-book-actions">
+              <a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+              </a>
+            </div>
+          </div>
+        </article>
+
+    <article class="fr-book-card">
+          <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+          <div class="fr-book-info">
+            <h4 class="fr-book-title">
+              <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
+            </h4>
+            <p class="fr-book-author">By Stephen Witt</p>
+        
+            <p class="fr-book-desc">Gives context for why replay behaviour became central to music success.</p>
+            <div class="fr-book-actions">
+              <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+              </a>
+            </div>
+          </div>
+        </article>
+
+    <article class="fr-book-card">
+          <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rap+Year+Book+by+Shea+Serrano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rap Year Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2N67CgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Rap Year Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+          <div class="fr-book-info">
+            <h4 class="fr-book-title">
+              <a href="https://www.amazon.com/s?k=The+Rap+Year+Book+by+Shea+Serrano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rap Year Book">The Rap Year Book</a>
+            </h4>
+            <p class="fr-book-author">By Shea Serrano</p>
+        
+            <p class="fr-book-desc">Keeps the recommendation lane anchored in rap fandom and song debate.</p>
+            <div class="fr-book-actions">
+              <a href="https://www.amazon.com/s?k=The+Rap+Year+Book+by+Shea+Serrano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+              </a>
+            </div>
+          </div>
+        </article>
+
+    <article class="fr-book-card">
+          <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+is+Your+Brain+on+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This is Your Brain on Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EAKpNAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This is Your Brain on Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+          <div class="fr-book-info">
+            <h4 class="fr-book-title">
+              <a href="https://www.amazon.com/s?k=This+is+Your+Brain+on+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This is Your Brain on Music">This is Your Brain on Music</a>
+            </h4>
+            <p class="fr-book-author">By Daniel J. Levitin</p>
+        
+            <p class="fr-book-desc">Useful for understanding why hooks, mood and familiarity make songs replayable.</p>
+            <div class="fr-book-actions">
+              <a href="https://www.amazon.com/s?k=This+is+Your+Brain+on+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+              </a>
+            </div>
+          </div>
+        </article>
+
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=music+industry+streaming+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=hip+hop+history+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hip-hop history</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=how+music+works+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How music works</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases. <a class="fr-disclosure-link" href="https://branchoria.com/disclosure/">Affiliate &amp; AI Disclosure</a></p>
+    </div>
+  </div>
+</section>
+
 </section>
 
