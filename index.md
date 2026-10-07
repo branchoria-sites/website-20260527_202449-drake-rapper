@@ -173,8 +173,11 @@ site_image_description: Drake on a night-lit stage with a microphone, a Toronto 
 <section class="home-adaptive-home home-adaptive-home--focused-tree" data-home-archetype="focused-tree" data-home-level-1-count="1" data-home-level-1-tier="solo" data-home-top-child-tier="few" data-home-max-breadth="4" data-home-max-depth="2">
 
 <h1 class="home-structure-intro-title">Drake</h1>
-  <section id="home-full-index" class="home-mode-panel is-active home-adaptive-secondary" data-home-mode-panel="vertical" data-home-mode-label="Topic view">
-    <section id="home-vertical-view" class="home-hierarchy-band home-vertical-shell" data-home-vertical-map data-home-vertical-l1-count="2" data-home-vertical-top-count="1">
+  <section id="home-full-index" class="home-mode-panel is-active home-adaptive-secondary" data-home-mode-panel="vertical" data-home-mode-label="Topic view" aria-labelledby="home-vertical-heading">
+    <section id="home-vertical-view" class="home-hierarchy-band home-vertical-shell" data-home-vertical-map data-home-vertical-l1-count="2" data-home-vertical-top-count="1" aria-labelledby="home-vertical-heading">
+      <div class="home-hierarchy-band-head">
+        <h2 class="home-band-heading" id="home-vertical-heading">Topic Tree</h2>
+      </div>
       <div class="home-vertical-actions" role="group" aria-label="Topic view controls">
         <button class="sidebar-tree-btn" type="button" data-home-vertical-expand-all>Expand all</button>
         <button class="sidebar-tree-btn" type="button" data-home-vertical-collapse-all>Collapse all</button>
@@ -335,12 +338,12 @@ site_image_description: Drake on a night-lit stage with a microphone, a Toronto 
     </section>
   </section>
   <div class="home-adaptive-utility home-adaptive-utility--full">
-    <section id="browse-reports" class="home-mode-disclosure home-detailed-catalog home-browse-disclosure home-search-pages-box" data-home-detailed-catalog>
+    <section id="browse-reports" class="home-mode-disclosure home-detailed-catalog home-browse-disclosure home-search-pages-box" data-home-detailed-catalog aria-labelledby="browse-reports-title">
       <div class="home-detailed-catalog-summary home-search-pages-header">
-        <span class="home-mode-disclosure-copy">
-          <span class="home-detailed-catalog-title home-mode-disclosure-title">Search pages</span>
+        <div class="home-mode-disclosure-copy">
+          <h2 class="home-detailed-catalog-title home-mode-disclosure-title" id="browse-reports-title">Search pages</h2>
           <span class="home-detailed-catalog-meta home-mode-disclosure-hint">Search topic, branch, or keyword...</span>
-        </span>
+        </div>
         <span class="home-mode-disclosure-meta">
           <span class="home-mode-disclosure-current-label">Scope</span>
           <span class="home-mode-disclosure-current">7 pages</span>
