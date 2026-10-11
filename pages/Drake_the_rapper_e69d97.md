@@ -250,9 +250,9 @@ For a new fan, the best way in is not necessarily chronological. Start with *Tak
 
 ## Why the numbers are so huge
 
-Drake’s chart success is not a side detail; it is one of the biggest parts of his story. Billboard has repeatedly tracked him as one of the most dominant Hot 100 artists, and in 2026 reported that he charted a record 42 songs on the Hot 100 simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/lists/drake-hot-100-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">Open source on billboard.com.</span></span></span> Billboard’s chart pages also noted that he became the first artist to earn 400 total Hot 100 hits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/[charts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">Open source on billboard.com.</span></span></span> Those records matter because they show how Drake’s career fits streaming: when he releases a major project, huge numbers of tracks can chart at once because fans stream whole albums, not just radio singles.
+Drake’s chart success is not a side detail; it is one of the biggest parts of his story. Billboard has repeatedly tracked him as one of the most dominant Hot 100 artists, and in 2026 reported that he charted a record 42 songs on the Hot 100 simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/lists/drake-hot-100-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">Open source on billboard.com.</span></span></span> Billboard’s chart pages also noted that he became the first artist to earn 400 total Hot 100 hits. <span class="citation-link-wrap">[Billboard]<span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">Open source on billboard.com.</span></span></span> Those records matter because they show how Drake’s career fits streaming: when he releases a major project, huge numbers of tracks can chart at once because fans stream whole albums, not just radio singles.
 
-The Recording Academy lists Drake with 5 Grammy wins and 56 nominations through the 2026 Grammy Awards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grammy.com/search/Drake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grammy.com">[Grammy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grammy.com</span><span class="citation-popover-snippet">Open source on grammy.com.</span></span></span> That is an impressive awards record, though it also shows a tension in his career: he is commercially enormous, but not always treated by institutions as the artistic centre of rap in the way some peers are. Drake has also had a complicated relationship with the Grammys, including public criticism of awards systems and moments when he has withdrawn or declined submissions.
+The Recording Academy lists Drake with 5 Grammy wins and 56 nominations through the 2026 Grammy Awards. <span class="citation-link-wrap">[Grammy]<span class="citation-popover" role="note"><span class="citation-popover-source">grammy.com</span><span class="citation-popover-snippet">Open source on grammy.com.</span></span></span> That is an impressive awards record, though it also shows a tension in his career: he is commercially enormous, but not always treated by institutions as the artistic centre of rap in the way some peers are. Drake has also had a complicated relationship with the Grammys, including public criticism of awards systems and moments when he has withdrawn or declined submissions.
 
 RIAA certifications help explain the scale from another angle. The Recording Industry Association of America’s Gold & Platinum database lists many Drake and Drake-featured certifications across singles and albums, including updated certifications into 2025 and 2026. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/gold-%20platinum/?se=drake&amp;tab_active=default-award" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">Gold &amp; Platinum</span><span class="citation-popover-snippet">Gold &amp; Platinum</span></span></span> For fans, the plain meaning is simple: Drake songs do not just trend for a week. Many of them keep accumulating listens for years.
 
@@ -735,11 +735,11 @@ That tension is exactly why Drake remains worth talking about. He is not just po
 
 8. <a id="endnote-8"></a>
    Source: billboard.com  
-   Link: <a href="https://www.billboard.com/[charts" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/[charts</a>  
+   Link: https://www.billboard.com/[charts  
 
 9. <a id="endnote-9"></a>
    Source: grammy.com  
-   Link: <a href="https://www.grammy.com/search/Drake" target="_blank" rel="noopener noreferrer nofollow">https://www.grammy.com/search/Drake</a>  
+   Link: https://www.grammy.com/search/Drake  
 
 10. <a id="endnote-10"></a>
    Source: riaa.com  
@@ -783,7 +783,7 @@ That tension is exactly why Drake remains worth talking about. He is not just po
 
 19. <a id="endnote-19"></a>
    Source: grammy.com  
-   Link: <a href="https://grammy.com/news/drake-GRAMMYs-nominations-wins-performances-timeline-videos-2024-GRAMMYs" target="_blank" rel="noopener noreferrer nofollow">https://grammy.com/news/drake-GRAMMYs-nominations-wins-performances-timeline-videos-2024-GRAMMYs</a>  
+   Link: https://grammy.com/news/drake-GRAMMYs-nominations-wins-performances-timeline-videos-2024-GRAMMYs  
 
 20. <a id="endnote-20"></a>
    Source: grammy.com  
@@ -791,7 +791,7 @@ That tension is exactly why Drake remains worth talking about. He is not just po
 
 21. <a id="endnote-21"></a>
    Source: grammy.com  
-   Link: <a href="https://grammy.com/artists/Randy-Drake/38047" target="_blank" rel="noopener noreferrer nofollow">https://grammy.com/artists/Randy-Drake/38047</a>  
+   Link: https://grammy.com/artists/Randy-Drake/38047  
 
 22. <a id="endnote-22"></a>
    Source: grammy.com  
