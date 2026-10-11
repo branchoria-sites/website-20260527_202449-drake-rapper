@@ -735,11 +735,9 @@ That tension is exactly why Drake remains worth talking about. He is not just po
 
 8. <a id="endnote-8"></a>
    Source: billboard.com  
-   Link: https://www.billboard.com/[charts  
 
 9. <a id="endnote-9"></a>
    Source: grammy.com  
-   Link: https://www.grammy.com/search/Drake  
 
 10. <a id="endnote-10"></a>
    Source: riaa.com  
@@ -783,7 +781,6 @@ That tension is exactly why Drake remains worth talking about. He is not just po
 
 19. <a id="endnote-19"></a>
    Source: grammy.com  
-   Link: https://grammy.com/news/drake-GRAMMYs-nominations-wins-performances-timeline-videos-2024-GRAMMYs  
 
 20. <a id="endnote-20"></a>
    Source: grammy.com  
@@ -791,7 +788,6 @@ That tension is exactly why Drake remains worth talking about. He is not just po
 
 21. <a id="endnote-21"></a>
    Source: grammy.com  
-   Link: https://grammy.com/artists/Randy-Drake/38047  
 
 22. <a id="endnote-22"></a>
    Source: grammy.com  
